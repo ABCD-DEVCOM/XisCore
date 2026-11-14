@@ -1,8 +1,0 @@
-mfn=     1 
-  1  ?22222222?
-  2  ?15-10-2010?
-  5  ?LIBVRERIA TAMANACO?
- 10  ?^apr^bPurchase?
- 50  ?^^atitulo / autor^b3^c30^d1^e123^gN^hbiblo^i235^f3?
-500  ?Y?
-..
