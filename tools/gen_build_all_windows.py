@@ -135,7 +135,7 @@ if not exist %%OUT%% mkdir %%OUT%%
 echo.
 echo ################ %%1  UTF8=%%U%%  ->  %%OUT%% ################
 REM INCLOADX=1 makes CISIS read uctab=/actab= from the .par (needed for Russian, Greek, Hebrew...); on for UTF-8 only
-set COMMON=-I"%%BCC%%\Include" -DUTF8=%%U%% -DINCLOADX=%%U%% !VFLAGS! -DLIND4=0 -DCIWTF=1 -DINCPROCX=1 -DINCPRECX=1
+set COMMON=-I"%%BCC%%\Include" -DUTF8=%%U%% -DINCLOADX=%%U%% !VFLAGS! -DLIND4=0 -DCIWTF=1 -DINCPROCX=1 -DINCPRECX=1 -a2
 ''' % ' '.join(v[0] for v in VARIANTS))
 w('echo ===== mx =====')
 for l in mx_lines:
@@ -148,7 +148,7 @@ for l in wx_lines:
 w('')
 w('if not "%WITHTOOLS%"=="1" goto onedone')
 w(r'''REM ---- ABCD utilities (platform flags = the ones of mx, format flags = the ones of the BIREME .mak files)
-set PLAT=-DGCC=0 -DPC=1 -DDOS32BITS=1 -DMSC=0 -DUNIX=0 -DUTF8=%U% -DINCLOADX=%U% !VFLAGS! -DLIND4=0 -DWWWISIS=0 -D_FILE_OFFSET_BITS=0 -D_LARGEFILE64_SOURCE=0 -DPCREADLINUX=0
+set PLAT=-DGCC=0 -DPC=1 -DDOS32BITS=1 -DMSC=0 -DUNIX=0 -DUTF8=%U% -DINCLOADX=%U% !VFLAGS! -DLIND4=0 -DWWWISIS=0 -D_FILE_OFFSET_BITS=0 -D_LARGEFILE64_SOURCE=0 -DPCREADLINUX=0 -a2
 set FMT=-DCIWTF=0 -DINCPROCX=0 -DINCPRECX=0 -DEXCFMCGI=1 -DEXCFMXML=1
 set OPT=-I"%BCC%\Include" %PLAT% %FMT%''')
 for t in TOOLS:

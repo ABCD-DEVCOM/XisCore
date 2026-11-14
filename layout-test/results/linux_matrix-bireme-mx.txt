@@ -1,0 +1,63 @@
+abcdbr@WINdows11:/mnt/c/xampp/htdocs/ABCD/www/cgi-bin_Linux/ansi$ ./mx
+CISIS Interface v5.7a/G/PC/W/M/32767/16/60/I - Utility MX
+Copyright (c)BIREME/PAHO 2010. [http://www.bireme.br/products/cisis]
+
+
+binary                             source     database               verdict  detail
+ansi/mx                            Linux      acces                  OK       2 records
+ansi/mx                            Linux      agrovoc                OK       53115 records
+ansi/mx                            Linux      biblo                  OK       236 records
+ansi/mx                            Linux      classrooms             OK       4 records
+ansi/mx                            Linux      copies                 OK       299 records
+ansi/mx                            Linux      xb                     OK       1 records
+ansi/mx                            Linux      dcdspace               EMPTY    no records and no message
+ansi/mx                            Linux      doaj                   OK       10081 records
+ansi/mx                            Linux      dubcore                FATAL    fatal: recread/check/base
+ansi/mx                            Linux      htmlgizmo              FATAL    fatal: recread/check/base
+ansi/mx                            Linux      isadg                  OK       1 records
+ansi/mx                            Linux      loanobjects            OK       300 records
+ansi/mx                            Linux      logtrans               OK       28 records
+ansi/mx                            Linux      marc                   OK       298 records
+ansi/mx                            Linux      providers              OK       2 records
+ansi/mx                            Linux      purchaseorder          OK       1 records
+ansi/mx                            Linux      rda                    OK       20 records
+ansi/mx                            Linux      reserve                OK       1 records
+ansi/mx                            Linux      servers                OK       55 records
+ansi/mx                            Linux      spectrum               OK       10 records
+ansi/mx                            Linux      suggestions            OK       13 records
+ansi/mx                            Linux      suspml                 EMPTY    no records and no message
+ansi/mx                            Linux      trans                  OK       2 records
+ansi/mx                            Linux      unicode                OK       39 records
+ansi/mx                            Linux      unimarc                OK       18 records
+ansi/mx                            Linux      users                  OK       3 records
+ansi/mx                            Windows    acces                  FATAL    fatal: recread/check/base
+ansi/mx                            Windows    agrovoc                FATAL    fatal: recread/check/base
+ansi/mx                            Windows    biblo                  FATAL    fatal: recread/check/base
+ansi/mx                            Windows    htmlgizmo              FATAL    fatal: recread/check/base
+ansi/mx                            Windows    classrooms             FATAL    fatal: recread/check/base
+ansi/mx                            Windows    copies                 FATAL    fatal: recread/check/base
+ansi/mx                            Windows    xb                     FATAL    fatal: recread/check/base
+ansi/mx                            Windows    dcdspace               EMPTY    no records and no message
+ansi/mx                            Windows    doaj                   FATAL    fatal: recread/check/base
+ansi/mx                            Windows    quote                  FATAL    fatal: dbxopen/open
+ansi/mx                            Windows    dubcore                FATAL    fatal: recread/check/base
+ansi/mx                            Windows    htmlgizmo              FATAL    fatal: recread/check/base
+ansi/mx                            Windows    dubcoreiso             FATAL    fatal: recread/check/base
+ansi/mx                            Windows    dubcoreiso             FATAL    fatal: recread/check/base
+ansi/mx                            Windows    isadg                  FATAL    fatal: recread/check/base
+ansi/mx                            Windows    loanobjects            FATAL    fatal: recread/check/base
+ansi/mx                            Windows    logtrans               FATAL    fatal: recread/check/base
+ansi/mx                            Windows    marc                   FATAL    fatal: recread/check/base
+ansi/mx                            Windows    providers              FATAL    fatal: recread/check/base
+ansi/mx                            Windows    purchaseorder          FATAL    fatal: recread/check/base
+ansi/mx                            Windows    rda                    FATAL    fatal: recread/check/base
+ansi/mx                            Windows    reserve                EMPTY    no records and no message
+ansi/mx                            Windows    servers                FATAL    fatal: recread/check/base
+ansi/mx                            Windows    spectrum               FATAL    fatal: recread/check/base
+ansi/mx                            Windows    suggestions            FATAL    fatal: recxref/comp+MSNVSPLT
+ansi/mx                            Windows    suspml                 EMPTY    no records and no message
+ansi/mx                            Windows    trans                  FATAL    fatal: recread/check/base
+ansi/mx                            Windows    xb                     FATAL    fatal: recread/check/base
+ansi/mx                            Windows    unicode                FATAL    fatal: recread/check/base
+ansi/mx                            Windows    unimarc                FATAL    fatal: recread/check/base
+ansi/mx                            Windows    users                  FATAL    fatal: recread/check/base

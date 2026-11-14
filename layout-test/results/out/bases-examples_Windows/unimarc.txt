@@ -1,0 +1,345 @@
+mfn=     1 
+3005  ?n?
+3006  ?a?
+3007  ?m?
+3008  ?0?
+3017  ?#?
+3018  ?#?
+  5  ?201010012121.24?
+100  ?  20100511d1999    m  y0frey03      zz?
+101  ? ^afre?
+200  ?1 ^aLa démocratie au Bénin^bTexte imprimé^e1988-1993^ebilan et perspectives^fPhilippe Noudjènoumè?
+210  ?  ^aParis^cL'harmattan^d1999?
+215  ?^a395 p.^d21 cm?
+225  ? ^aCollection Sociétés africaines & diasporas^fdirigée par Babacar Sall?
+606  ?#^aAyomi?
+700  ? ^aNoudjènoumé^bPhilippe?
+..mfn=     2 
+3005  ?n?
+3006  ?a?
+3007  ?m?
+3008  ?#?
+3017  ?#?
+3018  ?#?
+  5  ?201010012214.04?
+ 10  ?^a2-7384-4138-6?
+100  ?          d        m  y0frey03      ba?
+101  ?  ^afre?
+200  ?  ^aLe Bénin^eles hommes et leur milieu^eguide pratique^fBernard Passot?
+205  ?^a2ème éd.?
+210  ? ^aParis^cL'harmattan^d1996?
+215  ?^a335 p.^ccouv. ill. en coul.^d21 cm?
+300  ?^aIndex?
+700  ?1^aPassot^bBernard?
+..mfn=     3 
+3005  ?n?
+3006  ?a?
+3007  ?m?
+3008  ?#?
+3017  ?#?
+3018  ?#?
+  5  ?201010012214.48?
+100  ?20100927d2007    k  e0frey01  03  ba?
+101  ?0^afre?
+102  ?^aBJ?
+200  ?  ^aEnquête démographique et de santé (EDBS-III)^eBénin^e2006^fInstitut national de la statistique et de l'analyse économique^gavec la coll. du Programme national de lutte contre le Sida, Cotonou, Bénin ^get Macro International InC, Calverton, Maryland, USA?
+210  ?  ^aCalverton^cInstitut national de la statistique et de l'analyse économique ^cMacro Internationasl Inc?
+215  ?^a490 p.^ccouv. ill. en coul.^d28 cm?
+710  ?  ^aBénin. Institut national de la statistique et de l'analyse économique?
+..mfn=     4 
+3005  ?n?
+3006  ?a?
+3007  ?m?
+3008  ?#?
+3017  ?#?
+3018  ?#?
+  5  ?201009291142.48?
+100  ?19980715d1996    m  y0frey01      ba?
+101  ?0^afre?
+200  ?  ^aChemistry^bTexte imprimé^ea modern course^fRobert C. Smoot^gJack Price^gRichard G. Smith?
+210  ?1#^aColombus^cMerrill^d1987?
+215  ?^a664 p.^cill; couv. ill. en coul.^d21 cm?
+700  ?0^aSmoot^bC. Robert?
+701  ?0^aPrice^bJack?
+701  ?0^aSmith^bRichard G.?
+..mfn=     5 
+3005  ?n?
+3006  ?a?
+3007  ?m?
+3008  ?0?
+3017  ?#?
+3018  ?#?
+  5  ?201010070030.26?
+ 10  ?^a978-99919-338-2-5?
+100  ?20100526d2010    m  y0frey01  03  ba?
+101  ?0^afre?
+102  ?^aBJ?
+200  ?0 ^aLa bataille du trône^ethéâtre^fApollinaire Agbazahou?
+205  ?^a2ème éd. rev. et augm. par l'auteur?
+210  ?##^aCotonou^b09 BP 477  Saint Michel, Cotonou, République du Bénin^cPlume Soleil^d2010?
+215  ?^a45 p.^ccouv. ill en coul.^d20 cm?
+..mfn=     6 
+3005  ?n?
+3006  ?a?
+3007  ?m?
+3008  ?1?
+3017  ?#?
+3018  ?#?
+  5  ?201009291143.55?
+ 11  ?#^a567X-9876?
+100  ?20100910d2000    d  y0frey01  50  ba?
+101  ?0^cfre^efre?
+102  ?^aFR?
+200  ?0^aApprendre l'othographe^bTexte imprimé^eCM2^fJ. et J. Guion?
+210  ?1#^aParis^cHatier^d2000^eParis?
+215  ?^a176 p.^cill.; couv. ill en coul.^d21 cm?
+225  ?1^aOrth?
+..mfn=     7 
+3005  ?n?
+3006  ?a?
+3007  ?m?
+3008  ?1?
+3017  ?#?
+3018  ?#?
+  5  ?201009291144.36?
+100  ?20100912d1962    k  y0frey01  01  ba?
+101  ?1^afre^ceng?
+102  ?^aFR?
+200  ?1^aManuel des fontes moulées^bTexte imprimé^dThe gray iron casting handbook^ftrad. et adap. par le Centre d'information des fontes moulées^zeng?
+210  ?1#^aParis^b12, avenue Raphaël -  Paris 6è^cEd. techniques des industries de la fonderie^d1965?
+215  ?^a705 p.^cill.^d22 cm?
+710  ?02^aCentre d'information des fontes moulées?
+..mfn=     8 
+3005  ?c?
+3006  ?a?
+3007  ?a?
+3008  ?#?
+3017  ?1?
+3018  ?#?
+  1  ?FRcdf B-0000001?
+  5  ?201009291145.05?
+ 10  ?^a2-7021-0103-8^bbr.^d38 F?
+100  ?20100918d2010    a  c0frey02  03  ba?
+101  ?0^aakk^baka^cain^darn^earp^fady?
+102  ?^aFR?
+200  ?1 ^aJe craque ...^bTexte imprimé^fGuy Bedos?
+210  ?1#^aParis^cCalmann-Lévy^d1976?
+215  ?^a247 p.^d23 cm?
+600  ?^aBedos^bGuy^f1934-^xBiographie?
+606  ? ^aHumour français?
+676  ?^a847.914 2^v20 a?
+676  ?^a847.009 2^v20 a?
+700  ? ^aBedos^bGuy?
+801  ? ^aFR^bCDF^c19980716?
+..mfn=     9 
+3005  ?n?
+3006  ?a?
+3007  ?m?
+3008  ?#?
+3017  ?#?
+3018  ?#?
+  1  ?FRcdfB-0000002?
+  5  ?201009221856.19?
+ 10  ?^a2-7158-1123-3?
+100  ?19980715d1996    k  y0frey01  03  ba?
+101  ?0^afre?
+102  ?^aFR?
+200  ?  ^aL'affolante histoire de la vache folle^fMartin Hirsch et Philippe Duneton^gavec [la collab. de] Philippe Baralon et Florence Noiville^gpréf. de Bernard Kouchner^gpostf. de MArie-Thérèse Hermange?
+210  ?1#^a[Paris]^cBalland^d1996?
+215  ?^a239 p.^ccouv. ill. en coul.^d22 cm?
+606  ? ^aEncéphalopathie spongiforme bovine?
+606  ?^avache folle^bAffaire de la?
+700  ? ^aHirsch^bMartin?
+701  ? ^aDunetron^bPhilippe?
+702  ? ^aBaralon^bPhilippe?
+702  ? ^aNoiville^bFlorence?
+702  ? ^aKouchner^bBernard^4080?
+702  ? ^aHermange^bMarie-Thérèse?
+801  ? ^aFR^bCDF^c19980715^gAFNOR?
+1101  ?^iabcd^t201009251332^x1285417940?
+..mfn=    10 
+3005  ?n?
+3006  ?a?
+3007  ?m?
+3008  ?#?
+3017  ?1?
+3018  ?i?
+  1  ?FPO9870567-987?
+  5  ?201010012216.38?
+ 11  ?  ^a2068-9756?
+100  ?20100925d2010    k  y0rumy01  03  ba?
+101  ?0^afre?
+102  ?^aRO?
+200  ?1 ^aLucrarile simpozionului international Cartea. Romania. Europa.^bTexte imprimé^eEditia a II-a - 20-24 septembrie 2009^e550 de ani de la prima attestare documentara a orasului Bucuresti^fred. Juileta Rotaru, Biblioteca Metropolitana Bucuresti^gAnca Ivan^gAvant propos [de] Florin Rotaru?
+210  ?##^aBucuresti^cBiliotheca Metropolitana Bucuresti^d2010?
+215  ?^a937 p. ^cill., couv. ill en coul.^d25 cm?
+225  ?1 ^aSimpozionului International Cartea. Romania. Europa^dSymposium international Le Livre. La Roumanie. L'Europe^fBiblioteca Metropolitana Bucuresti^vII^x2668-9756^zfre^zeng?
+300  ?^aActes du deuxième Synposium international "Le Live, la Roumanie, l'Europe" tenu à Bucarest du 20 au 23 septembre 2009 consacré au 550ème anniversiare de la ville de Bucarest?
+308  ?^aLe titre du symposium est encore donné à la collection?
+702  ? ^4450?
+..mfn=    11 
+3005  ?c?
+3006  ?b?
+3007  ?i?
+3008  ?0?
+3017  ?#?
+3018  ?#?
+  1  ?KOM-8976?
+  5  ?201010210036.26?
+ 10  ?^a92-9012-029-0?
+ 21  ?^aFR?
+ 40  ?^a09426-POLK87?
+100  ?20101006d1996    k  y0frey01  03  ba?
+101  ?0 ^afre^ceng?
+102  ?^aFR?
+200  ?1 ^aManuel  de normes^bTexte imprimé^dHandbook of standards^edocumentation des collections africaines?
+210  ?##^a[Paris]^cInternational Council of Museum^dcop. 1996?
+215  ?^cill., couv. ill^d31 cm?
+303  ?^aLe document est publié grâce à l'aide financière de Ministère français de la coopération, du Ministère des affaires étrangères des Pays-Bas, de l'UNESCO et du SIDA?
+711  ?International Consil of Museums?
+..mfn=    12 
+3005  ?c?
+3006  ?l?
+3007  ?m?
+3008  ?#?
+3017  ?#?
+3018  ?#?
+  5  ?201009291147.33?
+100  ?19960507d1994    m    frea01  03  ba?
+101  ?0^afre?
+102  ?^aFR?
+200  ?1 ^aLe Louvre^bRessource multimédia^epeintures et palais^fauteurs, Dominique Brisson, ..., Nathalie Coural, ...^gconception, Dominique Brisson, Emmanuel Olivier, Pierre Raiman^gconception interface, conception graphique et développement, Index +^ggraphisme et animations, Guillaume Dairou, olivier Damiens, Christine Grzybowska, ... [et al]?
+210  ?  ^aParis^cMontparnasse Multimédia^cRéunion des Musées nationaux^d1994?
+215  ?^a1 disque optique numérique (CD-ROM)^cson., coul.^d12 cm^e2?
+230  ?^aMultimédia?
+300  ?^aL'écran d'ouverture porte ausi : "J'imagine le monde", qui est une marque déposée par Montparnasse Multimédia, et qui pourrait devenir le titre d'une collection de CD-ROM?
+304  ?^aTitre provenant de l'écran d'ouverture?
+311  ?^aSite en relation ; Le Louvre : http://mistral.culture.fr/louvre?
+337  ?^aConfiguration requise : PC multimédia et compatible (MPC) 386 SX au minimum; 4 Mo de mémoire vice (8 Mo recommandé); Windows 3.1 ou supérieur; 2,5 Mo disponibles sur le disque dur; carte son; moniteur VGA 256 coul.; lecteur de CD-ROM; souris?
+337  ?^aAutre configuration requise : Macintosh LC III ou supérieur; 3;5 Mo de mémoire vive; Système 1 ou supérieur; écran 256 coul. 13 pouces ou plus; lecteur de CD-ROM?
+..mfn=    13 
+3005  ?n?
+3006  ?a?
+3007  ?m?
+3008  ?#?
+3017  ?#?
+3018  ?#?
+  1  ?FrcdfB-0000039?
+  5  ?201009192328.48?
+ 10  ?^a2-07-074388-8020?
+100  ?19960515d1996    m  y0frey01  03  ba?
+101  ?0^afre?
+102  ?^aFR?
+200  ?1^aLes évangiles et la foi au risque de la psychanalyse ou La vie du désir^fFrançoise Dolto, Gérard Sévérin?
+..mfn=    14 
+3005  ?n?
+3006  ?a?
+3007  ?m?
+3008  ?0?
+3017  ?#?
+3018  ?#?
+  1  ?BPerso987?
+  5  ?201009291146.42?
+ 10  ?^a2-7654-0746-0?
+ 11  ?#^a0184-0886?
+100  ?20100921d1999    k  y0frey01      ba?
+101  ?0^afre?
+102  ?^aFrance?
+200  ?1 ^aUnimarc^bTexte imprimé^emanuel de catalogage^fpar Marie-Renée Cazabon^gavec la part. de Maria Witt^gpréf. de Marcelle Beaudiquez et Marc Chauveinc?
+205  ?^a2è ed. mise à jour et aug.?
+210  ?1#^aParis^b35, rue Grégoire-de-Tours 75600 Paris^cElectre-Editions du Cercle de la Librairie^dcop. 1999?
+215  ?^a444 p.^cill.^d21 cm?
+225  ?1^aBibliothèques^x0184-0886?
+600  ? ^aCazabon^bMarie-Renée?
+600  ?^aWitt^bMaria?
+600  ?^aBeaudiquez^bMarcelle?
+600  ?^aChauveinc^bMarc?
+675  ?^a025.3?
+676  ?^a025?
+700  ?0^aCazabon^bMarie-Renée?
+702  ?0^aBeaudiquez^bMarcelle?
+702  ?0^aChauveinc^bMarc?
+1101  ?^iabcd^t201010202342^x1287614576?
+..mfn=    15 
+3005  ?n?
+3006  ?a?
+3007  ?m?
+3008  ?#?
+3017  ?#?
+3018  ?#?
+  1  ?FRcdfB-0000003?
+  3  ?NoN?
+  5  ?201010210037.50?
+ 10  ?^a2-7351-0734-5?
+100  ?19980720d1997    m  y0  01  03?
+101  ?0^afre?
+102  ?^aFR?
+200  ?  ^aPar écrit^eethnologie des écritures quotidiennes^fMission du patrimoine ethnologique^gsous la dir. de Daniel Fabre^gtextes réunis par Martin de La Soudière et Claudie Voisenat?
+210  ?  ^aParis^bEd. de la Maison des sciences de l'homme^d1997?
+215  ?^aXIII-393 p.^cill., couv. ill. en coul.^d23 cm?
+225  ?0^aCollection Ethnologie de la France^iCahiers^v11^x1150-3769?
+304  ?^aOuvrage issu d'un appel d'offres de la Mission du patrimoine éthnologique (Direction du patrimoine, Ministère de la culture)?
+320  ?^aNotes bibliog.?
+410  ?  ^aAlibert D'Amon^cParis^tIl n'est pas présent ...?
+410  ?  ^aKami Dumour^cNew-York^fNPadis?
+702  ? ^aFabre^bDaniel?
+..mfn=    16 
+3005  ?c?
+3006  ?a?
+3007  ?s?
+3008  ?#?
+3017  ?#?
+3018  ?#?
+  1  ?FRcdfB-0000053?
+  5  ?201011011045.58?
+ 11  ?#^a0395-0670?
+100  ?19981013b19761982m  y0frey01  03  ba?
+101  ?0^afre?
+102  ?^aFR?
+200  ?1^aL'avant-scène^iOpéra?
+210  ?  ^aParis^cAvant-Scène^d1976-1982?
+326  ?^aBimestr. mort?
+440  ?  ^aL'avant-scène^iOpéra, opérette, musique?
+448  ?  ^aL'avant-scène^iCinéma?
+448  ?  ^aL'avant-scène^iBallet danse?
+448  ?  ^aL'avant-scène^iThéatre?
+530  ? ^aL'avant-scène. Opéra^b1976?
+531  ?^aAvant-scène, Opéra^b1976?
+801  ? ^aFR^bCDF^c19981013^gAFNOR?
+802  ?^a7?
+..mfn=    17 
+3005  ?n?
+3006  ?b?
+3007  ?m?
+3008  ?#?
+3017  ?#?
+3018  ?#?
+  1  ?HUJ-987-76?
+  5  ?201010070053.13?
+100  ?20101005d2000    k  y0frey01  03  ba?
+101  ?1^afre^ceng?
+102  ?^aBE?
+200  ?1^aMéthodes de recherche en sciences humaines^bTexte imprimé^fRussel A. Jones^gtrad. et adapt. de la 2ème ed. américaine par Nathalie Burnay et Olivier Servaix; avec la collab. de Florence Vandendorpe?
+210  ?##^aParis^aBruxelles^cDe Boeck & Larcier^d2000?
+215  ?^a331 p.^cill.^d21 cm?
+225  ?1^aMéthodes en Sciences humaines^fdir. par Jean-Marie De Ketele, Jean-Marie Van der MAren et MArie Duru-Bellat?
+300  ?Trad. de Research methods in the social and Behavioral Sciences, second edition by Russel A. Jones?
+..mfn=    18 
+3005  ?n?
+3006  ?a?
+3007  ?m?
+3008  ?#?
+3017  ?#?
+3018  ?#?
+  1  ?OU61R-08Y56?
+  5  ?201010071720.00?
+ 10  ?^a978-99919-341-2-9?
+100  ?20101007d2010    e  y0frey01  02  ba?
+101  ?0^afre?
+102  ?^aBJ?
+200  ?1^aAmour en infraction, [suivi de] Les confessions du PR^bTexte imprimé^ethéâtre^fDaté Atavito Barnabé-Akayi?
+210  ?##^aCotonou^b09 BP 477 Saint Michel, Cotonou, Tél. 00 229 21040935^cEd. Plumes Soleil^d2010?
+215  ?^a62 p.^ccouv. ill. en coul.^d22 cm?
+700  ?0^aBarnabé-Akayi^bDaté Atavito?
+1101  ?^iabcd^t201010312132^x1288557154?
+..

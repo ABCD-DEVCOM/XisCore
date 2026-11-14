@@ -1,0 +1,748 @@
+mfn=     1 
+  1  ?3501?
+  2  ?CHCM_GEO_03501?
+ 10  ?Título com ñ acento ç?
+ 60  ?Mineralogia?
+100  ?Amostra em formato irregular, similar a um fragmento, incolor com fratura cochoidal, e uma das suas faces é opaca branca.?
+230  ?6,0x5,0x3,5?
+250  ?104?
+330  ?s/d?
+400  ?-?
+410  ?SD/04/2015?
+430  ?Recolhimento?
+440  ?Amostra proveniente da coleção do extinto Laboratório de Geologia da Universidade Mackenzie, organizado pelo Prof. Alfred Cownley Slater?
+500  ?Bom?
+510  ?2017-07-18?
+520  ?Limitado?
+600  ?Não?
+630  ?1?
+700  ?Não?
+800  ?RTD E81 P03/ 6B?
+821  ?CHCM_GEO_03501.jpg?
+840  ?Guia para Determinação de Minerais; Minerais e Pedras Preciosas do Brasil?
+870  ?613?
+890  ?^d20260502 04:09:01^oabcd?
+890  ?^d20260502 06:01:32^oabcd?
+890  ?^d20260719 23:45:15^oabcd?
+890  ?^d20260816 22:43:43^oabcd?
+890  ?^d20261107 14:47:40^oabcd?
+891  ?Andrea Oliveira?
+892  ?Isadora da Silva?
+893  ?2017-12-05?
+980  ?^d20260502 04:09:01^oabcd?
+980  ?^d20260502 06:01:32^oabcd?
+980  ?^d20260719 23:45:15^oabcd?
+980  ?^d20260816 22:43:43^oabcd?
+980  ?^d20261107 14:47:40^oabcd?
+..mfn=     2 
+  1  ?3502?
+  2  ?CHCM_GEO_03502?
+ 10  ?[Petalita]?
+ 60  ?Mineralogia?
+100  ?Amostra em formato irregular, sua cor é branca acinzentado com textura fibrosa. Clivagens muito conspicuas e brilho intenso, não ferve HCl.?
+230  ?5,8x5,5x4,0?
+250  ?132?
+330  ?s/d?
+400  ?-?
+410  ?SD/04/2015?
+430  ?Recolhimento?
+440  ?Amostra proveniente da coleção do extinto Laboratório de Geologia da Universidade Mackenzie, organizado pelo Prof. Alfred Cownley Slater?
+500  ?Bom?
+510  ?2017-07-18?
+520  ?Limitado?
+600  ?Não?
+630  ?1?
+700  ?Não?
+720  ?^abarcode_rda.doc?
+800  ?RTD E81 P03/ 6C?
+821  ?CHCM_GEO_03502-3.jpg?
+821  ?CHCM_GEO_03502-2.jpg?
+821  ?CHCM_GEO_03502.jpg?
+840  ?Guia para Determinação de Minerais; Minerais e Pedras Preciosas do Brasil?
+870  ?123?
+890  ?2017-07-18?
+890  ?^d20260502 04:39:27^oabcd?
+890  ?^d20260502 04:42:20^oabcd?
+890  ?^d20260817 00:17:02^oabcd?
+890  ?^d20260817 00:39:00^oabcd?
+891  ?Berenice Assis?
+892  ?Isadora Souza?
+893  ?2017-12-05?
+980  ?^d20260502 04:39:27^oabcd?
+980  ?^d20260502 04:42:20^oabcd?
+980  ?^d20260817 00:17:02^oabcd?
+980  ?^d20260817 00:39:00^oabcd?
+..mfn=     3 
+  1  ?3503?
+  2  ?CHCM_GEO_03503?
+ 10  ?[Amphibolite]?
+ 60  ?Mineralogy?
+100  ?An irregularly shaped specimen in shades of black, brown and grey. It has an intense vitreous lustre with distinct cleavage.?
+230  ?6,0x4,0x2,5?
+250  ?87?
+330  ?s/d?
+400  ?-?
+410  ?SD/04/2015?
+430  ?Recolhimento?
+440  ?Specimen from the collection of the former Geology Laboratory at Mackenzie University, organised by Prof. Alfred Cownley Slater?
+500  ?Bom?
+510  ?2017-09-05?
+520  ?Limitado?
+600  ?Não?
+630  ?1?
+700  ?Não?
+800  ?RTD E81 P03/ 7A?
+821  ?CHCM_GEO_03503.jpg?
+840  ?Guide to Identifying Minerals; Minerals and Gemstones of Brazil?
+870  ?578?
+890  ?2017-09-05?
+890  ?^d20260502 04:54:29^oabcd?
+890  ?^d20260817 00:20:04^oabcd?
+891  ?Andrea Isadora?
+892  ?Stella Souza?
+980  ?^d20260502 04:54:29^oabcd?
+980  ?^d20260817 00:20:04^oabcd?
+..mfn=     4 
+  1  ?3504?
+  2  ?CHCM_GEO_03504?
+ 10  ?Quartzo Rosa?
+ 60  ?Mineralogia?
+100  ?Amostra em formato irregular, com superfície vítrea na cor rosa.?
+230  ?5,5x5,0x3,5?
+250  ?98?
+330  ?s/d?
+400  ?-?
+410  ?SD/04/2015?
+430  ?Recolhimento?
+440  ?Amostra proveniente da coleção do extinto Laboratório de Geologia da Universidade Mackenzie, organizado pelo Prof. Alfred Cownley Slater?
+500  ?Bom?
+510  ?2017-07-18?
+520  ?Limitado?
+600  ?Não?
+630  ?1?
+700  ?Não?
+800  ?RTD E81 P03/ 7B?
+840  ?Guia para Determinação de Minerais; Minerais e Pedras Preciosas do Brasil?
+870  ?188?
+890  ?2017-07-18?
+890  ?^d20260502 04:54:49^oabcd?
+890  ?^d20260719 23:45:39^oabcd?
+891  ?Andrea Bartorelli/ Berenice Balsalobre/ Isadora Athias?
+892  ?Isadora Athias/ Thaisa Alamino?
+892  ?Flavia de Lima Souza?
+893  ?2017-12-05?
+980  ?^d20260502 04:54:49^oabcd?
+980  ?^d20260719 23:45:39^oabcd?
+..mfn=     5 
+  1  ?3505?
+  2  ?CHCM_GEO_03505?
+ 10  ?[Dolomita]?
+ 60  ?Mineralogia?
+100  ?Amostra em formato regular, com uma de suas faces polida. Sua cor é branca e verde. Ferve muito pouco no HCl.?
+230  ?5,5x4,2x2,5?
+250  ?103?
+330  ?s/d?
+400  ?-?
+410  ?SD/04/2015?
+430  ?Recolhimento?
+440  ?Amostra proveniente da coleção do extinto Laboratório de Geologia da Universidade Mackenzie, organizado pelo Prof. Alfred Cownley Slater?
+500  ?Bom?
+510  ?2017-07-18?
+520  ?Limitado?
+600  ?Não?
+630  ?1?
+700  ?Não?
+800  ?RTD E81 P03/ 7C?
+821  ?CHCM_GEO_03505.jpg?
+840  ?Guia para Determinação de Minerais; Minerais e Pedras Preciosas do Brasil?
+870  ?405?
+890  ?2017-07-18?
+890  ?^d20260502 04:57:02^oabcd?
+890  ?^d20260502 14:55:26^oabcd?
+890  ?^d20260502 14:58:04^oabcd?
+890  ?^d20260817 00:24:11^oabcd?
+891  ?Andrea Bartorelli/ Berenice Balsalobre/ Isadora Athias?
+892  ?Isadora Lima Souza?
+893  ?2017-12-05?
+980  ?^d20260502 04:57:02^oabcd?
+980  ?^d20260502 14:55:26^oabcd?
+980  ?^d20260502 14:58:04^oabcd?
+980  ?^d20260817 00:24:11^oabcd?
+..mfn=     6 
+  1  ?3506?
+  2  ?CHCM_GEO_03506?
+ 10  ?[Não Identificado]?
+ 60  ?Mineralogia?
+100  ?Amostra em formato irregular, de cor escura com sulfetos brancos e amarelo claro [arceno pirita] bem brilhantes.?
+200  ?[Não Identificado]?
+230  ?5,0x3,5x2,5?
+250  ?76?
+330  ?s/d?
+400  ?Fazenda Ipanema, Sorocaba, São Paulo, Brasil?
+410  ?SD/04/2015?
+430  ?Recolhimento?
+440  ?Amostra proveniente da coleção do extinto Laboratório de Geologia da Universidade Mackenzie, organizado pelo Prof. Alfred Cownley Slater?
+500  ?Bom?
+510  ?2017-07-18?
+520  ?Limitado?
+600  ?Não?
+630  ?1?
+700  ?Não?
+800  ?RTD E81 P03/ 8A?
+840  ?Guia para Determinação de Minerais; Minerais e Pedras Preciosas do Brasil?
+870  ?608?
+890  ?2017-07-18?
+891  ?Andrea Bartorelli/ Berenice Balsalobre/ Isadora Athias?
+892  ?Isadora Athias/ Thaisa Alamino?
+892  ?Flavia de Lima Souza?
+893  ?2017-12-05?
+..mfn=     7 
+  1  ?3507?
+  2  ?CHCM_GEO_03507?
+ 10  ?Magnetita?
+ 60  ?Mineralogia?
+100  ?Amostra em formato similar a uma esfera, densa na cor marrom escura.?
+230  ?5,0x5,0x2,5?
+250  ?192?
+330  ?s/d?
+400  ?Fazenda Ipanema, Sorocaba, São Paulo, Brasil?
+410  ?SD/04/2015?
+430  ?Recolhimento?
+440  ?Amostra proveniente da coleção do extinto Laboratório de Geologia da Universidade Mackenzie, organizado pelo Prof. Alfred Cownley Slater?
+500  ?Bom?
+510  ?2017-07-18?
+520  ?Limitado?
+600  ?Não?
+630  ?1?
+700  ?Sim?
+710  ?2?
+800  ?RTD E81 P03/ 8B?
+840  ?Guia para Determinação de Minerais; Minerais e Pedras Preciosas do Brasil?
+870  ?392?
+890  ?2017-07-18?
+891  ?Andrea Bartorelli/ Berenice Balsalobre/ Isadora Athias?
+892  ?Isadora Athias/ Thaisa Alamino?
+892  ?Flavia de Lima Souza?
+893  ?2017-12-05?
+720  ?^aManuscrito na Embalagem^lPortuguês^t"Nadonite"?
+720  ?^aManuscrito na Embalagem^t"PblSbO2"?
+..mfn=     8 
+  1  ?3508?
+  2  ?CHCM_GEO_03508?
+ 10  ?Arenito Limonitizado?
+ 60  ?Mineralogia?
+100  ?Amostra em formato irregular, sua superfície é porosa e sua cor é marrom escura.?
+230  ?5,5x4,5x2,0?
+250  ?85?
+330  ?s/d?
+400  ?-?
+410  ?SD/04/2015?
+430  ?Recolhimento?
+440  ?Amostra proveniente da coleção do extinto Laboratório de Geologia da Universidade Mackenzie, organizado pelo Prof. Alfred Cownley Slater?
+500  ?Bom?
+510  ?2017-07-18?
+520  ?Limitado?
+600  ?Não?
+630  ?1?
+700  ?Não?
+800  ?RTD E81 P03/ 8C?
+840  ?Guia para Determinação de Minerais; Minerais e Pedras Preciosas do Brasil?
+870  ?648?
+890  ?2017-07-18?
+891  ?Andrea Bartorelli/ Berenice Balsalobre/ Isadora Athias?
+892  ?Isadora Athias/ Thaisa Alamino?
+892  ?Giane Alves?
+893  ?2017-12-05?
+..mfn=     9 
+  1  ?3509?
+  2  ?CHCM_GEO_03509?
+ 10  ?Limonita?
+ 60  ?Mineralogia?
+100  ?Amostra em formato irregular, denso na cor marrom com manchas alaranjadas.?
+230  ?5,0x3,0x3,0?
+250  ?67?
+330  ?s/d?
+400  ?-?
+410  ?SD/04/2015?
+430  ?Recolhimento?
+440  ?Amostra proveniente da coleção do extinto Laboratório de Geologia da Universidade Mackenzie, organizado pelo Prof. Alfred Cownley Slater?
+500  ?Bom?
+510  ?2017-07-18?
+520  ?Limitado?
+600  ?Não?
+630  ?1?
+700  ?Não?
+800  ?RTD E81 P03/ 9A?
+821  ?CHCM_GEO_03509.jpg?
+840  ?Guia para Determinação de Minerais; Minerais e Pedras Preciosas do Brasil?
+870  ?661?
+890  ?2017-07-18?
+890  ?^d20260817 00:30:58^oabcd?
+891  ?Andrea Bartorelli/ Berenice Balsalobre/ Isadora Athias?
+892  ?Thaisa Souza?
+893  ?2017-12-05?
+980  ?^d20260817 00:30:58^oabcd?
+..mfn=    10 
+  1  ?3510?
+  2  ?CHCM_GEO_03510?
+ 10  ?[Não Identificado]?
+ 60  ?Mineralogia?
+100  ?Amostra em formato irregular, quartzitica cinza escura densa com cobertura de óxidos cor ocre.?
+200  ?[Não Identificado]?
+230  ?6,0x4,4x3,5?
+250  ?144?
+330  ?s/d?
+400  ?-?
+410  ?SD/04/2015?
+430  ?Recolhimento?
+440  ?Amostra proveniente da coleção do extinto Laboratório de Geologia da Universidade Mackenzie, organizado pelo Prof. Alfred Cownley Slater?
+500  ?Bom?
+510  ?2017-07-18?
+520  ?Limitado?
+600  ?Não?
+630  ?1?
+700  ?Não?
+800  ?RTD E81 P03/ 9B?
+840  ?Guia para Determinação de Minerais; Minerais e Pedras Preciosas do Brasil?
+870  ?38?
+890  ?2017-07-18?
+891  ?Andrea Bartorelli/ Berenice Balsalobre/ Isadora Athias?
+892  ?Isadora Athias/ Thaisa Alamino?
+892  ?Flavia de Lima Souza?
+893  ?2017-12-05?
+..mfn=    11 
+  1  ?2390?
+  2  ?CHCM_EQ_02390?
+ 10  ?Flexible Curve Rule; [Intrumento de medição]?
+ 60  ?Ferramenta?
+100  ?Instrumento na cor preta, suas extremidades são interias, enquanto o centro possui inúmeros furos circulares. Possui um suporte em papelão na cor verde?
+110  ?Para que serve: medir?
+200  ?Plástico?
+210  ?Papel?
+220  ?N.S.A.?
+230  ?30 x 2?
+240  ?2 x 33,5 x 5?
+300  ?Keuffel & Esser Company?
+320  ?Não localizado?
+330  ?s/d?
+340  ?Industrial?
+400  ?João Batista Araújo Camargo?
+410  ?s/d?
+430  ?Doação?
+500  ?Regular?
+510  ?2016-04-16?
+520  ?Livre?
+530  ?Sujidade - suporte parcialmente danificado com muita sujidade?
+540  ?Necessária maior atenção aos procedimentos de conservação?
+550  ?Não?
+600  ?Não?
+620  ?1?
+630  ?0?
+700  ?Sim?
+710  ?4?
+720  ?Marca inserida?
+720  ?gravação?
+720  ?etiqueta?
+720  ?etiqueta?
+720  ?suporte?
+730  ?f.f.?
+730  ?f.f.?
+730  ?suporte?
+730  ?f.f.?
+730  ?f.f.?
+740  ?Inglês?
+750  ?"K + E, 1924, Keuffel & Esser CO"?
+750  ?"Minimum radius 3 inches, hold flat on table, when forming curve"?
+750  ?"flexible curve rule, transparent edge, 12 in"?
+750  ?"K + E, 1924-12, Flexible curve rule, transparent"?
+800  ?E105 P02?
+820  ?"EQ02390A?
+820  ?EQ02390B?
+820  ?EQ02390C?
+820  ?EQ02390D?
+820  ?EQ02390E?
+820  ?EQ02390F
+EQ02390E?
+820  ?"?
+870  ?138?
+890  ?2016-05-08?
+891  ?Anderson Gomes?
+892  ?Cecília Machado/ Karina de Barros?
+892  ?Anderson Gomes/ Karina de Barros?
+..mfn=    12 
+  1  ?2391?
+  2  ?CHCM_EQ_02391?
+ 10  ?[Instrumento para caligrafia técnica]?
+ 60  ?Ferramenta?
+100  ?Instrumento que nos remete a uma régua, possui uma proteção transparente, junto um instrumento com três pontas de agulha em suas extremidades, ao centro uma elevação na cor verde, possui um suporte em madeira na cor verde?
+110  ?Para que serve: produzir caligrafia técnica?
+200  ?Metal; plástico?
+220  ?N.S.A.?
+230  ?"CHCM_02396_1 30 x 2,5
+CHCM_02396_2 30,5 x 2,7
+CHCM_02396_3 10 x 3"?
+240  ?7,5 x 32 x 6,5?
+300  ?Doric?
+320  ?Não localizado?
+330  ?s/d?
+340  ?Industrial?
+400  ?João Batista Araújo Camargo?
+410  ?s/d?
+430  ?Doação?
+500  ?Regular?
+510  ?2016-04-06?
+520  ?Livre?
+530  ?Manchas; sujidade; riscos; abrasão; deslocamento?
+540  ?Necessária maior atenção aos procedimentos de conservação?
+550  ?Não?
+600  ?Sim?
+620  ?1?
+630  ?3?
+700  ?Sim?
+710  ?3?
+720  ?Marca inserida?
+720  ?etiqueta?
+720  ?gravação?
+730  ?f.i.?
+730  ?f.i.?
+730  ?f.f.?
+740  ?Inglês?
+750  ?"DORIC, 8915 ECO, Made in USA, TM REG US PATOFF"?
+750  ?"For, Keco, REG. USA. PAT OFF, DRAWING INK, KE"?
+750  ?DORIC"?
+800  ?E105 P02?
+820  ?"EQ02391A?
+820  ?EQ02391B?
+820  ?EQ02391C?
+820  ?EQ02391D?
+820  ?EQ02391E?
+820  ?EQ02391F
+EQ02391E?
+820  ?"?
+870  ?139?
+890  ?2016-05-08?
+891  ?Anderson Gomes?
+892  ?Cecília Machado/ Karina de Barros?
+892  ?Anderson Gomes/ Karina de Barros?
+..mfn=    13 
+  1  ?2392?
+  2  ?CHCM_OB_02392?
+ 10  ?Conjunto de instrumento de artesão?
+ 60  ?Instrumento?
+100  ?Conjunto composto por caixa com tampa, com 17 ferramentas de metal. Algumas contém cabo de madeira, um conjunto com 7 limas, outro conjunto com 6 gizes de cera, caixa com plaquinhas de metal (+/-100), uma caixa lacrada de tinta, uma placa de gesso com molde de um portão, uma morsa, objeto em formato cilíndrico feito em concreto com um adesivo sobre evento (na frente e no verso), além disso há fragmento de madeira e de cera vermelha.?
+110  ?Serve para Tarefas manuais diversificadas, usada em algum ofício.?
+200  ?Gesso; papel; madeira; metal; plástico; borracha.?
+210  ?Madeira?
+220  ?N.S.A.?
+230  ?"CHCM_EQ_02392_1: 20 x 6,5 (Alicate);
+CHCM_EQ_02392_2: 28 x 5,5 (Cutelo);
+CHCM_EQ_02392_3: 21,5 x 7 (Serra com cabo);
+CHCM_EQ_02392_4: 17,5 x 7,2 (Espátula com cabo);
+CHCM_EQ_02392.5: 26,7 x 10(Martelo);
+CHCM_EQ_02392_6: 23,5 x 2,5d (Chave de fenda);
+CHCM_EQ_02392_7: 33 x 3 (Chave de fenda com borracha);
+CHCM_EQ_02392_8: 18,5 x 3,5 (Ferram. Multiuso [travador, espátula]);
+CHCM_EQ_02392_9: 19 x 4,5 (Chave inglesa maior); 
+CHCM_EQ_02392_10: 15,8 x 3,5 (Chave inglesa menor);
+CHCM_EQ_02392_11: 17,5 x 1 (Estaca); 
+CHCM_EQ_02392_12: 17,5 x 1 (Talhadeira);
+CHCM_EQ_02392_13: 16,5 x 0,5 (Espátula);
+
+[Conjunto de limas]
+CHCM_EQ_02392.14 
+CHCM_EQ_02392_14_1: 21,5 x 2 (Lima do cabo verm. maior); 
+CHCM_EQ_02392_14_2: 21 x 2 (Lima do cabo verm. menor); 
+CHCM_EQ_0239_14_3: 25 x 2 (Lima LS); 
+CHCM_EQ_02392_14_4: 20,5 x 1,5 (Lima made in K&F); 
+CHCM_EQ_02392_14_5: 26 x 1 (Lima redonda); 
+CHCM_EQ_02392_14_6: 25 x 1,7 (Lima K&F);
+CHCM_EQ_02392_14_7:25 x 1,8 (Lima BELLOTA); 
+CHCM_EQ_02392_15: 12 x 5 x 15 (Morsa);
+CHCM_EQ_02392_16: 15 x 1,2 (Serrinha amarela);
+CHCM_EQ_02392_17: 9 x 7,5 x 5 (Cai x a de tinta x adrez);
+CHCM_EQ_02392_18: 8 x 5 (Pedaço de peça de metal);
+CHCM_EQ_02392_19: 20 x 1,7 (Pedaço de ferro);
+CHCM_EQ_02392_20: 11,3 x 7 (Molde de portão);
+CHCM_EQ_02392_21: 7,3 x 6 (Simpatcon);
+CHCM_EQ_02392_22: 18 x 5
+(Chave de Grifo)
+ [Conjunto de gizes (por ordem de tamanho)]; 
+CHCM_EQ_02392_23:
+CHCM_EQ_02392_23_1: 3,5 x 1,2
+CHCM_EQ_02392_23_2: 7 x 1
+CHCM_EQ_02392_23_3: 7,2 x 1
+CHCM_EQ_02392_23_4: 7,7 x 0,7
+CHCM_EQ_02392_23_5: 8 x 1,5
+CHCM_EQ_02392_6: 10,7 x 1,2.
+
+[Cai x a Pheni x (conjunto de lâminas)]
+CHCM_EQ_02392_25:
+CHCM_EQ_02392_25_1: 5 x 20 x 11,5 (cai x a)
+CHCM_EQ_02392_25_2: 19 x 8 
+(lâminas);"?
+240  ?CHCM_EQ_02392_24: 12 x 35 x 21,5 (Fechado); 8,5 x 35 x 43 (Aberto).?
+300  ?Ciser, Corneta S.A. BRASIL, FNM S/A, K&F, LS, BELLOTA, SANPO, SATURNO, MARTINELLI, CONCRELIxS.A., CHARUTOS POOCK, JOHANN FABER, CRAYOLA BINNEY & SMITH CO.?
+320  ?Não localizado?
+330  ?s/d?
+340  ?Manufaturado?
+400  ?Doado por Luis Carlos Martinez.?
+410  ?s/d?
+430  ?Doação?
+500  ?Regular?
+510  ?2016-04-08?
+520  ?Livre?
+530  ?Considerando que as ferramentas e as limas eram utilizadas para atividades plásticas, por essa causa apresentam material aderido, manchas, oxidação, sujidade, abrasão e riscos. A caixa com placas de metal dentro, está com a tampa quebrada, com lascas e muita sujidade. A morsa contém sujidade e oxidação, os outros objetos em geral apresentam apenas muita sujidade. A caixa suporte apresenta sujidade, lascas, oxidação, união defeituosa na dobradiça da face oposta, manchas e abrasão. Para acondicionar melhor os equipamentos foi necessário utilizar mais de uma localização para o conjunto.?
+540  ?Necessária maior atenção aos procedimentos de conservação?
+550  ?Não?
+600  ?Sim?
+620  ?25?
+630  ?15?
+700  ?Sim?
+710  ?36?
+720  ?"CHCM_EQ_02392_1: Marca?
+720  ?gravação?
+720  ?gravação?
+720  ?CHCM_EQ_02392_8: Marca?
+720  ?CHCM_EQ_02392_9: Gravação?
+720  ?marca?
+720  ?gravação?
+720  ?CHCM_EQ_02392_10: Gravação?
+720  ?marca?
+720  ?gravação?
+720  ?CHCM_EQ_02392_14_1: Marca
+CHCM_EQ_02392_14_2: Marca
+CHCM_EQ_02392_14_3: Marca
+CHCM_EQ_02392_14_4: Marca
+CHCM_EQ_02392-14_5: Gravação
+CHCM_EQ_02392_14_6: Marca
+CHCM_EQ_02392_14_7: Marca
+
+CHCM_02392_15: Marca
+CHCM_EQ_02392_16_: Marca?
+720  ?impressão
+CHCM_EQ_02392_17: Marca?
+720  ?estampa
+CHCM_EQ_02392_19: Manuscrito
+CHCM_EQ_02392_21: Marca?
+720  ?estampa
+
+CHCM_EQ_02392_23_2: Marca
+CHCM_EQ_02392_23_3: Etiqueta
+CHCM_EQ_02392_23_4: Marca 
+CHCM_EQ_02392_23_6: Marca?
+720  ?etiqueta?
+720  ?CHCM_EQ_02392_25_1: Marca?
+720  ?gravação?
+720  ?gravação?
+720  ?gravação?
+720  ?etiqueta?
+720  ?carimbo
+"?
+730  ?"CHCM_EQ_02392_1: F?
+730  ?F?
+730  ?F
+CHCM_EQ_02392_8: F
+CHCM_EQ_02392_9: F?
+730  ?F?
+730  ?F
+CHCM_EQ _02392_10: F?
+730  ?F?
+730  ?F
+
+CHCM_EQ_02392_14_1: F
+CHCM_EQ_02392_14_2: F
+CHCM_EQ_02392_14_3: F
+CHCM_EQ_02392_14_4: F
+CHCM_EQ_02392_14_5: F
+CHCM_EQ_02392_14_6: F
+CHCM_EQ_02392_14_7: F
+
+CHCM_EQ_02392_15: F
+CHCM_EQ_02392_16: F?
+730  ?F
+CHCM_EQ_02392_17: FI?
+730  ?F
+CHCM_EQ_02392_19: F
+CHCM_EQ_02392_21: F?
+730  ?F
+
+CHCM_EQ_02392_23_2: F
+CHCM_EQ_02392_23_3: F
+CHCM_EQ_02392_23_4: F
+CHCM_EQ_02392_23_6: F?
+730  ?F
+
+CHCM_EQ_02392_25_1: FS?
+730  ?FLE?
+730  ?FF?
+730  ?FP?
+730  ?FLD?
+730  ?FI
+
+"?
+740  ?Português?
+750  ?"CHCM_EQ_02392_1: ""CISER""?
+750  ?""AMPARO""?
+750  ?""AMPARO""?
+750  ?CHCM_EQ_02392_8: ""CORNETA S.A., BRASIL""?
+750  ?CHCM_EQ_02392_9: ""7/8""?
+750  ?""FNM S/A""?
+750  ?""3/4""?
+750  ?CHCM_EQ _02392_10: ""5/8""?
+750  ?""FNM-S/A-""?
+750  ?""9/16""?
+750  ?CHCM_EQ_02392_14_1: ""K&F""?
+750  ?CHCM_EQ_02392_14_2: ""K&F""?
+750  ?CHCM_EQ_02392_14_3: ""LS""?
+750  ?CHCM_EQ_02392_14_4: ""MADE IN, K&F, USA""?
+750  ?CHCM_EQ_02392_14_5: ""Kx""?
+750  ?CHCM_EQ_02392_14_6: ""K&F""?
+750  ?CHCM_EQ_02392_14_7: ""BELLOTA""
+
+CHCM_EQ_02392_15: ""SANPO""?
+750  ?CHCM_EQ_02392_16: ""SATURNO""?
+750  ?""AÇO RAPIDO, HISS 12 'x1/2'x24D""?
+750  ?CHCM_EQ_02392_17: ""MARTINELLI""?
+750  ?""xADREZ, ÓxIDO DE FERRO SINTÉTICO, VERMELHO, PESO LÍQUIDO 220g""?
+750  ?CHCM_EQ_02392_19: ""Cecília""?
+750  ?CHCM_EQ_02392_21: ""PATROCÍNIO e realização técnica, CONCRELIZ S.A., Engenharia de Concreto""?
+750  ?""SIMPATCON, SIMPÓSIO DE APLICAÇÃO, DA TECNOLOGIA DO CONCRETO""?
+750  ?CHCM_EQ_02392_23_2: ""Johann, FABER""?
+750  ?CHCM_EQ_02392_23_3: ""[ILEGÍVEL]""?
+750  ?CHCM_EQ_02392_23_4: ""BROWN, REG. U.S. PAT. OFF., CRAYOLA, BINNEY & SMITH CO., NEW YORK""?
+750  ?CHCM_EQ_02392_23_6: ""Johann, FABER""?
+750  ?""INDÚSTRIA BRASILEIRA - C.G.C. 59.596.908/1""
+
+CHCM_EQ_02392_25_1: ""Charutos Pook""?
+750  ?""PHENIx""?
+750  ?""PHENIx""?
+750  ?""PHENIx""?
+750  ?""ZINCO FINO""?
+750  ?""BL""?
+750  ?"?
+800  ?E105 P04/ P05?
+820  ?"OB02392A?
+820  ?OB02392B?
+820  ?OB02392C?
+820  ?OB02392D?
+820  ?OB02392E?
+820  ?OB02392F?
+820  ?"?
+870  ?148; 144; 145; 147; 150; 149; 146; 159; 154; 153; 157; 156; 158; 151; 160; 152; 155; 129?
+870  ?Para acondicionar melhor os equipamentos foi necessário utilizar mais de uma localização para o conjunto.?
+890  ?2016-04-11?
+891  ?Jacqueline Scane?
+892  ?Cecília Machado/ Karina de Barros?
+892  ?Isabela Angel?
+..mfn=    14 
+  1  ?2393?
+  2  ?CHCM_EQ_02393?
+ 10  ?Pinceis?
+ 60  ?Instrumento?
+100  ?Dois pinceis sendo um na cor preta e outro na cor amarela?
+110  ?Para que serve: pintar?
+200  ?Madeira?
+220  ?N.S.A.?
+230  ?CHCM_EQ_02393_1 28 x 0,5 CHCM_EQ_02993_2 30,5 x 0,5?
+300  ?Desconhecido?
+320  ?Não Localizado?
+330  ?s/d?
+340  ?Industrial?
+400  ?João Batista Araújo Camargo?
+410  ?s/d?
+430  ?Doação?
+500  ?Regular?
+510  ?2016-04-06?
+520  ?Livre?
+530  ?Sujidade generalizada, riscos, abrasão, manchas, perda estrutural?
+540  ?Necessária maior atenção aos procedimentos de conservação?
+550  ?Não?
+600  ?Sim?
+620  ?2?
+630  ?0?
+700  ?Sim?
+710  ?2?
+720  ?Gravação?
+720  ?gravação?
+730  ?f.f.?
+730  ?f.f.?
+740  ?Português?
+750  ?"[ilegível], 615"?
+750  ?"Tigre S. Paulo, IND. Brasileira, 182"?
+800  ?E105 P02?
+820  ?"EQ02393A?
+820  ?EQ02393B?
+820  ?EQ02393C?
+820  ?EQ02393D"?
+890  ?2016-05-08?
+891  ?Anderson Gomes?
+892  ?Cecília Machado/ Karina de Barros?
+892  ?Anderson Gomes/ Karina de Barros?
+..mfn=    15 
+  1  ?2394?
+  2  ?CHCM_EQ_02394?
+ 10  ?Conjunto de Bico de Pena?
+ 60  ?Instrumento?
+100  ?Conjunto de canetas, possui um copor em madeira e suas pontas são me metal. 4 delas são na cor vermelha, 2 na cor verde e um na cor azul. Possui um suporte em papelão?
+110  ?Para que serve: escrever?
+200  ?Metal; madeira; plástico?
+220  ?N.S.A.?
+240  ?"CHCM_EQ_02394_1 15 x 0,3 
+CHCM_EQ_02394_2 15 x 0,3
+CHCM_EQ_02394_3 15 x 0,3
+CHCM_EQ_02394_4 15 x 0,3
+CHCM_EQ_02394_5 15 x 0,3
+CHCM_EQ_02394_6 15 x 0,3
+CHCM_EQ_02394_7 15 x 0,3"?
+300  ?Desconhecido?
+320  ?Não Localizado?
+330  ?s/d?
+340  ?Industrial?
+400  ?João Batista Araújo Camargo?
+410  ?s/d?
+430  ?Doação?
+500  ?Regular?
+510  ?2016-04-06?
+520  ?Livre?
+530  ?Mancha; riscos; abrasão; sujidade?
+540  ?Necessária maior atenção aos procedimentos de conservação?
+550  ?Não?
+600  ?Sim?
+620  ?7?
+630  ?0?
+700  ?Sim?
+710  ?6?
+720  ?Marca inserida?
+720  ?manuscrito?
+720  ?impressão?
+720  ?impressão?
+720  ?impressão?
+720  ?manuscrito?
+730  ?f.s.?
+730  ?f.s.?
+730  ?f.f.?
+730  ?f.p.?
+730  ?f.int.?
+730  ?f.int.?
+740  ?Tcheco?
+750  ?"KOH-I-NOOR"?
+750  ?"[Ilegível]"?
+750  ?"L& CHARDTMUTH"?
+750  ?"L& CHARDTMUTH CZECHOSLOVAKIA"?
+750  ?"KOH-I-NOOR PENCIL FACTORY, KOH-I-NOOR, L& HARDTMUTH"?
+750  ?[Ilegível]?
+800  ?E105 P02?
+820  ?"EQ02394A?
+820  ?EQ02394B?
+820  ?EQ02394C?
+820  ?EQ02394D?
+820  ?EQ02394E?
+820  ?EQ02390F
+EQ02394E?
+820  ?"?
+870  ?133?
+890  ?2016-05-08?
+891  ?Anderson Gomes?
+892  ?Cecília Machado/ Karina de Barros?
+892  ?Anderson Gomes/ Karina de Barros?
+..

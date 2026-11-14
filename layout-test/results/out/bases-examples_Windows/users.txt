@@ -1,0 +1,42 @@
+mfn=     1 
+  1  ?users?
+ 10  ?^aad^bAdministrativos?
+ 12  ?^aF^bMulher?
+ 15  ?31/12/2030?
+ 18  ?20303112?
+ 20  ?01?
+ 30  ?Guilárte, Angela Margarita?
+ 35  ?123456789?
+ 40  ?Universidade do Mundo?
+130  ?Venezuela?
+140  ?5132928392?
+160  ?msi@reacciun.ve?
+600  ?rosa?
+610  ?12345?
+620  ?rosa.jpg?
+..mfn=     2 
+ 12  ?^aF^bFeminino?
+ 10  ?^adi^bDiretores?
+ 15  ?31/12/2030?
+ 18  ?20301231?
+ 20  ?02?
+ 30  ?Reyes, Josefa?
+ 35  ?445436789?
+160  ?msi@reacciun.ve?
+600  ?josefa?
+610  ?josefa?
+620  ?josefa.jpg?
+1101  ?^iabcd^t202304122221^x1681345268?
+..mfn=     3 
+ 12  ?^aM^bMasculino?
+ 10  ?^aad^bAdministrativos?
+ 15  ?31/12/2030?
+ 18  ?20301231?
+ 20  ?03?
+ 30  ?Nozawa, Keina?
+ 35  ?667788999?
+ 45  ?Administração?
+600  ?keina?
+610  ?1keina08?
+620  ?keina.jpg?
+..

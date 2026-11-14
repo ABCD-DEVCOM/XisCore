@@ -1,0 +1,55 @@
+PS C:\xampp\htdocs\ABCD\www\cgi-bin_Windows\ansi> .\xiscore-mx.exe
+XisCore Engine v0.1.0/PC32/W/M/32767/16/60/I - Utility MX
+Technology lineage: CISIS 5.7e
+
+binary: C:\xampp\htdocs\ABCD\www\cgi-bin_Windows\ansi\xiscore-mx.exe 
+source     database               verdict  detail
+bases-examples_Linux  acces  FATAL  fatal: recread/check/base
+bases-examples_Linux  agrovoc  FATAL  fatal: recread/check/base
+bases-examples_Linux  biblo  FATAL  fatal: recread/check/base
+bases-examples_Linux  classrooms  FATAL  fatal: recread/check/base
+bases-examples_Linux  copies  FATAL  fatal: recread/check/base
+bases-examples_Linux  dcdspace  EMPTY  no records and no message
+bases-examples_Linux  doaj  FATAL  fatal: recread/check/base
+bases-examples_Linux  dubcore  FATAL  fatal: recread/check/base
+bases-examples_Linux  isadg  FATAL  fatal: recread/check/base
+bases-examples_Linux  loanobjects  FATAL  fatal: recread/check/base
+bases-examples_Linux  logtrans  FATAL  fatal: recread/check/base
+bases-examples_Linux  marc  FATAL  fatal: recread/check/base
+bases-examples_Linux  providers  FATAL  fatal: recread/check/base
+bases-examples_Linux  purchaseorder  FATAL  fatal: recread/check/base
+bases-examples_Linux  rda  FATAL  fatal: recread/check/base
+bases-examples_Linux  reserve  FATAL  fatal: recread/check/base
+bases-examples_Linux  servers  FATAL  fatal: recread/check/base
+bases-examples_Linux  spectrum  FATAL  fatal: recread/check/base
+bases-examples_Linux  suggestions  FATAL  fatal: recread/check/base
+bases-examples_Linux  suspml  EMPTY  no records and no message
+bases-examples_Linux  trans  FATAL  fatal: recread/check/base
+bases-examples_Linux  unicode  FATAL  fatal: recread/check/base
+bases-examples_Linux  unimarc  FATAL  fatal: recread/check/base
+bases-examples_Linux  users  FATAL  fatal: recread/check/base
+bases-examples_Windows  acces  FATAL  fatal: recread/check/base
+bases-examples_Windows  agrovoc  FATAL  fatal: recread/check/base
+bases-examples_Windows  biblo  FATAL  fatal: recread/check/base
+bases-examples_Windows  classrooms  FATAL  fatal: recread/check/base
+bases-examples_Windows  copies  FATAL  fatal: recread/check/base
+bases-examples_Windows  dcdspace  EMPTY  no records and no message
+bases-examples_Windows  doaj  FATAL  fatal: recread/check/base
+bases-examples_Windows  dubcore  FATAL  fatal: recread/check/base
+bases-examples_Windows  dubcoreiso  FATAL  fatal: recread/check/base
+bases-examples_Windows  isadg  FATAL  fatal: recread/check/base
+bases-examples_Windows  loanobjects  FATAL  fatal: recread/check/base
+bases-examples_Windows  logtrans  FATAL  fatal: recread/check/base
+bases-examples_Windows  marc  FATAL  fatal: recread/check/base
+bases-examples_Windows  providers  FATAL  fatal: recread/check/base
+bases-examples_Windows  purchaseorder  FATAL  fatal: recread/check/base
+bases-examples_Windows  rda  FATAL  fatal: recread/check/base
+bases-examples_Windows  reserve  EMPTY  no records and no message
+bases-examples_Windows  servers  FATAL  fatal: recread/check/base
+bases-examples_Windows  spectrum  FATAL  fatal: recread/check/base
+bases-examples_Windows  suggestions  FATAL  fatal: recread/check/base
+bases-examples_Windows  suspml  EMPTY  no records and no message
+bases-examples_Windows  trans  FATAL  fatal: mx/ACTIVE
+bases-examples_Windows  unicode  FATAL  fatal: recread/check/base
+bases-examples_Windows  unimarc  FATAL  fatal: recread/check/base
+bases-examples_Windows  users  FATAL  fatal: recread/check/base

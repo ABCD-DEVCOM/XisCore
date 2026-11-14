@@ -1,0 +1,51 @@
+binary: C:\xampp\htdocs\ABCD\www\cgi-bin_Windows\ansi\mx.exe 
+source     database               verdict  detail
+bases-examples_Linux  acces  FATAL  fatal: recread/check/base
+bases-examples_Linux  agrovoc  FATAL  fatal: recread/check/base
+bases-examples_Linux  biblo  FATAL  fatal: recread/check/base
+bases-examples_Linux  classrooms  FATAL  fatal: recread/check/base
+bases-examples_Linux  copies  FATAL  fatal: recread/check/base
+bases-examples_Linux  dcdspace  EMPTY  no records and no message
+bases-examples_Linux  doaj  FATAL  fatal: recread/check/base
+bases-examples_Linux  dubcore  FATAL  fatal: recread/check/base
+bases-examples_Linux  isadg  FATAL  fatal: recread/check/base
+bases-examples_Linux  loanobjects  FATAL  fatal: recread/check/base
+bases-examples_Linux  logtrans  FATAL  fatal: recread/check/base
+bases-examples_Linux  marc  FATAL  fatal: recread/check/base
+bases-examples_Linux  providers  FATAL  fatal: recread/check/base
+bases-examples_Linux  purchaseorder  FATAL  fatal: recread/check/base
+bases-examples_Linux  rda  FATAL  fatal: recread/check/base
+bases-examples_Linux  reserve  FATAL  fatal: recread/check/base
+bases-examples_Linux  servers  FATAL  fatal: recread/check/base
+bases-examples_Linux  spectrum  FATAL  fatal: recread/check/base
+bases-examples_Linux  suggestions  FATAL  fatal: recread/check/base
+bases-examples_Linux  suspml  EMPTY  no records and no message
+bases-examples_Linux  trans  FATAL  fatal: recread/check/base
+bases-examples_Linux  unicode  FATAL  fatal: recread/check/base
+bases-examples_Linux  unimarc  FATAL  fatal: recread/check/base
+bases-examples_Linux  users  FATAL  fatal: recread/check/base
+bases-examples_Windows  acces  OK  3 records
+bases-examples_Windows  agrovoc  OK  53115 records
+bases-examples_Windows  biblo  OK  224 records
+bases-examples_Windows  classrooms  OK  4 records
+bases-examples_Windows  copies  OK  54 records
+bases-examples_Windows  dcdspace  EMPTY  no records and no message
+bases-examples_Windows  doaj  OK  10081 records
+bases-examples_Windows  dubcore  FATAL  fatal: recread/check/base
+bases-examples_Windows  dubcoreiso  OK  1313 records
+bases-examples_Windows  isadg  OK  1 records
+bases-examples_Windows  loanobjects  OK  53 records
+bases-examples_Windows  logtrans  OK  7 records
+bases-examples_Windows  marc  OK  298 records
+bases-examples_Windows  providers  OK  2 records
+bases-examples_Windows  purchaseorder  OK  1 records
+bases-examples_Windows  rda  OK  20 records
+bases-examples_Windows  reserve  EMPTY  no records and no message
+bases-examples_Windows  servers  OK  56 records
+bases-examples_Windows  spectrum  OK  15 records
+bases-examples_Windows  suggestions  OK  4 records
+bases-examples_Windows  suspml  EMPTY  no records and no message
+bases-examples_Windows  trans  OK  6 records
+bases-examples_Windows  unicode  OK  38 records
+bases-examples_Windows  unimarc  OK  18 records
+bases-examples_Windows  users  OK  3 records

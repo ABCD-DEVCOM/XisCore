@@ -1,0 +1,29 @@
+mfn=     1 
+  2  ?^aClassroom^n101?
+  3  ?^n15?
+  4  ?Blackboard,Beamer?
+  5  ?Building A first floar to the left.?
+  6  ?images/smallauditorium.jpg^dAuditorium Small?
+  1  ?1?
+..mfn=     2 
+  2  ?^aClassroom^n102?
+  3  ?^n20?
+  4  ?Blackboard,Beamer,Audio System?
+  5  ?Building A first floar in the middle?
+  6  ?images/mediumauditorium.jpg^dMedium Auditorium?
+  1  ?2?
+..mfn=     3 
+  2  ?^aClassroom^n103?
+  3  ?^n30?
+  4  ?Blackboard,Audio System?
+  5  ?Building A first floar to the right.?
+  6  ?images/largeauditorium.jpg^dLarge Auditorium?
+  1  ?3?
+..mfn=     4 
+  1  ?4?
+  2  ?^aClassroom^n104?
+  3  ?^n101?
+  4  ?Blackboard?
+  5  ?Building A first floar to the right.?
+  6  ?images/largeauditorium.jpg^dLarge Auditorium?
+..

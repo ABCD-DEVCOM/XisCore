@@ -4,8 +4,8 @@ REM Builds ALL Windows variants of mx.exe and wxis.exe with Borland C++ 5.5 (and
 REM one folder per variant and character set:  dist\windows32\utf8\<variant>  and  dist\windows32\ansi\<variant>
 REM (or, with "abcd" or no arguments, the folder layout ABCD ships: see below)
 REM
-REM *** NOT TESTED: it needs a Windows machine with BCC 5.5. If something fails, keep the output and compare it
-REM     with the official BIREME .bat files in CISIS_UNI_Win\projects. ***
+REM Used with Borland C++ 5.5 on Windows 11 (November 2026) to build the ABCD set. If something fails, keep the
+REM output (build_windows_all_bcc55.bat > build_windows_all.log 2>&1): the summary at the end lists what was not built.
 REM
 REM Usage:  build_windows_all_bcc55.bat                  (no arguments = "abcd": what ABCD ships, in ABCD's folder layout)
 REM         build_windows_all_bcc55.bat [abcd] [utf8|ansi|both] [tools|all] [variant ...]
@@ -121,9 +121,9 @@ if not exist %OUT% mkdir %OUT%
 echo.
 echo ################ %1  UTF8=%U%  into  %OUT% ################
 REM INCLOADX=1 makes CISIS read uctab=/actab= from the .par (needed for Russian, Greek, Hebrew...); on for UTF-8 only
-set COMMON=-I"%BCC%\Include" -DUTF8=%U% -DINCLOADX=%U% !VFLAGS! -DLIND4=0 -DCIWTF=1 -DINCPROCX=1 -DINCPRECX=1
+set COMMON=-I"%BCC%\Include" -DUTF8=%U% -DINCLOADX=%U% !VFLAGS! -DLIND4=0 -DCIWTF=1 -DINCPROCX=1 -DINCPRECX=1 -a2
 REM platform flags of every other program (the ones of mx; their format flags come from each .mak)
-set PLAT=-DGCC=0 -DPC=1 -DDOS32BITS=1 -DMSC=0 -DUNIX=0 -DUTF8=%U% -DINCLOADX=%U% !VFLAGS! -DLIND4=0 -DWWWISIS=0 -D_FILE_OFFSET_BITS=0 -D_LARGEFILE64_SOURCE=0 -DPCREADLINUX=0
+set PLAT=-DGCC=0 -DPC=1 -DDOS32BITS=1 -DMSC=0 -DUNIX=0 -DUTF8=%U% -DINCLOADX=%U% !VFLAGS! -DLIND4=0 -DWWWISIS=0 -D_FILE_OFFSET_BITS=0 -D_LARGEFILE64_SOURCE=0 -DPCREADLINUX=0 -a2
 set CURV=%1
 set PFAIL=
 

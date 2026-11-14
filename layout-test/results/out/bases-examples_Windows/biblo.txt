@@ -1,0 +1,7201 @@
+mfn=     1 
+980  ?^d20070319 192709 1  77?
+980  ?^d20070319 202855 1  77?
+980  ?guilda^d20080404 052926 5  94?
+ 36  ?^b^cPREESENTACIÓN     5?
+ 36  ?^b^cANTECEDENTES DEL PLAN      11?
+ 36  ?^b^c¿Qué es Ausjal y cuál es su misión?     13?
+ 36  ?^b^cAntecedentes y Organización de Ausjal     16?
+ 36  ?^b^cDIAGNÓSTICO Y PUNTO DE PARTIDA     21?
+ 36  ?^b^cFortalezas, Debilidades, y Desafíos de las Universidades y de Ausjal     25?
+ 36  ?^b^cPRIORIDADES ESTRATÉGICAS    31?
+ 36  ?^b^c¿Para qué sociedad formamos?   35?
+ 36  ?^b^cComprensión y superación de la pobreza    35?
+ 36  ?^b^cSistema educativo nacional y universidad    37?
+ 36  ?^b^cIEmprendedores, gestión, ética y compromiso social de la empresa    39?
+ 36  ?^b^cEstado Social de Derecho y Derechos Humanos    41?
+ 36  ?^b^cLa Persona que se forma    43?
+ 36  ?^b^cFormación para asumir la sociedad ... 44?
+ 36  ?^b^cFormación integral de la persona para el cambio     46?
+ 36  ?^b^cCambios en la Institución formadora    48?
+ 36  ?^b^cLaicos y Jesuítas para la identidad ignaciana de la universidad    48?
+ 36  ?^b^cEvaluación, acreditación y calidad universitaria     50?
+ 36  ?^b^cDesarrollo de la Cultura Ausjal y actividad compartida    51?
+101  ?^n1?
+980  ?guilda^d20080404 053043 5  94?
+980  ?guilda^d20080611 151502 3 162?
+  4  ?M?
+  6  ?m?
+  9  ?Monografías?
+  3  ?^a^b^c^d^e330.987/ L349/ 1990?
+104  ?Biblioteca modificado?
+ 17  ?Asociación de Universidades Confiadas a la Compañia de Jesús en América Latina?
+ 18  ?Plan estratégico 2001-2005?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?2001?
+ 44  ?20010000?
+ 21  ?1?
+ 62  ?General?
+ 64  ?Español?
+ 76  ?UCAB?
+ 76  ?Plan estratégico?
+ 76  ?Bancos Comerciales?
+ 76  ?Bancos?
+ 76  ?Automatización?
+ 76  ?Análisis Económico?
+ 80  ?Planificación institucional?
+ 81  ?Organización interna?
+ 77  ?Petróleo?
+ 77  ?Liquidez?
+ 82  ?Venezuela?
+ 82  ?Colombia?
+ 85  ?America Latina?
+ 85  ?América del Sur?
+ 86  ?AUSJAL?
+ 72  ?<p>&#160;</p>?
+800  ?ausjal.jpg^dPortada escaneada del material?
+800  ?ausjal-indice.jpg^dIndice del libro en formato JPG?
+820  ?SoniaSilvestre-Ojala.mp3^dPrueba de archivo de sonido?
+830  ?videoeducativo.mpeg^dPrueba de archivo de video?
+  2  ?1?
+..mfn=     2 
+ 97  ?20030511?
+ 91  ?GPM?
+995  ?20031012^t9:49:47 a.m.^bGPM?
+888  ?S?
+995  ?20050906^t06:21:16 p.m.^bScristina?
+995  ?20050907^t09:32:27 p.m.^bScristina?
+980  ?^d20060228 090303 2  58?
+980  ?^d20061006 014115 5 278?
+  4  ?M?
+  6  ?m?
+  9  ?Monografías?
+  3  ?^a333.444^bP579?
+104  ?Biblioteca?
+ 16  ?Píriz Pérez^bEmilio?
+ 18  ?El escudo de la UCAB?
+ 38  ?UCAB?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?31p?
+ 43  ?1996?
+ 44  ?19960000?
+ 73  ?8 ref.?
+ 63  ?Impreso?
+ 21  ?1?
+ 62  ?General?
+ 64  ?Español?
+ 76  ?Escudo?
+ 76  ?Historia?
+ 76  ?UCAB?
+ 76  ?Universidad?
+ 80  ?Arte?
+ 80  ?Derecho?
+ 80  ?Energía?
+ 80  ?Material de Referencia?
+ 81  ?Organización interna?
+ 77  ?Liquidez?
+ 77  ?Indicadores?
+ 82  ?GRUPO ANDINO?
+ 86  ?UCAB?
+ 72  ?Me honra presentar este folleto que historia, explica y analiza el escudo de la UCAB; y tanto más me complace hacerlo cuanto participé en las deliberaciones para la elaboración del mismo.Puedo así confirmar como testigo lo que Emilio Píriz Pérez señala como tradición en la página 10, a saber, que el P. Pedro Pablo Barnola fue el creador de la idea del escudo. No solamente fue creador de su idea, sino que diseñó su composición. Hasta recuerdo el día en que propuso a Los miembros de la pequeña comunidad jesuítica fundadora de la Universidad el lema que había escogido, tomado de la carta de San Pablo a los Efesios, y nuestra unánime aceptación del mismo.Puedo igualmente confirmar lo que señala en las páginas 27 y 28 con respecto al himno de la UCAB. Compuse su música en 1970, siendo Rector de la Universidad, escribí su letra con referencia al escudo, y las obsequié al recordado Hermano Gregorio Lanz como colaboración para la coral universitaria de la que él era celoso promotor, sin el intento atrevido de que se convirtiera en himno de la Universidad. Su uso y la aceptación que tuvo lo convirtió en tal. Puedo informar que la melodía y la letra están registradas en las Sociedad Venezolana de Autores y Compositores.Felicito muy sinceramente a Emilio Píriz por su excelente y documentado estudio.Pío Bello S.J. Obispo?
+ 36  ?Presentación       3?
+ 36  ?I- Introducción       5?
+ 36  ?II.- El nacimiento       7?
+ 36  ?III.- El Escudo       9?
+ 36  ?IV.- Símbolos Jesuíticos       13?
+ 36  ?V- El apellido Bello       15?
+ 36  ?VI.- La Casa Loyola       17?
+ 36  ?VIL- El Escudo definitivo.       21?
+ 36  ?VIII.- El Himno y el Escudo.       27?
+ 36  ?Bibliografía       29?
+ 36  ?índice General       31?
+800  ?escudoucab-portada.jpg^dPortada del Libro?
+800  ?escudoucab-imagen.jpg^dImagen del Escudo?
+800  ?escudoucab-imagen.color.jpg^dEscudo de la UCAB en colores?
+810  ?marchaucabista.pdf^dLetra Musical de MARCHA UCABISTA?
+101  ?^n10003^l1^w20031008^zGPM?
+980  ?^d20070319 202916 1  77?
+  2  ?2?
+..mfn=     3 
+  4  ?M?
+  6  ?m?
+ 97  ?20030511?
+ 91  ?GPM?
+ 36  ?Presentación: Arturo Sosa s.j.?
+ 36  ?San Ignacio de Loyola    9?
+ 36  ?El menor de muchos hermanos    10?
+ 36  ?Casa-torre en un verde valle    11?
+ 36  ?Hacia la ancha Castilla    13?
+ 36  ?Al servicio de un Duque    16?
+ 36  ?Un herido en Pamplona    18?
+ 36  ?Cuando visitan el dolor y la muerte cercana    20?
+ 36  ?Un  hombre nuevo     24?
+ 36  ?La ruptura con todo    25?
+ 36  ?De Aránzazu a Montserrat    26?
+ 36  ?El peregrino enseñado por Dios    29?
+ 36  ?La tierra de Jesús: a Jerusalén, ida y vuelta    32?
+ 36  ?Un estudiante viejo    35?
+ 36  ?A París    38?
+ 36  ?La cosa empezó en un cuarto de colegio    39?
+ 36  ?Los aires de la tierra: paso por Azpeitia    41?
+ 36  ?Cita en Venecia    44?
+ 36  ?Un deseo frustrado. Se abre otro camino    46?
+ 36  ?En Roma    47?
+ 36  ?Un guía convertido en cabeza    50?
+ 36  ?La naciente Compañía    53?
+ 36  ?Tres deseos. Tres gracias    56?
+ 36  ?La tercera gracia: Las Constituciones    58?
+ 36  ?La vida vista desde la cima    61?
+ 36  ?Una prueba inesperada    63?
+ 36  ?Quieto en una pequeña celda    65?
+ 36  ?Los afanes de los últimos años    67?
+ 36  ?Abre la caja de los recuerdos    70?
+ 36  ?Declinar de una vida    71?
+ 36  ?Palabra y acción    73?
+ 36  ?Hombre de voluntad    76?
+ 36  ?La Estela    79?
+ 36  ?índice de fotografías   83?
+ 72  ?En estos meses la Provincia de Venezuela de la Compañía de Jesús celebra fechas que nos hacen recordar la densidad de la tradición que se va haciendo en su peregrinar en Venezuela. Una tradición de escasos ochenta años, llena de audacia apostólica y fuente de inspiración y ánimo para quienes nos preguntamos en el presente la mejor manera de continuarla apegados al espíritu vertido por San Ignacio de Loyola a quienes quiso amigos en el Señor y compañeros de Jesús?
+995  ?20030511^t08:29:38 p.m.^bGPM?
+800  ?igancioloyola2.jpg^dPortada del libro?
+810  ?jgnacioloyola.pdf^dAlgunos Capitulos del Libro?
+995  ?20030512^t05:27:32 a.m.^bGPM?
+995  ?20030514^t10:14:26 a.m.^bGPM?
+101  ?^n10004^l3^w20031008^zGPM?
+995  ?20031008^t8:37:16 a.m.^bGPM?
+995  ?20031012^t9:50:35 a.m.^bGPM?
+  9  ?Monografías?
+  3  ?^aBX4700^bL7T42?
+104  ?Biblioteca?
+ 16  ?Tellechea Idígoras^bJosé Ignacio^f1928-?
+ 18  ?Ignacio de Loyola: la aventura de un Cristiano?
+ 38  ?Compañia de Jesús, Provincia de Venezuela?
+ 38  ?Universidad Católica Andrés Bello?
+ 38  ?Fundafesi?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 41  ?2da.?
+ 20  ?86 p.?
+ 43  ?1997?
+ 44  ?19970000?
+ 42  ?il.; 23 cm.?
+ 73  ?Incluye Indice?
+ 47  ?980-244-146-5?
+ 21  ?1?
+ 62  ?General?
+995  ?20050713^t04:31:47 p.m.^bScristina?
+888  ?S?
+ 76  ?UCAB?
+ 76  ?Ignacio de Loyola, Santo, 1491-1556?
+ 80  ?Economía?
+ 81  ?Economia Laboral?
+ 77  ?Empleo?
+ 82  ?Venezuela?
+ 85  ?América Latina?
+995  ?20050908^t04:28:30 p.m.^bScristina?
+  2  ?3?
+..mfn=     4 
+ 36  ?En búsqueda del sentido de lo político?
+ 36  ?¿Violencia política en Venezuela? Algunas reflexiones preliminares^bAna Maria Sanjuán?
+ 36  ?La cultura al encuentro de la economía^bMarcelino Bisbal?
+ 36  ?El país posible en una propuesta:(Entrevista con Luis Pedro Espafia)^bSebastian de la Nuez?
+ 36  ?Política, justicia y desarrollo^bJose Virtuoso, S.J?
+ 36  ?La comunicación de la Iglesia en momentos de escándalo^bJose Martinez de Toda, S.J?
+ 36  ?Los medios de comunicación social al servicio de la autentica paz^bJoannes Paulus II?
+ 36  ?En el mercado de Dios, un Dios mas allá del mercado^bMartin Zapata?
+ 36  ?Flash: El pianista^bJ.L. Celada?
+ 36  ?En red: Dos portales para organizaciones sociales en Venezuela^bKlaus Vathroder, S.J.?
+ 36  ?Dilemas de la post-guerra de Irak^bDemetrio Boersner?
+ 36  ?Oposición y gobierno sin encontrarse mientras el país se deteriora?
+  4  ?S?
+  6  ?s?
+ 97  ?20030512?
+ 91  ?GPM?
+995  ?20030512^t06:52:41 a.m.^bGPM?
+310  ?Productor?
+370  ?Mensual?
+995  ?20030512^t07:02:44 a.m.^bGPM?
+  9  ?Revista colección?
+104  ?Biblioteca?
+ 30  ?SIC?
+ 29  ?Centro Gumilla?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?Mayo-2003?
+ 31  ?66?
+ 32  ?654?
+995  ?20030514^t10:25:46 a.m.^bGPM?
+800  ?sic-654-portada.jpg^dPortada de la revista SIC (654)?
+810  ?sic654_indice.pdf^dIndice de la revista 654 en formato PDF?
+995  ?20030514^t04:19:47 p.m.^bGPM?
+ 76  ?UCAB?
+ 76  ?Ciencias Sociales?
+ 80  ?Ciencias Sociales?
+ 81  ?Pobreza?
+ 77  ?Indicadores Económicos?
+ 77  ?Deuda Externa?
+ 77  ?Datos estadisticos?
+ 82  ?Venezuela?
+ 85  ?América Latina?
+995  ?20031012^t9:51:23 a.m.^bGPM?
+  2  ?4?
+..mfn=     5 
+  4  ?K?
+  6  ?k?
+ 97  ?20030512?
+ 91  ?GPM?
+750  ?15?
+995  ?20030512^t07:13:11 a.m.^bGPM?
+995  ?20030514^t09:37:54 a.m.^bGPM?
+995  ?20030514^t10:25:03 a.m.^bGPM?
+ 64  ?Español?
+ 76  ?Ciencias Sociales?
+ 76  ?UCAB?
+ 79  ?Ciencias Sociales?
+ 80  ?Educación?
+ 82  ?Venezuela?
+ 85  ?América Latina?
+995  ?20031012^t9:52:08 a.m.^bGPM?
+995  ?20050711^t12:53:05 p.m.^bScristina?
+995  ?20050711^t12:55:57 p.m.^bScristina?
+  9  ?Revista colección?
+ 35  ?0254-1645?
+104  ?Hemeroteca?
+ 30  ?SIC?
+ 29  ?Centro Gumilla?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+310  ?Compra?
+370  ?Mensual?
+300  ?En curso?
+340  ?Impresa?
+330  ?Centro Gumilla?
+995  ?20050711^t01:00:21 p.m.^bScristina?
+  2  ?5?
+..mfn=     6 
+  4  ?S?
+  6  ?a?
+ 97  ?20030512?
+ 91  ?GPM?
+995  ?20030512^t07:18:09 a.m.^bGPM?
+995  ?20030512^t07:24:00 a.m.^bGPM?
+810  ?sic654-editorial.pdf^dEditorial de la revista Sic 654 en PDF?
+995  ?20030514^t05:59:23 a.m.^bGPM?
+101  ?^n1^l1^w20031008^zGPM?
+995  ?20031008^t8:39:54 a.m.^bGPM?
+ 64  ?Español?
+ 76  ?UCAB?
+ 76  ?Ciencias Sociales?
+ 76  ?Ciencias Politícas?
+ 79  ?Arte?
+ 82  ?Venezuela?
+ 85  ?América del Sur?
+995  ?20031012^t9:52:43 a.m.^bGPM?
+ 72  ?Venezuela es una ameba política, no tiene órganos separados de la política, la política se mete en todas las cosas... Hay una especie de hipnosis producida por la situación política del momento, pero a medida que va cambiando esa situación lambían van cambiando las opiniones y hay una Irradiación emocional del momento político, entonces ya no se puede hablar de nada sin hablar de la política Inmediata?
+ 72  ?jljljlkjslkslkkdjslk slkkjsdld sjlksjksjlksjlds?
+ 72  ?jljdjdslk lskjlskjksljlksjlksjlksklsj?
+995  ?20050621^t10:46:55 a.m.^bScristina?
+  9  ?Revista artículo?
+104  ?Hemeroteca?
+ 10  ?Briceño Guerrero^bJosé Manuel?
+ 12  ?En búsqueda del sentido de lo politíco?
+ 14  ?pp. 146-147?
+ 30  ?SIC m?
+ 29  ?Centro Gumilla?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?2003?
+ 31  ?61?
+ 32  ?654?
+750  ?15?
+995  ?20050711^t12:48:49 p.m.^bScristina?
+  2  ?6?
+..mfn=     7 
+ 64  ?Español?
+ 74  ?1999?
+ 75  ?2000?
+ 76  ?Informe de Gestión?
+ 76  ?UCAB?
+ 76  ?Informe del Rector?
+  4  ?M?
+  6  ?m?
+ 97  ?20030514?
+ 91  ?GPM?
+800  ?informerector1999-2000.jpg^dPortada del Documento Informe del Rector (1999-2000)?
+101  ?^n100005^l1^w20031008^zGPM?
+  9  ?Informe del Rector?
+  3  ?^a222.111^bU26^c2000?
+104  ?Biblioteca?
+ 16  ?Ugalde^bLuis?
+ 18  ?Informe del Rector al Consejo Funcional: Período 1999-2000?
+ 38  ?Universidad Católica Andrés Bello?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?44 p.?
+ 43  ?2000?
+ 44  ?20000000?
+ 22  ?Dirección de Promoción?
+ 63  ?Impreso?
+ 21  ?1?
+ 62  ?General?
+995  ?20031008^t8:37:54 a.m.^bGPM?
+  2  ?7?
+..mfn=     8 
+ 64  ?Español?
+ 74  ?2001?
+ 75  ?2002?
+ 76  ?Informe de Gestión?
+ 76  ?UCAB?
+ 76  ?Informe del Rector?
+  4  ?M?
+  6  ?m?
+ 97  ?20030514?
+ 91  ?GPM?
+995  ?20030514^t07:22:15 a.m.^bGPM?
+995  ?20030514^t07:22:55 a.m.^bGPM?
+800  ?informerector2001-2002.jpg^dPortada del Documento Informe del Rector (2001-2002)?
+995  ?20030514^t07:24:06 a.m.^bGPM?
+995  ?20030514^t03:22:15 p.m.^bGPM?
+101  ?^n67091^l2^w20031008^zGPM?
+  9  ?Informe del Rector?
+  3  ?^a222.111^bU26^c2002?
+104  ?Biblioteca?
+ 16  ?Ugalde^bLuis?
+ 18  ?Informe del Rector al Consejo Funcional: Período 2001-2002?
+ 38  ?Universidad Católica Andrés Bello?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?58 p.?
+ 43  ?2002?
+ 44  ?20020000?
+ 22  ?Dirección de Promoción?
+ 63  ?Impreso?
+ 21  ?1?
+ 62  ?General?
+995  ?20031008^t8:38:12 a.m.^bGPM?
+  2  ?8?
+..mfn=     9 
+  4  ?M?
+  6  ?m?
+ 97  ?20030514?
+ 91  ?GPM?
+995  ?20030514^t07:26:58 a.m.^bGPM?
+995  ?20030514^t07:27:39 a.m.^bGPM?
+800  ?estatutosucab.jpg^dProtada del documento?
+995  ?20030514^t07:29:47 a.m.^bGPM?
+ 64  ?Español?
+ 76  ?Estatuto orgánico?
+ 76  ?UCAB?
+995  ?20030514^t07:30:34 a.m.^bGPM?
+  9  ?Reglamentos?
+  3  ?^a555.222^bU16?
+ 17  ?Universidad Católica Andrés Bello?
+ 18  ?Estatuto orgánico de la Universidad Católica Andrés Bello?
+ 38  ?Universidad Católica Andrés Bello?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?38 p.?
+ 43  ?2001?
+ 44  ?20010000?
+ 63  ?Impreso?
+ 62  ?General?
+995  ?20050713^t04:32:54 p.m.^bScristina?
+  2  ?9?
+..mfn=    10 
+ 36  ?De la retórica a la ciberpolítica^bH María Daniela Corredor Salcedo?
+ 36  ?Democracia Electrónica, Crisis de Representación y Participación Ciudadana^bAgrivalca R. Canelón S.?
+ 36  ?Periodismo entre la crisis y la esperanza^bM Javier Darío Restrepo?
+ 36  ?Previniendo la histeria colectiva^bH Jesús María Aguirre?
+ 36  ?Medios y crisis política: El caso ecuatoriano^bH Gabriela Córdova?
+ 36  ?Brasil: De las visibilidades de las elecciones de 2002^bH Antonio Albino Canelas Rubín?
+ 36  ?Locus solus: Ludovico Silva^bH David De los Reyes?
+ 36  ?La política informativa del gobierno de Hugo Chávez^bM Mirelis Morales y Javier Pereira?
+ 36  ?Sociedad civil, comunicación y política en el contexto venezolano^bM Marcelino Bisbal?
+ 36  ?Ética, medios, periodistas y corresponsales?
+ 36  ?Derecho a la libertad de expresión e información - PROVEA?
+  4  ?S?
+  6  ?s?
+ 97  ?20030514?
+ 91  ?GPM?
+995  ?20030514^t07:50:23 a.m.^bGPM?
+810  ?comunicacion.pdf^dTabla de contenido del numero 142?
+995  ?20030514^t08:00:07 a.m.^bGPM?
+ 64  ?Español?
+ 76  ?UCAB?
+995  ?20030514^t08:00:17 a.m.^bGPM?
+  9  ?Revista colección?
+104  ?Hemeroteca?
+ 30  ?Comunicación?
+ 29  ?Centro Guimilla?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?Ene.-Mar. 2003?
+ 32  ?121?
+995  ?20030514^t10:26:17 a.m.^bGPM?
+  2  ?10?
+..mfn=    11 
+  4  ?M?
+  6  ?m?
+101  ?^n10^m1^l1^oConsultoria^fCompra^p19980909^rElite^q20000^kAdquirido por sugerencias del Director^w19990323^zGPM?
+101  ?^n11^m1^l2^oBiblioteca^fCompra^p19980909^rElite^q20000^w19990323^zGPM?
+995  ?20030218^t12:26:45 p.m.^bGPM?
+995  ?20030226^t10:38:18 a.m.^bGPM?
+995  ?20030423^t12:06:26 p.m.^bGPM?
+ 76  ?Arquitectura?
+ 76  ?Diseño de Edificios?
+ 76  ?Multimedia?
+ 76  ?Bancos?
+ 76  ?Banco Mercantil?
+ 80  ?Arte?
+ 37  ?Album con fotografías de planos y maquetas arquitectónicos?
+995  ?20030423^t12:06:48 p.m.^bGPM?
+  9  ?Monografías?
+  3  ?^a721.042^bSw22?
+104  ?Centro de Documentación?
+ 16  ?Cabrera Eleizalde^bOrlando?
+ 16  ?Díaz^bJosé Ramón?
+ 16  ?Bartlett^bPeter?
+ 16  ?Bock^bDavid R.?
+ 16  ?Cabrera Eleizalde^bOrlando?
+ 17  ?Swanke Hayden Connell?
+ 18  ?Swanke Hayden Connell Architects?
+ 38  ?Swanke Hayden Connell?
+ 38  ?Banco de Venezuela?
+ 39  ?New York?
+ 40  ?Estados Unidos?
+ 20  ?26 fotog.?
+ 43  ?1989?
+ 44  ?19890000?
+ 42  ?Ilus. , 30 cm.?
+995  ?20030514^t10:31:14 a.m.^bGPM?
+ 64  ?Inglés?
+995  ?20041026^t05:19:57 p.m.^bcs?
+995  ?20041026^t05:26:21 p.m.^bcs?
+995  ?20041026^t06:11:59 p.m.^bcs?
+800  ?arquit.bmp^dArquitectura?
+800  ?Document.tif^dDocumento TIF?
+800  ?IMAG4.BMP^dImagen BMP mapa?
+810  ?Informaciónelectronicaenunmundosinfrontereas.pdf^dArchivo PDF?
+820  ?MOZART1.RMI^dEjemplo de archivo .rmi?
+820  ?Cabelle, Monserrat - Freddie Mercury - Barcelona.mp3^dBarcerlona - Freddy Mercury y Montserrat Caballe?
+830  ?AVERIA.AVI^dEjemplo de archivo .avi?
+830  ?biograrjv.exe^dBiografía Ramón J. Velásquez?
+830  ?datagateway.pps^dPresentación DataGateway?
+830  ?isisgateway95.pps^dPresentación IsisGateway?
+840  ?http://www.multimedium-si.com^dPágina de Multimedium. Sistemas de Información?
+995  ?20041026^t06:14:10 p.m.^bcs?
+  2  ?11?
+..mfn=    12 
+ 74  ?1983?
+  4  ?S?
+  6  ?s?
+  3  ?^a332.456^bM319?
+ 76  ?Control de Cambios?
+ 76  ?Divisas?
+ 76  ?Multimedia?
+ 80  ?Finanzas?
+ 37  ?Suplemento de la Guía Venezolana de Transporte - Guiventra?
+995  ?20030110^t03:38:00 a.m.^bGPM?
+995  ?20030408^t05:08:47 p.m.^bGPM?
+995  ?20030408^t05:10:18 p.m.^bGPM?
+ 64  ?Español?
+  9  ?Manuales?
+104  ?Biblioteca?
+ 30  ?Manual de Normas y Procedimientos Sobre Control de Cambios?
+ 38  ?Editorial Esculapio?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?1983??
+ 31  ?v.?
+800  ?moneda.bmp^dImagenes de monedas venezolanas?
+810  ?E_Manual.pdf^dManual de procedimiento en PDF?
+840  ?http://www.ucab.edu.ve?
+995  ?20030514^t04:25:30 p.m.^bGPM?
+  2  ?12?
+..mfn=    13 
+  4  ?S?
+  6  ?a?
+ 97  ?19991020?
+101  ?^n0001^m1^l1^w20010719^zGPM?
+  3  ?^aHEMEROTECA.1?
+ 11  ?Academia Venezolana Correspondiente de la Real Española?
+ 12  ?El Diario de Negocios: ahorro e inversión?
+ 14  ?pp. 1-23?
+ 73  ?Es?
+ 30  ?APS Software?
+ 38  ?Software?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?1990?
+ 32  ?n. 7?
+995  ?20010719^t1:48:28 p.m.^bGPM?
+  9  ?Documentos no Convencionales?
+  2  ?13?
+..mfn=    14 
+  9  ?Boletines?
+  3  ?^aPP.9?
+104  ?Biblioteca?
+ 30  ?Actualidad Jurídica Empresarial?
+ 38  ?Comunicaciones Técnicas?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?ener. 1989?
+ 31  ?año 1?
+ 74  ?1989?
+ 76  ?Jurisprudencia?
+ 76  ?Legislación?
+ 76  ?Derecho Bancario?
+ 80  ?Derecho?
+ 82  ?Venezuela?
+ 34  ?1989-?
+  4  ?S?
+  6  ?s?
+ 97  ?19991020?
+ 64  ?Español?
+  2  ?14?
+..mfn=    15 
+ 72  ?Programa que tiene por finalidad, convertir las oficinas en modernos centros financieros y lograr una plena identificación de las Empresas que conforman el Consorcio Inversionista Mercantil?
+  4  ?S?
+  6  ?a?
+995  ?20000303^t04:48:56 PM^bGAA?
+995  ?20000303^t05:27:55 PM^bGAA?
+995  ?20000303^t05:28:51 PM^bGAA?
+995  ?20000306^t06:13:54 PM^bGAA?
+995  ?20000306^t07:05:10 PM^bGAA?
+995  ?20010711^t11:13:26 a.m.^bGPM?
+995  ?20010711^t11:13:54 a.m.^bGPM?
+ 74  ?1990?
+ 75  ?1990?
+ 76  ?Servicios Financieros?
+ 76  ?Vacaciones?
+ 76  ?Estadisticas?
+ 80  ?Analisis economico?
+ 77  ?Datos estadisticos?
+ 82  ?Venezuela?
+995  ?20010711^t11:57:25 a.m.^bGPM?
+995  ?20010711^t11:57:32 a.m.^bGPM?
+101  ?^n0002^m2^l2^fDonación^rFundación La Salle de Ciencias Naturales^w20010719^zGPM?
+  3  ?^aPP.10?
+104  ?Biblioteca?
+ 12  ?La recesión no toma vacaciones?
+ 14  ?pp. 140-143?
+ 30  ?Producto?
+ 38  ?Grupo Producto?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?Ago. 1996?
+ 31  ?Año 1996?
+ 32  ?No. 155?
+995  ?20010719^t1:49:38 p.m.^bGPM?
+ 64  ?Español?
+  9  ?Revista artículo?
+  2  ?15?
+..mfn=    16 
+  4  ?S?
+  6  ?a?
+  7  ?Biblioteca?
+ 52  ?Zentralsparkasse und Kommerzialbank,Wien?
+ 53  ?The Round-table Conference Held?
+ 54  ?Budapest?
+ 55  ?Hungría?
+ 56  ?30 Noviembre-1 Diciembre 1989?
+ 57  ?19891130?
+ 74  ?1990?
+ 75  ?1990?
+ 76  ?Cooperación Internacional?
+ 76  ?Europa?
+ 76  ?Deuda Externa?
+ 80  ?Finanzas Internacionales?
+ 82  ?Europa?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+ 97  ?19991020?
+101  ?^n0004^m2^l1^w20010719^zGPM?
+101  ?^n0004^m2^l3^w20010719^zGPM?
+995  ?20010719^t1:57:34 p.m.^bGPM?
+  3  ?^aPP.11?
+104  ?Biblioteca?
+ 12  ?European Cooperation and East European Indebtedness?
+ 14  ?pp. 12?
+ 30  ?Z-Report: Special supplement?
+ 38  ?Zentralsparkasse und Kommerzialbank, Wien?
+ 39  ?Budapest?
+ 40  ?Hungría?
+ 44  ?19900100?
+ 43  ?ener. 1990?
+995  ?20030514^t10:11:14 a.m.^bGPM?
+ 64  ?Inglés?
+  9  ?Revista artículo?
+  2  ?16?
+..mfn=    17 
+  4  ?S?
+  6  ?a?
+  7  ?Biblioteca?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+ 97  ?19991020?
+995  ?20010702^t11:00:49 a.m.^bGPM?
+995  ?20010702^t11:11:54 a.m.^bGPM?
+995  ?20010702^t11:44:50 a.m.^bGPM?
+995  ?20010702^t11:45:59 a.m.^bGPM?
+995  ?20010702^t11:53:03 a.m.^bGPM?
+995  ?20010702^t11:53:33 a.m.^bGPM?
+995  ?20010702^t11:56:10 a.m.^bGPM?
+995  ?20010706^t4:56:03 p.m.^bGPM?
+995  ?20010709^t2:06:09 p.m.^bGPM?
+995  ?20010710^t4:38:39 p.m.^bGPM?
+995  ?20010710^t4:40:06 p.m.^bGPM?
+995  ?20010711^t8:38:33 a.m.^bGPM?
+995  ?20010711^t11:58:16 a.m.^bGPM?
+995  ?20010711^t2:51:14 p.m.^bGPM?
+995  ?20010712^t10:32:50 a.m.^bGPM?
+995  ?20010719^t1:58:27 p.m.^bGPM?
+995  ?20010719^t1:58:45 p.m.^bGPM?
+995  ?20010719^t1:58:58 p.m.^bGPM?
+995  ?20010719^t1:59:35 p.m.^bGPM?
+101  ?^n0007^m1^l1^w20010719^zGPM?
+101  ?^n0008^m2^l2^w20010719^zGPM?
+101  ?^n0009^m3^l3^w20010719^zGPM?
+  3  ?^aPP.12?
+104  ?Biblioteca?
+ 10  ?Báez Duarte^bAlberto?
+ 12  ?Case study:  The key to your bank  is key to success at Banco Mercantil?
+ 14  ?pp. 32-34?
+ 30  ?The World of Banking?
+ 38  ?Bank Administration Institute?
+ 39  ?Illinois?
+ 40  ?Estados Unidos?
+ 44  ?19870300?
+ 43  ?mar.-abr. 1987?
+ 31  ?vol. 6?
+ 32  ?n. 2?
+995  ?20010719^t1:59:55 p.m.^bGPM?
+995  ?20010719^t04:43:04 p.m.^bGPM?
+995  ?20010829^t03:04:56 p.m.^bGPM?
+995  ?20010829^t03:05:21 p.m.^bGPM?
+  9  ?Revista artículo?
+ 64  ?Inglés?
+ 74  ?1987?
+ 75  ?1987?
+ 76  ?Instituciones Financieras?
+ 76  ?Automatización?
+ 76  ?Servicios Financieros?
+ 76  ?Bancos?
+ 76  ?Banco Mercantil?
+ 80  ?Finanzas Internacionales?
+ 82  ?Venezuela?
+ 86  ?BAI?
+995  ?20050908^t10:59:32 a.m.^bScristina?
+  2  ?17?
+..mfn=    18 
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+ 33  ?Trimestral?
+ 34  ?1979-?
+ 44  ?19790420?
+ 72  ?En este número se trata la situación de la liquidez del sistema y el efcto que sobre ésta ha tenido inflexibilidad en las tasas de interés en especial las activas de la banca comercial. El Banco Mercantil es partidario de un mecanismo flexible para la determinación de los intereses.?
+ 74  ?1979?
+ 83  ?Venezuela?
+ 91  ?ZNR?
+900  ?s?
+901  ?s?
+ 97  ?19991020?
+310  ?Suscripción?
+370  ?Anual?
+330  ?Banco Mercantil?
+ 36  ?Liquidez del sistema?
+ 36  ?Estructura de las tasas de interes?
+ 36  ?Evolución del PTB?
+ 36  ?Inflación?
+ 36  ?Petróleo?
+ 36  ?El alumnio?
+  9  ?Boletines?
+  3  ?^aPP.13?
+104  ?Biblioteca?
+ 30  ?Boletín Económico?
+ 35  ?79-0092?
+ 38  ?Banco Mercantil?
+ 29  ?Banco Mercantil?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?abr. 1979?
+ 64  ?Español?
+ 76  ?Economía?
+ 76  ?Mercado Monetario?
+ 76  ?Bancos Comerciales?
+ 76  ?Bancos?
+ 76  ?Mercado Financiero?
+ 76  ?Análisis Económico?
+ 80  ?Economía?
+ 81  ?Finanzas?
+ 77  ?Liquidez?
+ 77  ?Crecimiento Económico?
+ 77  ?Petróleo?
+ 77  ?Exportaciones?
+ 77  ?PTB?
+ 86  ?PTB?
+ 37  ?Informe sobre mercados de dinero?
+995  ?20010711^t11:59:20 a.m.^bGPM?
+995  ?20010711^t2:45:42 p.m.^bGPM?
+995  ?20010712^t10:57:24 a.m.^bGPM?
+995  ?20010719^t04:43:11 p.m.^bGPM?
+995  ?20030514^t10:46:17 a.m.^bGPM?
+  2  ?18?
+..mfn=    19 
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+ 33  ?Trimestral?
+ 34  ?1980-?
+ 36  ?Monetary Developments Following the Freeing of Interest Rates?
+ 36  ?Development of the Central Western Region?
+ 36  ?Special topic: Economic and Financial Situation of Sidor.?
+ 44  ?19800800?
+ 74  ?1980?
+ 91  ?ZNR?
+900  ?s?
+901  ?s?
+ 97  ?19991020?
+  9  ?Boletines?
+  3  ?^aPP.14?
+104  ?Biblioteca?
+ 30  ?Economic Bulletin on Venezuela?
+ 35  ?83-0182?
+ 38  ?Banco Mercantil?
+ 29  ?Banco Mercantil?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?dic. 1980?
+995  ?20010719^t2:00:17 p.m.^bGPM?
+ 64  ?Inglés?
+ 76  ?Análisis Económico?
+ 76  ?Mercado Monetario?
+ 76  ?Indicadores Económicos?
+ 80  ?Economía?
+ 82  ?Venezuela?
+995  ?20030514^t10:46:27 a.m.^bGPM?
+  2  ?19?
+..mfn=    20 
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+ 33  ?Mensual?
+ 34  ?1985-?
+ 44  ?19851000?
+ 74  ?1985?
+ 86  ?Christie' s?
+ 91  ?ZNR?
+900  ?s?
+901  ?s?
+ 97  ?19991020?
+995  ?20010702^t12:01:19 p.m.^bGPM?
+995  ?20010706^t4:54:32 p.m.^bGPM?
+995  ?20010711^t12:38:24 p.m.^bGPM?
+995  ?20010711^t12:41:07 p.m.^bGPM?
+995  ?20010711^t12:42:54 p.m.^bGPM?
+995  ?20010711^t12:43:40 p.m.^bGPM?
+995  ?20010711^t2:52:35 p.m.^bGPM?
+995  ?20010719^t04:43:19 p.m.^bGPM?
+995  ?20010829^t03:06:20 p.m.^bGPM?
+  9  ?Boletines?
+  3  ?^aPP.15?
+104  ?Biblioteca?
+ 30  ?Auction News from Christie's?
+ 38  ?Christie, Manson & Woods International?
+ 29  ?Christie, Manson & Woods International?
+ 39  ?New York?
+ 40  ?Estados Unidos?
+ 43  ?oct.-nov. 1985?
+ 31  ?vol. 6?
+ 32  ?n. 1?
+ 76  ?Arte?
+ 80  ?Arte?
+ 37  ?9 números al año.?
+995  ?20010829^t03:06:41 p.m.^bGPM?
+ 64  ?Inglés?
+  2  ?20?
+..mfn=    21 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+ 97  ?19910223?
+  3  ?^aPP.16?
+104  ?Biblioteca?
+ 12  ?La faja petrolífera del Orinoco?
+ 14  ?pp. 1-48?
+ 30  ?Resumen. Separata?
+ 38  ?Editora Resumen?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?19800000?
+ 43  ?1980??
+ 74  ?1980?
+ 76  ?Faja Petrolífera del Orinoco?
+ 76  ?Industria Petrolera?
+ 80  ?Industria?
+ 82  ?Venezuela?
+800  ?IMAG4.BMP^dImagen digitalizada?
+995  ?20010711^t2:47:32 p.m.^bGPM?
+995  ?20010711^t2:53:04 p.m.^bGPM?
+995  ?20010711^t2:59:50 p.m.^bGPM?
+995  ?20010711^t3:32:55 p.m.^bGPM?
+995  ?20030109^t12:48:27 a.m.^bGPM?
+ 64  ?Español?
+  9  ?Revista artículo?
+  2  ?21?
+..mfn=    22 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+ 97  ?19910223?
+995  ?20010719^t2:00:52 p.m.^bGPM?
+101  ?^n0010^m1^l2^w20010719^zGPM?
+101  ?^n0011^l2^w20010719^zGPM?
+  3  ?^aPP.17?
+104  ?Biblioteca?
+ 12  ?El desarrollo del plan de ajuste macroeconómico de 1989: Evaluación de la primera etapa, los retos y riesgos de la segunda etapa?
+ 14  ?pp. 1-3?
+ 30  ?Boletín Económico?
+ 38  ?Banco Mercantil?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?19891200?
+ 43  ?dic. 1989?
+ 31  ?vol. 11?
+ 32  ?n. 4?
+995  ?20010719^t2:01:19 p.m.^bGPM?
+ 64  ?Español?
+ 74  ?1989?
+ 76  ?Macroeconomía?
+ 76  ?Política Económica?
+ 80  ?Economía?
+ 82  ?Venezuela?
+995  ?20030514^t10:46:37 a.m.^bGPM?
+  9  ?Revista artículo?
+  2  ?22?
+..mfn=    23 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+ 97  ?19910223?
+101  ?^n0014^m1^l1^w20010719^zGPM?
+101  ?^n0015^m2^l1^w20010719^zGPM?
+101  ?^n0015^m3^l1^w20010719^zGPM?
+  9  ?Artículo de periódico?
+  3  ?^aPP.18?
+104  ?Biblioteca?
+ 12  ?Marco conceptual y programático de la reconversión industrial. Análisis sectorial: la actividad industrial?
+ 14  ?pp. 3-8?
+ 30  ?Boletín Económico?
+ 38  ?Banco Mercantil?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?19891200?
+ 43  ?dic. 1989?
+ 31  ?vol. 11?
+ 32  ?n 4?
+ 64  ?Español?
+ 74  ?1989?
+ 76  ?Reconversión Industrial?
+ 76  ?Industria Textil?
+ 80  ?Industria?
+ 82  ?Venezuela?
+995  ?20030514^t10:46:45 a.m.^bGPM?
+  2  ?23?
+..mfn=    24 
+902  ?^sBancomer^f^n31?
+900  ?s?
+901  ?a?
+  7  ?Biblioteca?
+ 91  ?ZNR?
+  4  ?S?
+  6  ?as?
+ 97  ?19910223?
+101  ?^n0016^m1^l1^w20010719^zGPM?
+101  ?^n0017^m1^l2^w20010719^zGPM?
+101  ?^n0018^m2^l1^w20010719^zGPM?
+101  ?^n0019^m2^l2^w20010719^zGPM?
+  3  ?^aPP.19?
+104  ?Biblioteca?
+ 12  ?El ajuste contractivo: El mercado de trabajo: Evaluación del mercado cambiario: Liquidez monetaria y tasas de interes?
+ 14  ?pp. 1-8?
+ 42  ?grafs.?
+ 30  ?Boletín Económico?
+ 38  ?Banco Mercantil?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?19890900?
+ 43  ?sep. 1989?
+ 31  ?vol 11?
+ 32  ?n. 3?
+800  ?trabajo.jpg^dEstadisticas de trabajo?
+ 64  ?Español?
+ 74  ?1989?
+ 76  ?Política Económica?
+ 76  ?Mercado de Trabajo?
+ 76  ?Control de Cambios?
+ 76  ?Mercados de Divisas?
+ 76  ?Mercado Financiero?
+ 76  ?Liquidez?
+ 76  ?Tasa de Interes?
+ 76  ?Multimedia?
+ 80  ?Finanzas?
+ 82  ?Venezuela?
+995  ?20030514^t10:46:52 a.m.^bGPM?
+  9  ?Revista artículo?
+  2  ?24?
+..mfn=    25 
+ 52  ?CONICIT?
+ 52  ?MULTIMEDIUM. Estudio Creativo?
+ 53  ?Curso Microisis Multimedia?
+ 54  ?Caracas?
+ 55  ?Venezuela?
+ 56  ?12-14 mayo 1997?
+ 57  ?19970512?
+  4  ?M?
+  6  ?m?
+ 76  ?Sistemas de Información?
+ 76  ?Bases de datos?
+ 76  ?Recursos Multimedia?
+ 76  ?Microisis?
+ 76  ?WWW Isis?
+ 76  ?Winisis?
+ 76  ?Cursos?
+ 76  ?Multimedia?
+ 76  ?Educación?
+ 80  ?Entrenamiento?
+ 81  ?Computación?
+800  ?indice.jpg^dIndice formato MARC?
+995  ?20030108^t06:41:48 p.m.^bGPM?
+ 64  ?Español?
+  9  ?Manuales?
+  3  ?^aD\001?
+104  ?Documento digitalizado?
+ 16  ?Ascencio^bGuilda^rinstructor)?
+ 18  ?Opciones avanzadas para la gestión de información a través de bases de datos en Microisis: Programa del curso?
+ 38  ?s.e.?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?2 p.?
+ 43  ?1997?
+ 44  ?19970000?
+995  ?20030514^t10:49:45 a.m.^bGPM?
+  2  ?25?
+..mfn=    26 
+101  ?^n5^l1^oBiblioteca^fCompra^p19950102^q10000^w19970723^zgpm?
+ 36  ?Cómo desarrollar estrategias eficaces de mercadotecnia, V.1?
+ 36  ?La mejor inversión de sus activos: la productividad, v.2?
+ 36  ?Estrategias financieras, v.3?
+ 36  ?Cómo tratar con el empleado difícil, v.4?
+ 36  ?Estrategias para el mercadeo de productos industriales y servicios, v.5?
+ 36  ?Cómo administrar la creatividad en las organizaciones, v.6?
+ 36  ?Elementos claves en la administración de la mercadotecnia, v. 7?
+ 36  ?Vida del ejecutivo: estrategias de desarrollo personal, v.8?
+ 36  ?El valor de las estructuras y el elemento humano en las estrategias de mercadotecnia, v.9?
+ 36  ?Estrategias de publicidad, promoción y nuevos enfoques en la investigación de mercados, v.10?
+ 36  ?Cuando el ejecutivo es una mujer, v.11?
+ 36  ?Innovación y nuevas tendencias en la mercadotecnia, v.12?
+ 36  ?Cómo mantenerse en la cúspide: estrategias personales, v.13?
+  4  ?C?
+  6  ?c?
+995  ?20030514^t10:31:42 a.m.^bGPM?
+ 64  ?Español?
+ 74  ?1987?
+ 75  ?1987?
+ 76  ?Planificación Financiera?
+ 76  ?Administración?
+ 80  ?Planificación?
+995  ?20030514^t10:48:09 a.m.^bGPM?
+  9  ?Monografías?
+  3  ?^a658.301^bEs82a?
+104  ?CI?
+ 25  ?Estrategias de Harvard?
+ 38  ?Educar Cultural Recreativa?
+ 39  ?Bogotá?
+ 40  ?Colombia?
+ 43  ?1987?
+ 27  ?13 vol.?
+ 42  ?gráfs.; ilus.; tbls.; 29 cm.?
+ 73  ?12 ref?
+ 47  ?958-615-214-6?
+995  ?20030514^t10:49:09 a.m.^bGPM?
+  2  ?26?
+..mfn=    27 
+  3  ?^a306^bAs57?
+104  ?Biblioteca?
+ 17  ?Asociación Cultural para el Desarrollo?
+ 18  ?Tú y la cultura popular?
+ 38  ?ACUDE?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?96 p.?
+ 43  ?1990?
+ 44  ?19900000?
+ 42  ?ilus.; 24 cm.?
+101  ?^n7^l1^oCI^fCompra^p19951010^q4000^w19951010^zgpm?
+  4  ?M?
+  6  ?m?
+995  ?20010702^t12:04:35 p.m.^bGPM?
+995  ?20010706^t4:50:53 p.m.^bGPM?
+995  ?20010717^t11:01:49 a.m.^bGPM?
+995  ?20010719^t04:44:27 p.m.^bGPM?
+ 76  ?Cultura Popular?
+ 80  ?Arte?
+ 82  ?Venezuela?
+ 86  ?IBM?
+ 86  ?ACUDE?
+ 37  ?Auspiciado por IBM de Venezuela?
+995  ?20010829^t03:25:14 p.m.^bGPM?
+  9  ?Monografías?
+ 64  ?Español?
+  2  ?27?
+..mfn=    28 
+101  ?^n10^l1^oBiblioteca^fCompra^p19970510^q12000^w19970510^zgpm?
+  4  ?M?
+  6  ?m?
+ 74  ?1987?
+ 75  ?1987?
+ 76  ?Inversiones?
+ 76  ?Negocios?
+ 76  ?Comercio?
+ 80  ?Finanzas?
+ 82  ?América Latina?
+ 86  ?CURINDE?
+ 37  ?Anexes as per date indicated?
+  9  ?Documentos no Convencionales?
+  3  ?^a330.972986^bC923g?
+104  ?Biblioteca?
+ 17  ?Curacao Industrial and International Trade Development?
+ 18  ?Guide to successful investments?
+ 38  ?CURINDE?
+ 39  ?Curacao?
+ 40  ?Antillas Neerlandesas?
+ 20  ?53 p.?
+ 43  ?1987?
+ 44  ?19870600?
+ 42  ?ilus., tbls.; 21 cm.?
+995  ?20030514^t10:38:42 a.m.^bGPM?
+ 64  ?Inglés?
+  2  ?28?
+..mfn=    29 
+ 74  ?1979?
+ 75  ?1979?
+ 76  ?Inversiones?
+ 76  ?Industria?
+ 80  ?Finanzas?
+ 82  ?Antillas Neerlandesas?
+ 37  ?Las islas que forman el Grupo Dutch Windward Islands son: San Martin, San Eustaquio y Saba?
+101  ?^n15^l1^oBiblioteca^fCompra^p19960723^q10000^w19960723^zgpm?
+  4  ?M?
+  6  ?m?
+  9  ?Documentos no Convencionales?
+  3  ?^a330.972977^bC356?
+104  ?Biblioteca?
+ 17  ?Chamber of Commerce & Dutch Windward Islands?
+ 18  ?An investor's guide to the Ducth Windward Islands?
+ 38  ?Dutch Windward Islands?
+ 39  ?Dutch Windward Islands?
+ 40  ?Antillas Neerlandesas?
+ 20  ?75 p.?
+ 43  ?1979?
+ 44  ?19790000?
+ 42  ?ilus.; 22 cm.?
+995  ?20030514^t10:32:06 a.m.^bGPM?
+ 64  ?Inglés?
+  2  ?29?
+..mfn=    30 
+ 74  ?1990?
+ 76  ?Países en Desarrollo?
+ 76  ?Países Desarrollados?
+ 76  ?Exportaciones?
+ 76  ?Inversiones?
+ 76  ?Negocios?
+ 76  ?Comercio Exterior?
+ 80  ?Comercio?
+ 82  ?Mundial?
+ 86  ?PROMEXPORT?
+ 86  ?CFI?
+ 37  ?Fotocopia.?
+101  ?^n100^l1^oBiblioteca^fCompra^p19950723^q30000^w19950723^zgpm?
+  4  ?M?
+  6  ?m?
+  9  ?Documentos no Convencionales?
+  3  ?^a382.9^bC817?
+104  ?CI?
+104  ?Biblioteca?
+ 17  ?Corporación Financiera Internacional?
+ 17  ?Promexport, trad.?
+ 18  ?Exportación a los países industriales: perspectivas para negocios de los países en desarrollo?
+ 38  ?Promexport?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?108 p.?
+ 43  ?1990?
+ 44  ?19900000?
+ 42  ?28 cm.?
+995  ?20030514^t10:13:30 a.m.^bGPM?
+ 64  ?Español?
+  2  ?30?
+..mfn=    31 
+101  ?^n12^l1^oBiblioteca^fCompra^p19961212^rEditema^q50000^w19961212^zgpm?
+  4  ?M?
+  6  ?m?
+ 64  ?Español?
+ 76  ?MULTIMEDIA?
+ 86  ?FLASA?
+800  ?presencia.jpg^dPORTADA DE LA REVISTA PRESENCIA?
+995  ?20030514^t10:39:13 a.m.^bGPM?
+  9  ?Documentos no Convencionales?
+104  ?Biblioteca?
+ 17  ?Fundación La Salle de Ciencias Naturales?
+ 18  ?Presencia?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?119 p.?
+ 43  ?2000?
+ 44  ?20000000?
+ 42  ?gráfs., ilus., tbls., 24 cm.?
+995  ?20050630^t05:44:55 p.m.^bScristina?
+  2  ?31?
+..mfn=    32 
+  3  ?^aPP.20?
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+  9  ?Boletines?
+ 29  ?Business International Corporation?
+ 30  ?Business International Weekly Reports?
+ 33  ?Semanal?
+ 34  ?1988-?
+ 38  ?Business International Corporation?
+ 39  ?New York?
+ 40  ?Estados Unidos?
+ 43  ?11 sep. 1988?
+ 44  ?19880911?
+ 74  ?1988?
+ 76  ?Negocios?
+ 76  ?Inversiones?
+ 80  ?Finanzas?
+ 82  ?Mundial?
+ 86  ?BIC?
+ 91  ?ZNR?
+104  ?CI?
+900  ?s?
+901  ?s?
+ 37  ?ISBN 980-300-873-0?
+ 97  ?19961006?
+ 64  ?Inglés?
+  2  ?32?
+..mfn=    33 
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+ 33  ?Bimestral?
+ 36  ?Los precios agrícolas y sus dolientes^bBadra, Nadia F.?
+ 36  ?Los asentamientos humanos:forma de vida^bCabrera Eleizalde, Orlando?
+ 36  ?En AFACA somos un grupo industrial comprometido con la alimentación básica del venezolano^bValenciano, María José?
+ 36  ?La agricultura en el Acuerdo de Cartagena^bDíaz, José Ramón?
+ 36  ?El crecimiento agrícola está determinado por los cereales?
+ 36  ?El sorgo sin altibajos?
+ 44  ?19870900?
+ 74  ?1987?
+ 83  ?Venezuela?
+ 86  ?AFACA?
+ 91  ?ZNR?
+900  ?s?
+901  ?s?
+ 97  ?19961006?
+  3  ?^aPP.21?
+ 76  ?Alimentos Concentrados?
+ 76  ?Alimentos Para Animales?
+ 76  ?Grupo Andino?
+ 76  ?Multimedia?
+ 80  ?Agricultura?
+ 82  ?América Latina?
+800  ?alimentos.jpg^dAlimentos Concentrados?
+  9  ?Revista por número?
+104  ?Biblioteca?
+ 35  ?87-0133?
+ 30  ?AFACA?
+ 38  ?AFACA?
+ 29  ?Asociación Venezolana de Fabricantes de Alimentos Concentrados para Animales?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?sep.-oct. 1987?
+ 32  ?n. 1?
+ 64  ?Español?
+ 34  ?^a1999^v11^n11?
+995  ?20030710^t11:22:49 a.m.^bGPM?
+  2  ?33?
+..mfn=    34 
+101  ?^n101^l1^oBiblioteca^fCompra^p19950215^rLos Heraldos^q40000^w19950215^zgpm?
+  4  ?M?
+  6  ?m?
+ 12  ?El Caroní?
+ 74  ?1988?
+ 75  ?1990?
+ 76  ?Desarrollo?
+ 76  ?Economía?
+ 80  ?Economía?
+ 82  ?Venezuela?
+ 85  ?Región de Guayana?
+ 37  ?Fotocopia. Título tomado de la cubierta, título de la portada: Lineamientos básicos para el programa del gobierno en Guayana?
+  9  ?Documentos no Convencionales?
+  3  ?^a330.98763^bC14^cd?
+104  ?Biblioteca?
+ 17  ?Cámara de Comercio e Industrias del Distrito Caroní?
+ 18  ?Lineamientos para la consolidación de Guayana como polo de desarrollo nacional: para ser incorporado en los programas de gobierno de los candidatos presidenciales?
+ 38  ?Cámara de Comercio e Industrias del Distrito Caroní?
+ 39  ?Puerto Ordaz?
+ 40  ?Venezuela?
+ 20  ?p. irreg.?
+ 43  ?1988?
+ 44  ?19880400?
+ 42  ?28 cm.?
+995  ?20010711^t3:52:06 p.m.^bGPM?
+995  ?20010711^t4:03:50 p.m.^bGPM?
+995  ?20010717^t10:37:57 a.m.^bGPM?
+995  ?20010717^t10:39:18 a.m.^bGPM?
+995  ?20030514^t10:13:44 a.m.^bGPM?
+ 64  ?Español?
+  2  ?34?
+..mfn=    35 
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+ 33  ?Irregular?
+ 34  ?1988-?
+ 74  ?1988?
+ 86  ?IESA?
+ 91  ?ZNR?
+900  ?s?
+901  ?s?
+ 97  ?19961006?
+995  ?20010711^t3:09:21 p.m.^bGPM?
+ 12  ?IESA?
+ 44  ?19880900?
+995  ?20010711^t3:09:39 p.m.^bGPM?
+  9  ?Bibliografías?
+  3  ?^aRE.1?
+104  ?Biblioteca?
+ 30  ?Catálogo de publicaciones periódicas del IESA?
+ 38  ?IESA?
+ 29  ?Instituto de Estudios Superiores de Administración. Biblioteca?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?sep. 1988?
+ 76  ?Bibliografías?
+ 76  ?Catálogos Colectivos de Revistas?
+ 76  ?Administración?
+ 76  ?Multimedia?
+ 80  ?Material de Referencia?
+ 37  ?Fotocopia.?
+995  ?20010717^t11:50:27 a.m.^bGPM?
+800  ?iesa.jpg^dIESA?
+995  ?20010719^t04:45:07 p.m.^bGPM?
+ 64  ?Español?
+  2  ?35?
+..mfn=    36 
+  9  ?Documentos no Convencionales?
+  3  ?^a332.12^bB22ment^cd?
+104  ?Biblioteca?
+ 17  ?Banco Mercantil. Planificación Estratégica. Asesoría Económica. Departamento de Estudios Macroeconómicos?
+ 18  ?Tasas de interes y comportamiento de las colocaciones?
+ 38  ?Banco Mercantil?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?11 h.?
+ 43  ?1989?
+ 44  ?19890400?
+ 42  ?gráfs., tbls.; 28 cm.?
+ 74  ?1989?
+ 76  ?Tasa de Interes?
+ 80  ?Finanzas?
+ 82  ?Venezuela?
+ 37  ?Estudio realizado por Guillermo Ortega. Fotocopia.?
+101  ?^n13^l1^oBiblioteca^fCompra^p19961117^q6000^w19970723^zgpm?
+  4  ?M?
+  6  ?m?
+ 64  ?Español?
+  2  ?36?
+..mfn=    37 
+  9  ?Documentos no Convencionales?
+  3  ?^a330.972986^bB22m^cd?
+104  ?Biblioteca?
+ 17  ?Banco Mercantil. Planificación Estratégica. Asesoría Económica. Departamento de Estudios Macroeconómicos?
+ 18  ?Resumen de la economía de Curazao?
+ 38  ?Banco Mercantil?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?3 h.?
+ 43  ?1989?
+ 44  ?19890000?
+ 42  ?28 cm.?
+ 74  ?1989?
+ 76  ?Indicadores Económicos?
+ 80  ?Economía?
+ 85  ?Curazao?
+ 37  ?Fotocopia?
+101  ?^n16^l1^oBiblioteca^fCompra^rOCEI^q8000^w19970723^zgpm?
+ 36  ?Situación general, comportamiento de los principales indicadores, estructura sectorial, perspectivas a mediano plazo^bOrtega, Guillermo?
+  4  ?M?
+  6  ?m?
+ 64  ?Español?
+  2  ?37?
+..mfn=    38 
+  9  ?Documentos no Convencionales?
+  3  ?^a330.987^bB22mp^cd?
+104  ?Biblioteca?
+ 17  ?Banco Mercantil. Planificación Estratégica. Asesoría Económica?
+ 18  ?Predicciones 1988-1990?
+ 38  ?Banco Mercantil?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?12 h.?
+ 43  ?1987?
+ 44  ?19870000?
+ 42  ?28 cm.?
+ 74  ?1988?
+ 75  ?1990?
+ 76  ?Predicciones Económicas?
+ 80  ?Economía?
+ 82  ?Venezuela?
+ 37  ?Fotocopia.?
+101  ?^n19^l1^oBiblioteca^fCompra^p19931019^rPomaire^q9000^w19970723^zgpm?
+  4  ?M?
+  6  ?m?
+ 64  ?Español?
+  2  ?38?
+..mfn=    39 
+  9  ?Documentos no Convencionales?
+  3  ?^a330.987^bB22mca^cd?
+104  ?Biblioteca?
+ 17  ?Banco Mercantil. Planificación Estratégica. Asesoría Económica. Departamento de Estudios Macroeconómicos?
+ 18  ?Perspectivas 1990: Escenarios de comportamiento del producto y la inflación?
+ 38  ?Banco Mercantil?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?9 h.?
+ 43  ?1989?
+ 44  ?19890000?
+ 42  ?gráfs., tbls.; 28 cm.?
+ 74  ?1990?
+ 76  ?Predicciones Económicas?
+ 76  ?Producto Interno Bruto?
+ 76  ?Deuda Externa?
+ 76  ?Política Fiscal?
+ 76  ?Inflación?
+ 76  ?Estadística?
+ 76  ?Industria?
+ 80  ?Economía?
+ 82  ?Venezuela?
+ 37  ?Trabajo realizado por Guillermo Ortega. -- Fotocopia.?
+101  ?^n20^l1^oBiblioteca^fCompra^rNuevo Mundo^q3500^w19970723^zgpm?
+  4  ?M?
+  6  ?m?
+ 64  ?Español?
+  2  ?39?
+..mfn=    40 
+  9  ?Documentos no Convencionales?
+  3  ?^a330.987^bB22me?
+104  ?Biblioteca?
+ 17  ?Banco Mercantil. Planificación Estratégica. Asesoría Económica. Departamento de Estudios Macroeconómicos?
+ 18  ?Evaluación semestral: Plan de ajuste, resultados preliminares?
+ 38  ?Banco Mercantil?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?13 h.?
+ 43  ?1989?
+ 44  ?19890700?
+ 42  ?gráfs., tbls.; 28 cm.?
+ 74  ?1989?
+ 75  ?1989?
+ 76  ?Política Económica?
+ 76  ?Programas?
+ 76  ?Macroeconomía?
+ 80  ?Economía?
+ 82  ?Venezuela?
+ 37  ?Trabajo realizado por Guillermo Ortega. -- Título tomado de las primeras página. -- Título de la portada: Informe semestral.?
+101  ?^n29^oBiblioteca^fCompra^p19960203^rLos Heraldos^q2000^w19970121^zGPM?
+  4  ?M?
+  6  ?m?
+ 64  ?Español?
+  2  ?40?
+..mfn=    41 
+  3  ?^a330.987^bB22mcb^cd?
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+  9  ?Documentos no Convencionales?
+ 17  ?Banco Mercantil. Planificación Estratégica. Asesoría Económica. Departamento de Estudios Macroeconómicos?
+ 18  ?El comportamiento de la demanda de activos financieros :la estructura de los depósitos en 1990?
+ 20  ?5 h.?
+ 21  ?1?
+ 38  ?Banco Mercantil?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 42  ?gráfs., tbls.; 28 cm.?
+ 43  ?1990?
+ 44  ?19900000?
+ 74  ?1990?
+ 75  ?1990?
+ 76  ?Depósitos Bancarios?
+ 76  ?Mercado Monetario?
+ 80  ?Finanzas?
+ 82  ?Venezuela?
+ 91  ?ZNR?
+104  ?Biblioteca?
+900  ?m?
+901  ?m?
+ 37  ?Trabajo realizado por Guillermo Ortega. -- Fotocopia.?
+ 64  ?Español?
+  2  ?41?
+..mfn=    42 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?1?
+ 36  ?Impacto del encaje para los depósitos oficiales sobre la banca comercial privada^bOrtega, Guillermo?
+ 63  ?Fotocopia?
+ 83  ?Venezuela?
+ 91  ?ZNR?
+900  ?m?
+901  ?m?
+ 97  ?19950420?
+995  ?20010709^t10:07:59 a.m.^bGPM?
+995  ?20010709^t11:38:41 a.m.^bGPM?
+995  ?20010711^t8:41:23 a.m.^bGPM?
+995  ?20010712^t12:18:08 p.m.^bGPM?
+995  ?20010712^t12:23:35 p.m.^bGPM?
+101  ?^n0021^m1^l1^fCompra^rEdiciones Torán^w20010719^zGPM?
+  9  ?Documentos no Convencionales?
+  3  ?^a332.12^bB22min^cd?
+104  ?Biblioteca?
+ 17  ?Banco Mercantil. Planificación Estratégica. Asesoría Económica. Departamento de Estudios Macroeconómicos?
+ 18  ?Impacto de los nuevos encajes en la banca comercial privada?
+ 38  ?Banco Mercantil?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?2 h.?
+ 43  ?1990?
+ 44  ?19900100?
+ 42  ?tbls.; 28 cm.?
+995  ?20010719^t2:10:34 p.m.^bGPM?
+995  ?20010719^t04:45:15 p.m.^bGPM?
+ 74  ?1990?
+ 75  ?1990?
+ 76  ?Bancos Comerciales?
+ 76  ?Depósitos Bancarios?
+ 76  ?Encaje?
+ 80  ?Instituciones Financieras?
+995  ?20010829^t03:36:03 p.m.^bGPM?
+ 64  ?Español?
+  2  ?42?
+..mfn=    43 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?1?
+ 74  ?1988?
+ 75  ?1988?
+ 76  ?Tasa de Interes?
+ 80  ?Finanzas?
+ 82  ?Venezuela?
+ 91  ?ZNR?
+900  ?m?
+901  ?m?
+ 37  ?Fotocopia?
+ 97  ?19950420?
+995  ?20010719^t2:12:11 p.m.^bGPM?
+995  ?20010719^t2:12:55 p.m.^bGPM?
+101  ?^n0022^m1^l1^oFLASA^fDonación^w20010719^zGPM?
+101  ?^n0023^m1^l2^oFLASA^fDonación^w20010719^zGPM?
+101  ?^n0024^m1^l3^oFLASA^fDonación^w20010719^zGPM?
+  9  ?Documentos no Convencionales?
+  3  ?^a332.12^bB22mino?
+104  ?Biblioteca?
+ 17  ?Banco Mercantil. Planificación Estratégica. Asesoría Económica?
+ 18  ?El impacto del ajuste de la tasa de interes sobre la demanda de activos financieros internos?
+ 38  ?Banco Mercantil?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?13 h.?
+ 43  ?1988?
+ 44  ?19880000?
+ 42  ?gráfs., tbls., 28 cm.?
+995  ?20010719^t2:13:12 p.m.^bGPM?
+ 64  ?Español?
+  2  ?43?
+..mfn=    44 
+  3  ?^aPP.22?
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+ 33  ?Semestral?
+ 34  ?1990-?
+ 36  ?Twilight: the complete collapse of the world' s last great empire?
+ 36  ?Essay and opinion?
+ 36  ?Search for the soviet CEO of the year?
+ 36  ?Gorbachev' s six crisis?
+ 36  ?Last gasp in the east?
+ 36  ?And what about a polish miracle??
+ 36  ?Dreams & nightmares of a United Germany?
+ 36  ?The new red falg over eastern Europe?
+ 36  ?USSR: crackdown and breakdown?
+ 36  ?Perestroika: the elusive search for success?
+ 44  ?19900300?
+ 74  ?1990?
+ 76  ?Planificación Estratégica?
+ 80  ?Planificación?
+ 86  ?CEO?
+ 86  ?USSR?
+ 91  ?ZNR?
+900  ?s?
+901  ?s?
+ 97  ?19950420?
+  9  ?Revista por número?
+104  ?CI?
+ 30  ?CEO: International Strategies?
+ 38  ?International Media Partners?
+ 29  ?International Media Partners?
+ 39  ?New York?
+ 40  ?Estados Unidos?
+ 43  ?spr.-sum. 1990?
+ 31  ?vol. 3?
+ 32  ?n. 1?
+995  ?20030514^t10:23:01 a.m.^bGPM?
+ 64  ?Inglés?
+  2  ?44?
+..mfn=    45 
+902  ?^sBancomer^f^n52?
+  7  ?Biblioteca?
+ 33  ?Irregular?
+ 34  ?1990-?
+ 44  ?19900700?
+ 74  ?1990?
+ 91  ?ZNR?
+900  ?s?
+901  ?s?
+  4  ?S?
+  6  ?s?
+ 97  ?19950420?
+995  ?20010706^t4:35:51 p.m.^bGPM?
+995  ?20010706^t4:37:47 p.m.^bGPM?
+995  ?20010711^t8:44:28 a.m.^bGPM?
+995  ?20010711^t2:57:21 p.m.^bGPM?
+995  ?20010717^t10:41:10 a.m.^bGPM?
+995  ?20010719^t04:45:23 p.m.^bGPM?
+ 36  ?Reconversión industrial del sistema de precios^bRestucia Lallemand, Diego P.?
+ 36  ?Desconexión micro y macro en evaluación de proyectos de inversión^bBlyde p., Juan?
+ 36  ?Reflexión sobre las prestaciones sociales^bD'Empaire, Roberto?
+ 36  ?Exportaciones no tradicionales^bGrisanti, Alejandro^cRestucia Lallemand, Diego P.?
+ 36  ?Los mitos en economía^bVivancos C., Francisco?
+  9  ?Boletines?
+  3  ?^aPP.23?
+104  ?CI?
+104  ?Biblioteca?
+ 30  ?ProEconómica?
+ 38  ?Universidad Católica Andrés Bello?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?jul. 1990?
+ 31  ?año 1?
+ 32  ?n. 1?
+ 76  ?Reconversión Industrial?
+ 76  ?Proyectos de Inversión?
+ 76  ?Diversificación de Exportaciones?
+ 76  ?Compensaciones?
+ 76  ?Análisis Económico?
+ 76  ?MultimediaTrabajadores?
+ 80  ?Economía?
+ 82  ?Venezuela?
+995  ?20010829^t03:38:51 p.m.^bGPM?
+ 64  ?Español?
+  2  ?45?
+..mfn=    46 
+  4  ?M?
+  6  ?m?
+995  ?20000306^t06:33:38 PM^bGAA?
+995  ?20010711^t11:53:43 a.m.^bGPM?
+995  ?20010719^t2:14:21 p.m.^bGPM?
+101  ?^n0027^m5^l1^fCompra^w20010719^zGPM?
+101  ?^n0028^m6^l1^fDonación^w20010719^zGPM?
+101  ?^n0029^m7^l1^fDonación^w20010719^zGPM?
+  9  ?Informes Técnicos?
+  3  ?^a665.5^bOa5^cd?
+104  ?CI?
+ 17  ?OAK Ridge National Laboratory?
+ 18  ?The energy challenge facing the americas: issues for western hemisphere energy cooperation?
+ 38  ?OAK Ridge National Laboratory?
+ 39  ?Tennessee?
+ 40  ?Estados Unidos?
+ 20  ?84 h.?
+ 43  ?1990?
+ 44  ?19900500?
+ 42  ?tbls.; 28 cm.?
+995  ?20010719^t2:14:49 p.m.^bGPM?
+995  ?20010719^t04:45:30 p.m.^bGPM?
+ 74  ?1990?
+ 76  ?Cooperación Internacional?
+ 76  ?Energía?
+ 80  ?Energía?
+ 82  ?América del Norte?
+ 82  ?América Latina?
+ 82  ?Caribe?
+ 86  ?OAK?
+ 37  ?Reporte preparado para el Departamento de Enegía de los Estados Unidos. Fotocopia?
+995  ?20010829^t03:41:49 p.m.^bGPM?
+ 64  ?Inglés?
+  2  ?46?
+..mfn=    47 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?1?
+ 74  ?1989?
+ 76  ?Sociedad Industrial?
+ 80  ?Industria?
+ 82  ?Venezuela?
+ 86  ?SOGAMPI?
+ 91  ?ZNR?
+900  ?m?
+901  ?m?
+ 37  ?Fotocopia?
+ 97  ?19950420?
+995  ?20010719^t2:15:41 p.m.^bGPM?
+101  ?^n0029^m1^l1^w20010719^zGPM?
+101  ?^n0030^m2^l1^w20010719^zGPM?
+  9  ?Informes técnicos?
+  3  ?^a338.987^bSo13?
+104  ?Biblioteca?
+ 17  ?Sociedad Nacional de Garantías para la Mediana y Pequeña Industria?
+ 18  ?Informe de la comisión preparatoria?
+ 38  ?SOGAMPI?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?p. irreg.?
+ 43  ?1989?
+ 44  ?19890721?
+ 42  ?tbls.; 28 cm.?
+995  ?20010719^t2:16:05 p.m.^bGPM?
+ 64  ?Español?
+  2  ?47?
+..mfn=    48 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?1?
+ 91  ?ZNR?
+900  ?m?
+901  ?m?
+ 97  ?19950420?
+995  ?20010709^t10:31:01 a.m.^bGPM?
+995  ?20010709^t10:31:11 a.m.^bGPM?
+995  ?20010711^t11:20:12 a.m.^bGPM?
+995  ?20010719^t2:17:00 p.m.^bGPM?
+995  ?20010719^t2:17:15 p.m.^bGPM?
+101  ?^n0031^m1^l1^fCompra^w20010719^zGPM?
+101  ?^n0032^m1^l2^fCompra^w20010719^zGPM?
+  9  ?Documentos no Convencionales?
+  3  ?^a665.5^bP449ca^cd?
+104  ?CI?
+ 18  ?The International Arena for the Hydrocarbons Industry?
+ 38  ?s.n.?
+ 39  ?New York?
+ 40  ?Estados Unidos?
+ 20  ?15 h.?
+ 43  ?1990?
+ 44  ?19900605?
+ 42  ?28 cm.?
+995  ?20010719^t2:17:32 p.m.^bGPM?
+995  ?20010719^t04:45:38 p.m.^bGPM?
+ 74  ?1990?
+ 76  ?Hidrocarburos?
+ 76  ?Industria Petrolera?
+ 80  ?Industria?
+ 82  ?Venezuela?
+ 37  ?Fotocopia?
+995  ?20010829^t03:42:19 p.m.^bGPM?
+ 64  ?Inglés?
+  2  ?48?
+..mfn=    49 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?1?
+ 74  ?1989?
+ 76  ?Producción?
+ 76  ?Petróleo?
+ 80  ?Industria?
+ 82  ?Venezuela?
+ 86  ?PDVSA?
+ 91  ?ZNR?
+900  ?m?
+901  ?m?
+ 37  ?Fotocopia?
+ 97  ?19950420?
+995  ?20010709^t1:56:56 p.m.^bGPM?
+800  ?Revista/petroleo.gif^dProducción Petrólera?
+995  ?20010717^t11:36:20 a.m.^bGPM?
+101  ?^n0033^m1^l1^oFLASA^fCanje^w20010719^zGPM?
+101  ?^n0034^m2^l1^oFLASA^fCanje^w20010719^zGPM?
+  9  ?Documentos no Convencionales?
+  3  ?^a665.5^bP449c^cd?
+ 17  ?Petróleos de Venezuela?
+ 18  ?Cumulative production?
+ 38  ?PDVSA?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?22 h.?
+ 43  ?1989?
+ 44  ?19890000?
+ 42  ?gráfs., ilus., tbls.; 28 cm.?
+995  ?20010719^t2:18:15 p.m.^bGPM?
+ 64  ?Inglés?
+  2  ?49?
+..mfn=    50 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?1?
+ 74  ?1989?
+ 76  ?Seguridad?
+ 76  ?Inversiones?
+ 76  ?Legislación?
+ 76  ?Libertad?
+ 80  ?Finanzas?
+ 82  ?Venezuela?
+ 91  ?ZNR?
+900  ?m?
+901  ?m?
+ 37  ?Charla dictada en la Cámara Venezolana-Americana de Comercio e Industria?
+101  ?^n0040^m1^l1^oFLASA^fDonación^w20010719^zGPM?
+  3  ?^a658.47^bZ84^cd?
+104  ?Biblioteca?
+ 16  ?Zuloaga^bNicomedes?
+ 18  ?Inversión y seguridad jurídica?
+ 38  ?Cámara Venezolana-Americana de Comercio e Industria?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?10 p.?
+ 43  ?1989?
+ 44  ?19891115?
+ 42  ?28 cm.?
+995  ?20010719^t2:18:49 p.m.^bGPM?
+  9  ?Documentos no Convencionales?
+ 64  ?Español?
+  2  ?50?
+..mfn=    51 
+  4  ?m?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?1?
+ 91  ?ZNR?
+900  ?m?
+901  ?m?
+ 97  ?19970917?
+995  ?20010702^t10:58:45 a.m.^bGPM?
+995  ?20010709^t11:38:55 a.m.^bGPM?
+995  ?20010712^t11:21:18 a.m.^bGPM?
+995  ?20010712^t11:23:13 a.m.^bGPM?
+995  ?20010717^t10:55:57 a.m.^bGPM?
+101  ?^n0041^m1^l1^oFLASA^fDonación^w20010719^zGPM?
+101  ?^n0042^m1^l1^fDonación^w20010719^zGPM?
+  3  ?^a330.987^bM319^cd?
+104  ?Biblioteca?
+ 16  ?Mantellini^bHéctor?
+ 18  ?La libertad económica en Venezuela: Palabras por Rotary Club?
+ 38  ?Cámara de Fabricantes Venezolanos de Productos Automotores?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?9 h.?
+ 43  ?1989?
+ 44  ?19890314?
+ 42  ?28 cm.?
+995  ?20010719^t2:19:44 p.m.^bGPM?
+995  ?20010719^t04:45:46 p.m.^bGPM?
+ 74  ?1989?
+ 76  ?Libertad?
+ 76  ?Economía?
+ 80  ?Economía?
+ 82  ?Venezuela?
+ 86  ?FAVEMPA?
+ 37  ?Palabras pronunciadas en le Rotary Club (Marzo 14, 1989)?
+995  ?20010829^t03:42:52 p.m.^bGPM?
+  9  ?Documentos no Convencionales?
+ 64  ?Español?
+  2  ?51?
+..mfn=    52 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?1?
+ 74  ?1983?
+ 75  ?1983?
+ 76  ?Desarrollo Económico y Social?
+ 76  ?Predicciones Económicas?
+ 80  ?Economía?
+ 82  ?Venezuela?
+ 91  ?ZNR?
+900  ?m?
+901  ?m?
+ 37  ?Informe preliminar. -- Fotocopia?
+ 97  ?19970917?
+101  ?^n0043^m1^l1^w20010719^zGPM?
+  9  ?Informes Técnicos?
+  3  ?^a330.987^bV556r^cd?
+104  ?Biblioteca?
+ 18  ?Venezuela: recent economic development and medium-term prospects?
+ 38  ?s.n.?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?28 h.?
+ 43  ?1983?
+ 44  ?19830330?
+ 42  ?tbls.; 28 cm.?
+995  ?20010719^t2:20:10 p.m.^bGPM?
+ 64  ?Inglés?
+  2  ?52?
+..mfn=    53 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?1?
+ 74  ?1990?
+ 76  ?Automatización?
+ 76  ?Diversificación de Exportaciones?
+ 76  ?Comercio Exterior?
+ 80  ?Comercio?
+ 82  ?Venezuela?
+ 86  ?PIC?
+ 91  ?ZNR?
+900  ?m?
+901  ?m?
+ 37  ?Fotocopia?
+ 97  ?19970917?
+101  ?^n0044^m1^l1^rEdiciones Torán^w20010719^zGPM?
+  9  ?Documentos no Convencionales?
+  3  ?^a382.987^bAl38^cd?
+104  ?Biblioteca?
+ 18  ?Algunas consideraciones para un programa de intercambio compensado?
+ 38  ?s.n.?
+ 39  ?s.l.?
+ 40  ?Venezuela?
+ 20  ?3 h.?
+ 43  ?1990?
+ 44  ?19900000?
+ 42  ?28 cm.?
+995  ?20010719^t2:20:42 p.m.^bGPM?
+ 64  ?Español?
+  2  ?53?
+..mfn=    54 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?1?
+ 72  ?El autor evalúa los estudios en China, comparándolos con programas similares en América Latina, tomando en cuenta las siguientes características: número total, distribución de especialistas por disciplina, fuerza de los programas, bibliotecas, publicaciones y recursos financieros?
+ 84  ?China?
+ 91  ?ZNR?
+900  ?m?
+901  ?m?
+ 97  ?19970917?
+995  ?20010706^t5:15:03 p.m.^bGPM?
+995  ?20010706^t5:15:17 p.m.^bGPM?
+995  ?20010711^t11:21:21 a.m.^bGPM?
+101  ?^n0046^m1^l1^oFLASA^fDonación^rMARNR^w20010719^zGPM?
+  9  ?Documentos no Convencionales?
+  3  ?^a330.973261^bM56^cd?
+104  ?Biblioteca?
+ 16  ?Mesa-Lago^bCarmelo?
+ 18  ?Estudios latinoamericanos en la República Popular de China?
+ 38  ?s.n.?
+ 39  ?s.l.?
+ 20  ?p. 81-105?
+ 43  ?1985?
+ 44  ?19850000?
+ 42  ?28 cm.?
+995  ?20010719^t2:21:13 p.m.^bGPM?
+995  ?20010719^t04:45:52 p.m.^bGPM?
+ 74  ?1985?
+ 75  ?1985?
+ 76  ?Organizaciones Latinoamericanas?
+ 76  ?Programas?
+ 76  ?Organizaciones Internacionales?
+ 76  ?Bibliotecas?
+ 80  ?Educación?
+ 82  ?América Latina?
+ 37  ?Artículo publicado en la Revista Occidental, año 2, n. 1 (1985). -- Fotocopia?
+995  ?20010829^t04:53:50 p.m.^bGPM?
+ 64  ?Español?
+  2  ?54?
+..mfn=    55 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?1?
+ 74  ?1980?
+ 76  ?Innovaciones?
+ 76  ?Recesión Económica?
+ 76  ?Estrategia del Desarrollo?
+ 76  ?Política Fiscal?
+ 80  ?Tecnología?
+ 82  ?América Latina?
+ 91  ?ZNR?
+900  ?m?
+901  ?m?
+ 37  ?Fotocopia?
+ 97  ?19970917?
+101  ?^n0050^m1^l1^w20010719^zGPM?
+  9  ?Documentos no Convencionales?
+  3  ?^a687.98^bOm5^cd?
+104  ?Biblioteca?
+ 16  ?Ominami^bCarlos?
+ 18  ?Doce proposiciones acerca de América Latina en una era de profundo cambio tecnológico?
+ 38  ?s.n.?
+ 39  ?s.l.?
+ 20  ?p. 49-65?
+ 43  ?198-?
+ 42  ?28 cm.?
+995  ?20010719^t2:21:47 p.m.^bGPM?
+ 64  ?Español?
+  2  ?55?
+..mfn=    56 
+  3  ?^aPP.24?
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+  9  ?Boletines?
+ 29  ?Business International Corporation?
+ 30  ?Business International?
+ 31  ?vol. 36?
+ 32  ?n. 15?
+ 33  ?Semanal?
+ 34  ?1988-?
+ 38  ?Business International Corporation?
+ 39  ?New York?
+ 40  ?Estados Unidos?
+ 43  ?abr. 1988?
+ 44  ?19880400?
+ 74  ?1988?
+ 76  ?Negocios?
+ 80  ?Economía Internacional?
+ 82  ?Mundial?
+ 86  ?BIC?
+ 91  ?ZNR?
+104  ?CI?
+900  ?s?
+901  ?s?
+ 97  ?19970917?
+ 64  ?Inglés?
+  2  ?56?
+..mfn=    57 
+  3  ?^aHEMEROTECA.2?
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+ 14  ?pp.?
+ 30  ?El Nacional?
+ 38  ?Editora El Nacional?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?3 agos. 1990-?
+ 44  ?19900803?
+ 72  ?El liderazgo en la economia no significa exclusivamente la capacidad para salir exitoso en el espacio complejo, pero limitado, de una empresa, sino en la capacidad de proyectarse más allá de la empresa misma. Es la compresión de que la empresa no es nada sino se asume como parte del macrocosmos de la gestión social lo que define el liderazgo en la economía.?
+ 74  ?1990?
+ 76  ?Liderazgo?
+ 76  ?Competencia?
+ 76  ?Mercado Financiero?
+ 76  ?Privatización?
+ 76  ?Política?
+ 80  ?Economía?
+ 82  ?Venezuela?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+104  ?CI?
+ 97  ?19970917?
+  9  ?Artículo de periódico?
+  9  ?Manuales?
+ 64  ?Español?
+  2  ?57?
+..mfn=    58 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 21  ?2?
+ 36  ?A Shock to the System^bHale D., David?
+ 36  ?The Sum Is Stronger Than the Parts^bWalter, Norbert?
+ 36  ?The Wild East^bSebag-Montefiore, Niel?
+ 36  ?ECU Opportunities^bIványi, Gyorgy?
+ 36  ?East Needs West^bGeron, Leonard?
+ 36  ?Brady Plan Myopia^bBartlett, Peter?
+ 36  ?Round Two Will Be Tougher^bMcPherson, M. Peter?
+ 36  ?The Harsh, But Hopeful, Reality^bBock, David R.?
+ 36  ?The New Europe^bCowley, Nick?
+ 36  ?Today's American Challenge^bGraham, Edward M.?
+ 36  ?Accounting for Acquisitions^bRenshall, Michael?
+ 36  ?Capital Costs^bSargen, Nicholas P.?
+ 36  ?A Cautionary Tale^bClarke, Robert L.?
+ 36  ?Debt Renegotiation^bHubbard, R. Glenn?
+ 36  ?Stressful Securities^bAltman, Edward I.?
+ 36  ?New Laws for a New Marketplace^bBaptista, Samuel J.?
+ 83  ?Italia?
+ 83  ?España?
+ 84  ?Brasil?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+ 97  ?19970917?
+995  ?20010717^t11:59:28 a.m.^bGPM?
+995  ?20010717^t11:59:43 a.m.^bGPM?
+101  ?^n0048^m1^l1^oFLASA^fDonación^w20010719^zGPM?
+  3  ?^aPP.25?
+104  ?Biblioteca?
+ 12  ?The Opening of Eastern Europe and Global Capital Needs?
+ 14  ?104 p.?
+ 30  ?Institutional Investor: Global finance FORUM 1990?
+ 38  ?Institutional Investor?
+ 39  ?New York?
+ 40  ?Estados Unidos?
+ 44  ?19900600?
+ 43  ?jun. 1990?
+ 31  ?vol. 24?
+ 32  ?n. 8?
+995  ?20010719^t2:22:24 p.m.^bGPM?
+995  ?20010719^t04:46:02 p.m.^bGPM?
+ 74  ?1990?
+ 76  ?Mercado Financiero?
+ 76  ?Riesgo?
+ 76  ?Innovaciones?
+ 76  ?Bancos de Inversión?
+ 76  ?Necesidades Financieras?
+ 76  ?Plan Brady?
+ 76  ?Costos de Capital?
+ 76  ?Deuda?
+ 76  ?Externa?
+ 76  ?Capital?
+ 80  ?Finanzas Internacionales?
+ 82  ?Europa?
+ 82  ?América Latina?
+ 86  ?FORUM?
+995  ?20010829^t04:54:27 p.m.^bGPM?
+ 64  ?Inglés?
+  9  ?Revista artículo?
+  2  ?58?
+..mfn=    59 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 36  ?A demanding relationship?
+ 36  ?Energy banks of the decade?
+ 36  ?Project Finance in transition?
+ 36  ?How the bankers view the future?
+ 36  ?Swap your risk away?
+ 36  ?OPEC's best friend Canadá: firm policies needed?
+ 36  ?Europe shuffles the pack?
+ 36  ?Eastern promise, western profit?
+ 36  ?Africa woods the energy giants?
+ 36  ?Asian demand supply?
+ 36  ?A latin patchwork?
+ 36  ?Oil Resurgent in the 1990s?
+ 36  ?Fuel of the future?
+ 36  ?The demand is there?
+ 36  ?Doubt shrouds nuclear outlook?
+ 36  ?Corporate profiles.?
+ 74  ?1990?
+ 76  ?Energía?
+ 76  ?Bancos?
+ 76  ?Industria Petrolera?
+ 76  ?OPEP?
+ 80  ?Industria?
+ 82  ?América Latina?
+ 82  ?Asia y El Pacífico?
+ 82  ?Africa?
+ 84  ?Canadá?
+ 86  ?OPEP?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+ 97  ?19970917?
+101  ?^n0051^m1^l1^fDonación^w20010719^zGPM?
+101  ?^n0053^m1^l1^oFLASA^fDonación^w20010719^zGPM?
+995  ?20010719^t2:23:00 p.m.^bGPM?
+  9  ?Artículo de periódico?
+  3  ?^aPP.26?
+104  ?Biblioteca?
+ 12  ?Petroleum Economist?
+ 14  ?pp. 1-92?
+ 30  ?Euromoney: Special supplement?
+ 38  ?Euromoney Publications?
+ 39  ?Londres?
+ 40  ?Reino Unido?
+ 44  ?19900600?
+ 43  ?jun.-jul. 1990?
+995  ?20030514^t10:15:22 a.m.^bGPM?
+ 64  ?Inglés?
+  2  ?59?
+..mfn=    60 
+  3  ?^a332.67387^bB22v?
+104  ?Biblioteca?
+ 17  ?Banco Venezolano de Crédito?
+ 18  ?Venezuela: Nuevas y mejores oportunidades de inversión = nuove e migliori opportunita di investimenti?
+ 38  ?BVC?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?51 p.?
+ 43  ?1990?
+ 44  ?19900700?
+ 42  ?ilus.; 30 cm.?
+  4  ?M?
+  6  ?m?
+800  ?impuesto2.jpg^dBanco Venezolano de Crédito?
+  9  ?Monografías?
+ 64  ?Español?
+ 74  ?1990?
+ 76  ?Inversiones?
+ 76  ?Multimedia?
+ 80  ?Finanzas?
+ 82  ?Venezuela?
+ 86  ?BVC?
+995  ?20030514^t10:47:08 a.m.^bGPM?
+  2  ?60?
+..mfn=    61 
+  3  ?^aPP.27?
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 12  ?Investing in swiss securities?
+ 14  ?pp. 1-6?
+ 30  ?Euromoney: Special supplement?
+ 36  ?The door swings open?
+ 36  ?Hidden value?
+ 36  ?The bourse for the future?
+ 36  ?Tokyo's tonic for bonds?
+ 36  ?Stamping out the tax?
+ 36  ?The derivative loophole?
+ 36  ?Reforms under duress?
+ 36  ?Keeping politics at bay?
+ 38  ?Euromoney Publications?
+ 39  ?Londres?
+ 40  ?Reino Unido?
+ 43  ?jun. 1990?
+ 44  ?19900600?
+ 76  ?Inversiones?
+ 76  ?Títulos?
+ 76  ?Mercado Financiero?
+ 80  ?Finanzas?
+ 83  ?Suiza?
+104  ?Biblioteca?
+900  ?s?
+901  ?a?
+ 97  ?19940515?
+ 64  ?Inglés?
+  9  ?Revista artículo?
+  2  ?61?
+..mfn=    62 
+  3  ?^aPP.28?
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 12  ?New Zealand facing up to the test?
+ 14  ?pp. 1-40?
+ 30  ?Euromoney: Special supplement?
+ 36  ?Overview?
+ 36  ?Closer economic relations?
+ 36  ?Capital markets?
+ 36  ?Privatisation?
+ 36  ?Banking?
+ 38  ?Euromoney Publications?
+ 39  ?Londres?
+ 40  ?Reino Unido?
+ 43  ?jun. 1990?
+ 44  ?19900600?
+ 74  ?1990?
+ 76  ?Relaciones Económicas?
+ 76  ?Mercado Financiero?
+ 76  ?Privatización?
+ 76  ?Bancos?
+ 80  ?Finanzas?
+ 82  ?Nueva Zelandia?
+ 91  ?ZNR?
+104  ?Biblioteca?
+900  ?s?
+901  ?a?
+ 97  ?19940515?
+ 64  ?Inglés?
+  9  ?Revista artículo?
+  2  ?62?
+..mfn=    63 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 36  ?Banking and finance?
+ 36  ?The stockmarket?
+ 36  ?Corporations?
+ 36  ?Shipping?
+ 74  ?1990?
+ 76  ?Bancos?
+ 76  ?Acciones?
+ 76  ?Mercado?
+ 76  ?Empresas Noruegas?
+ 80  ?Finanzas?
+ 82  ?Europa?
+ 83  ?Noruega?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+ 97  ?19940515?
+101  ?^n0060^m1^l1^oFLASA^fDonación^w20010719^zGPM?
+  3  ?^aPP.29?
+104  ?Biblioteca?
+ 12  ?Norway on a rising tide?
+ 14  ?pp. 1-24?
+ 30  ?Euromoney: Special supplement?
+ 38  ?Euromoney Publications?
+ 39  ?Londres?
+ 40  ?Reino Unido?
+ 44  ?19900600?
+ 43  ?jun. 1990?
+995  ?20010719^t2:32:21 p.m.^bGPM?
+ 64  ?Inglés?
+  9  ?Revista artículo?
+  2  ?63?
+..mfn=    64 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 74  ?1990?
+ 76  ?Política Económica?
+ 76  ?Inversiones?
+ 76  ?Reforma Económica?
+ 76  ?Turismo?
+ 80  ?Economía?
+ 82  ?Venezuela?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+ 97  ?19940515?
+101  ?^n0064^m2^l1^w20010719^zGPM?
+  3  ?^aPP.30?
+104  ?Biblioteca?
+ 12  ?Venezuela on the road to reform?
+ 14  ?pp. 1-20?
+ 30  ?Euromoney: Special supplement?
+ 38  ?Euromoney Publications?
+ 39  ?Londres?
+ 40  ?Reino Unido?
+ 44  ?19900200?
+ 43  ?feb. 1990?
+995  ?20010719^t2:32:47 p.m.^bGPM?
+ 64  ?Inglés?
+  9  ?Revista artículo?
+  2  ?64?
+..mfn=    65 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 74  ?1990?
+ 75  ?1990?
+ 76  ?Riesgo?
+ 76  ?Inversiones?
+ 80  ?Finanzas Internacionales?
+ 82  ?América Latina?
+ 83  ?Brasil?
+ 83  ?Chile?
+ 83  ?México?
+ 91  ?ZNR?
+900  ?S?
+901  ?A?
+ 97  ?19940515?
+101  ?^n0065^m1^l1^w20010719^zGPM?
+995  ?20010719^t2:33:21 p.m.^bGPM?
+  3  ?^aPP.31?
+104  ?Biblioteca?
+ 10  ?Kleiman^bGary N.?
+ 12  ?Latin country funds: a mixed record?
+ 14  ?p. 37-40?
+ 42  ?20 cm.?
+ 30  ?Latin Finance?
+ 38  ?Latin American Financial Publications?
+ 39  ?Florida?
+ 40  ?Estados Unidos?
+ 44  ?19900600?
+ 43  ?jun. 1990?
+ 32  ?n. 18?
+995  ?20030514^t10:11:26 a.m.^bGPM?
+ 64  ?Inglés?
+  9  ?Revista artículo?
+  2  ?65?
+..mfn=    66 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?3?
+ 74  ?1990?
+ 76  ?Industria?
+ 76  ?Reformas Administrativas?
+ 76  ?Corrupción?
+ 76  ?Recesión Económica?
+ 80  ?Economía?
+ 82  ?Venezuela?
+ 91  ?ZNR?
+900  ?C?
+901  ?A?
+ 37  ?Incluye índice de materias y personas, ordenado alfabéticamente, p. 211-216?
+ 97  ?19940515?
+101  ?^n67^m11^l1^oFLASA^fDonación^w20010719^zGPM?
+  3  ?^a330.987^bC816?
+104  ?CI?
+104  ?Biblioteca?
+ 16  ?Coronel^bGustavo?
+ 18  ?Venezuela: la agonía del subdesarrollo?
+ 38  ?Litografía Melvin?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?209 p.?
+ 43  ?1990?
+ 44  ?19900630?
+ 42  ?22 cm.?
+ 73  ?incl. ref.?
+ 47  ?980-07-0121-4?
+995  ?20010719^t2:33:56 p.m.^bGPM?
+  9  ?Monografías?
+ 64  ?Español?
+  2  ?66?
+..mfn=    67 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 83  ?Venezuela?
+ 83  ?Colombia?
+ 91  ?ZNR?
+900  ?M?
+901  ?M?
+ 97  ?19940515?
+101  ?^n0070^m1^l1^oFLASA^fDonación^w20010719^zGPM?
+101  ?^n0071^m2^l1^oFLASA^fDonación^w20010719^zGPM?
+101  ?^n0072^m3^l1^oFLASA^fDonación^w20010719^zGPM?
+ 74  ?1978?
+ 75  ?1978?
+ 76  ?Cámaras de Comercio?
+ 76  ?Comercio Exterior?
+ 76  ?Integración Económica?
+ 80  ?Comercio?
+ 86  ?CIECV?
+  9  ?Documentos no Convencionales?
+  3  ?^a380.145^bC14c?
+104  ?Biblioteca?
+ 17  ?Cámara de Integración Económica Colombo-Venezolana?
+ 18  ?Cámara de Comercio de caracas?
+ 38  ?CIECV?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 20  ?21 p.?
+ 43  ?1978?
+ 44  ?19780000?
+ 42  ?23 cm.?
+ 21  ?2?
+995  ?20010711^t11:24:51 a.m.^bGPM?
+995  ?20010719^t12:30:32 p.m.^bGPM?
+995  ?20010719^t2:34:59 p.m.^bGPM?
+995  ?20010719^t2:35:13 p.m.^bGPM?
+995  ?20030514^t10:39:29 a.m.^bGPM?
+ 64  ?Español?
+  2  ?67?
+..mfn=    68 
+101  ?^n600^l1^oBiblioteca Central^fCompra^p19900810^rPresidencia^q3000^kCompra del sr. T. Eguren^w19900810?
+ 36  ?The Retreat from Prosperity?
+ 36  ?The Slowdown of the 1970s?
+ 36  ?The Breakup of the Keynesian Consensus?
+ 36  ?The Impact of Government Deficits?
+ 36  ?From Kinship Capitalism to Corporate Industry?
+ 36  ?The Traditional Craft System: Family Firms to Family Farms?
+ 36  ?Corporate Industry: Demand-Determined Production?
+ 36  ?The Post-Keynesian Theory of the Multiplier?
+ 36  ?The State and the Corporate Economy?
+ 36  ?Trasformational Growth and the Slowdown?
+ 36  ?Testing for Structural Change?
+ 36  ?Free Markets of Planned Prosperity?
+ 36  ?Inflation and the World Economy?
+ 36  ?The Paradow of Protection?
+ 36  ?Government and the Free-Market Consensus?
+ 36  ?Public Spending in a Demand-Constrained Economy?
+ 36  ?The British Experience^bHodgson, Geoff?
+  4  ?M?
+  6  ?m?
+  3  ?^a339.522^bN324?
+104  ?Biblioteca?
+ 16  ?Nell^bEdward?
+ 18  ?Prosperity and Public Spending: Transformational Growth and Role of Government?
+ 38  ?Unwin Hyman?
+ 39  ?Londres?
+ 40  ?Reino Unido?
+ 41  ?1. ed.?
+ 20  ?270 p.?
+ 43  ?1988?
+ 44  ?19880000?
+ 42  ?18 cm.?
+ 73  ?incl. ref.?
+ 47  ?0-04-339044-7?
+ 74  ?1988?
+ 76  ?Desarrollo Económico?
+ 76  ?Política Económica?
+ 80  ?Economía Internacional?
+ 82  ?Mundial?
+ 37  ?Incluye índice?
+800  ?Revista/desarrollo3.gif^dDesarrollo?
+995  ?20010711^t4:05:33 p.m.^bGPM?
+  9  ?Monografías?
+ 64  ?Inglés?
+  2  ?68?
+..mfn=    69 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?1?
+ 74  ?1988?
+ 76  ?Tecnología?
+ 76  ?Seguridad?
+ 76  ?Crédito?
+ 76  ?Servicios Financieros?
+ 80  ?Finanzas?
+ 91  ?ZNR?
+900  ?m?
+901  ?m?
+ 37  ?Incluye índice?
+ 97  ?19940515?
+101  ?^n0074^m1^l1^oFLASA^fDonación^w20010719^zGPM?
+101  ?^n0075^m2^l1^oFLASA^fDonación^w20010719^zGPM?
+  3  ?^a658.7^bR727?
+104  ?CI?
+ 16  ?Rosenthal^bJames A.?
+ 16  ?Ocampo^bJuan M.?
+ 18  ?Securitization of credit: inside the new technology of finance?
+ 38  ?John Wiley & Sons?
+ 39  ?New York?
+ 40  ?Estados Unidos?
+ 20  ?266 p.?
+ 43  ?1988?
+ 44  ?19880000?
+ 42  ?18 cm.?
+ 47  ?0-471-61368-1?
+995  ?20010719^t2:35:59 p.m.^bGPM?
+  9  ?Monografías?
+ 64  ?Inglés?
+  2  ?69?
+..mfn=    70 
+  3  ?^aPP.32?
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+  9  ?Boletines?
+ 29  ?Banco Central de Chile?
+ 30  ?Boletín Informativo Banco BICE?
+ 32  ?n. 70?
+ 33  ?Mensual?
+ 34  ?1989-?
+ 38  ?Banco Central de Chile?
+ 39  ?Santiago de Chile?
+ 40  ?Chile?
+ 43  ?oct. 1989?
+ 44  ?19891000?
+ 74  ?1989?
+ 76  ?Bancos?
+ 76  ?Análisis Económico?
+ 80  ?Economía?
+ 82  ?Chile?
+ 86  ?BICE?
+ 91  ?ZNR?
+104  ?Biblioteca?
+900  ?s?
+901  ?s?
+ 97  ?19940515?
+ 64  ?Español?
+  2  ?70?
+..mfn=    71 
+  3  ?^aPI.1?
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+ 33  ?Anual?
+ 34  ?1989-?
+ 44  ?19890000?
+ 74  ?1989?
+ 76  ?Inversiones?
+ 76  ?Política Industrial?
+ 76  ?Cámaras de Comercio?
+ 80  ?Finanzas?
+ 82  ?Finlandia?
+ 91  ?ZNR?
+900  ?s?
+901  ?s?
+ 37  ?Publicado en cooperación con la Cámara Central de Comercio en Finlandia?
+ 97  ?19940515?
+  9  ?Revista por número?
+104  ?CI?
+ 35  ?0785-5540?
+ 30  ?Business Finland?
+ 38  ?Sanomaprint Business Publications?
+ 39  ?Helsinki?
+ 40  ?Finlandia?
+ 43  ?1989-?
+995  ?20030514^t10:23:13 a.m.^bGPM?
+ 64  ?Inglés?
+  2  ?71?
+..mfn=    72 
+  3  ?^aPP.33?
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+  9  ?Boletines?
+ 29  ?Cámara de Comercio e Industria Venezolano-Alemana?
+ 30  ?Contactos Cavenal?
+ 33  ?Irregular?
+ 34  ?(1988), 1990-?
+ 38  ?CAVENAL?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?feb. 1988?
+ 44  ?19880200?
+ 74  ?1990?
+ 76  ?Cámaras de Comercio?
+ 76  ?Industria?
+ 80  ?Comercio?
+ 82  ?Venezuela?
+ 84  ?Alemania?
+ 86  ?CAVENAL?
+ 91  ?ZNR?
+104  ?Biblioteca?
+900  ?s?
+901  ?s?
+ 37  ?1988 frec. mensual. Titulo anterior: Boletín Informativo CAVENAL?
+ 64  ?Español?
+  2  ?72?
+..mfn=    73 
+  3  ?^aPP.34?
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+ 33  ?Bimestral?
+ 34  ?(1987), (1988), (1989)?
+ 44  ?19870700?
+ 74  ?1987?
+ 75  ?1989?
+ 76  ?Análisis Económico?
+ 76  ?Bancos?
+ 80  ?Economía?
+ 82  ?Colombia?
+ 91  ?ZNR?
+900  ?s?
+901  ?s?
+  9  ?Revista por número?
+104  ?Biblioteca?
+ 30  ?Boletín de Asuntos Económicos?
+ 38  ?Banco de Bogotá?
+ 29  ?Banco de Bogotá?
+ 39  ?Bogotá?
+ 40  ?Colombia?
+ 43  ?jul. 1987?
+ 32  ?n. 129?
+995  ?20030514^t10:23:24 a.m.^bGPM?
+ 64  ?Español?
+  2  ?73?
+..mfn=    74 
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+ 33  ?Mensual?
+ 34  ?1987-?
+ 44  ?19870500?
+ 74  ?1987?
+ 86  ?PUBLISUCA?
+ 91  ?ZNR?
+900  ?s?
+901  ?s?
+  3  ?^aPP.35?
+ 76  ?Industria Lechera?
+ 80  ?Agricultura?
+ 82  ?Venezuela?
+ 85  ?Estado Zulia?
+  9  ?Revista por número?
+104  ?Biblioteca?
+ 30  ?El Suplidor?
+ 38  ?Publicidad El Suplidor?
+ 39  ?Maracaibo?
+ 40  ?Venezuela?
+ 43  ?mayo 1987?
+ 31  ?año 2?
+ 32  ?n. 12?
+995  ?20030514^t10:23:53 a.m.^bGPM?
+ 64  ?Español?
+  2  ?74?
+..mfn=    75 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 21  ?1?
+ 74  ?1989?
+ 76  ?Impuesto al Valor Agregado?
+ 80  ?Hacienda Pública?
+ 83  ?Venezuela?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+101  ?^n0080^m1^l1^w20010719^zGPM?
+101  ?^n0081^m2^l1^w20010719^zGPM?
+101  ?^n0082^m3^l3^w20010719^zGPM?
+995  ?20010719^t2:36:54 p.m.^bGPM?
+  3  ?^aPP.36?
+104  ?Biblioteca?
+ 12  ?Viene el IVA?
+ 14  ?pp. 14-17?
+ 30  ?Dinero?
+ 38  ?Grupo Editorial Producto?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?19891115?
+ 43  ?15 nov. 1989?
+ 31  ?año 2?
+ 32  ?n. 18?
+995  ?20030514^t10:11:40 a.m.^bGPM?
+ 64  ?Español?
+  9  ?Revista artículo?
+  2  ?75?
+..mfn=    76 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 72  ?Análisis de la gestión fiscal en el bienio 1990-91, como una manera de llamar a la reflexión sobre las repercusiones que la misma tendrá sobre las variables monetarias. La evaluación indica que las autoridades monetarias confrontarán serias dificultades para poder estirilizar la magnitud de recursos que serán inyectados a la economía, de cumplirse las premisas que han sido establecidas. Por consecuencia, en 1991 probablemente estaremos en presencia de un boom de liquidez que presionara fuertemente sobre variables claves como los precios, y las tasas de interes y cambiaria.?
+ 74  ?1990?
+ 75  ?1991?
+ 76  ?Política Fiscal?
+ 80  ?Hacienda Pública?
+ 82  ?Venezuela?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+101  ?^n0085^m1^l1^w20010719^zGPM?
+101  ?^n0086^m2^l2^w20010719^zGPM?
+101  ?^n0086^m3^l3^w20010719^zGPM?
+  3  ?^aPP.37?
+104  ?Biblioteca?
+ 12  ?Gestión Fiscal 1990-1991 y sus implicaciones monetarias?
+ 14  ?p. 2-18?
+ 42  ?20 cm.?
+ 30  ?Informe de Coyuntura y Política Económica: Boletin Mensual?
+ 38  ?MaximRoss y Asociados?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?19900900?
+ 43  ?sep. 1990?
+ 32  ?n. 9?
+995  ?20010719^t2:37:37 p.m.^bGPM?
+ 64  ?Español?
+  9  ?Revista artículo?
+  2  ?76?
+..mfn=    77 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 72  ?La reforma del impuesto sobre la renta y la introducción del impuesto al valor agregado (IVA), son elementos indispensables para lograr equilibrar las cuentas del Gobierno Central cuyos saldos en rojo resultan cada vez más difíciles de evitar.?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+995  ?20010717^t11:49:21 a.m.^bGPM?
+995  ?20010717^t11:49:38 a.m.^bGPM?
+995  ?20010717^t3:00:36 p.m.^bGPM?
+101  ?^n0090^m1^l1^w20010719^zGPM?
+  3  ?^aPP.38?
+104  ?Biblioteca?
+ 12  ?La reforma tributaria como base del equilibrio fiscal?
+ 14  ?p. 9-11?
+ 30  ?Informe Mensual?
+ 38  ?MetroEconómica?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?19900700?
+ 43  ?jul. 1990?
+ 31  ?vol. 9?
+ 32  ?n. 7?
+995  ?20010719^t2:38:10 p.m.^bGPM?
+995  ?20010719^t04:46:33 p.m.^bGPM?
+ 74  ?1990?
+ 76  ?Reformas Tributarias?
+ 76  ?Reformas Administrativas?
+ 76  ?Impuesto a la Renta?
+ 76  ?Impuesto al Valor Agregado?
+ 76  ?Derecho Fiscal?
+ 80  ?Derecho?
+ 82  ?Venezuela?
+ 86  ?IVA?
+995  ?20010829^t05:16:52 p.m.^bGPM?
+ 64  ?Español?
+  9  ?Revista artículo?
+  2  ?77?
+..mfn=    78 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 72  ?Un resumen de los principales aspectos de la controversia planteada en los últimos meses sobre el futuro desarrollo de la principal industria del país.?
+ 74  ?1990?
+ 76  ?Industria petrolera?
+ 76  ?Estrategia del Desarrollo?
+ 80  ?Industria?
+ 82  ?Venezuela?
+ 86  ?PDVSA?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+101  ?^n0092^m1^l1^w20010719^zGPM?
+  3  ?^aPP.39?
+104  ?Biblioteca?
+ 12  ?Cambios de estrategia en la industria petrolera nacional?
+ 14  ?p. 1-5?
+ 30  ?Informe Mensual?
+ 38  ?MetroEconómica?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?19900700?
+ 43  ?jul. 1990?
+ 31  ?vol. 19?
+ 32  ?n. 7?
+995  ?20010719^t2:38:22 p.m.^bGPM?
+ 64  ?Español?
+  9  ?Revista artículo?
+  2  ?78?
+..mfn=    79 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 72  ?Los objetivos proyectados con el organismo multilateral en la carta de intención están siendo revisados tanto por técnicos del Fondo como por analistas nacionales. Pero hay ciertos compromisos que se deben alcanzar para obtener el financiamiento necesario.?
+ 74  ?1990?
+ 76  ?FMI?
+ 76  ?Deuda Externa?
+ 76  ?Financiamiento?
+ 80  ?Finanzas?
+ 82  ?Venezuela?
+ 86  ?FMI?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+101  ?^n0094^m1^l1^oFLASA^fDonación^w20010719^zGPM?
+  3  ?^aPP.40?
+104  ?Biblioteca?
+ 12  ?Exigencias del Fondo Monetario Internacional?
+ 14  ?p. 6-8?
+ 30  ?Informe Mensual?
+ 38  ?MetroEconómica?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?19900700?
+ 43  ?jul. 1990?
+ 31  ?vol. 19?
+ 32  ?n. 7?
+995  ?20010719^t2:39:40 p.m.^bGPM?
+ 64  ?Español?
+  9  ?Revista artículo?
+  2  ?79?
+..mfn=    80 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 74  ?1990?
+ 76  ?Industria Textil?
+ 76  ?Análisis Económico?
+ 80  ?Industria?
+ 82  ?Venezuela?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+101  ?^n0095^m1^l1^oFLASA^fDonación^w20010719^zGPM?
+101  ?^n0096^m2^l1^oFLASA^fDonación^w20010719^zGPM?
+  3  ?^aPP.41?
+104  ?Biblioteca?
+ 10  ?Landman de Landau^bVicky?
+ 12  ?Análisis de la industria textilera en Venezuela: sección especial?
+ 14  ?p. 22-27?
+ 42  ?20 cm.?
+ 30  ?Informe Mensual?
+ 38  ?MetroEconómica?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?19900700?
+ 43  ?jul. 1990?
+ 31  ?vol. 19?
+ 32  ?n. 7?
+995  ?20010719^t2:40:34 p.m.^bGPM?
+ 64  ?Español?
+  9  ?Revista artículo?
+  2  ?80?
+..mfn=    81 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 74  ?1990?
+ 76  ?Reforma Financiera?
+ 76  ?Sistemas Financieros?
+ 80  ?Finanzas?
+ 82  ?Venezuela?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+101  ?^n0097^m1^l1^oFLASA^w20010719^zGPM?
+  3  ?^aPP.42?
+104  ?Biblioteca?
+ 12  ?Reforma estructural del sistema financiero?
+ 14  ?p. 1, 8?
+ 30  ?Economía y Finanzas?
+ 38  ?Banco de Venezuela?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?19900700?
+ 43  ?jul. 1990?
+ 31  ?año 31?
+ 32  ?n. 335?
+995  ?20010719^t2:41:02 p.m.^bGPM?
+ 64  ?Español?
+  9  ?Revista artículo?
+  2  ?81?
+..mfn=    82 
+  3  ?^aPP.43?
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+ 33  ?Bimestral?
+ 34  ?1989-?
+ 44  ?19900100?
+ 74  ?1989?
+ 76  ?Industria Petroquímica?
+ 80  ?Industria?
+ 82  ?Venezuela?
+ 86  ?PEQUIVEN?
+ 91  ?ZNR?
+900  ?S?
+901  ?S?
+ 97  ?19930823?
+  9  ?Revista por número?
+104  ?Biblioteca?
+ 35  ?78-0064?
+ 30  ?Revista PEQUIVEN?
+ 38  ?Editorial Arte?
+ 29  ?PEQUIVEN. División de Relaciones Públicas. Departamento de Comunicaciones?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?ene.-feb. 1990?
+995  ?20030514^t10:23:46 a.m.^bGPM?
+ 64  ?Español?
+  2  ?82?
+..mfn=    83 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 91  ?ZNR?
+900  ?S?
+901  ?A?
+ 97  ?19930823?
+995  ?20010702^t2:06:03 p.m.^bGPM?
+995  ?20010709^t11:39:28 a.m.^bGPM?
+995  ?20010719^t2:41:29 p.m.^bGPM?
+101  ?^n0099^m1^l1^w20010719^zGPM?
+101  ?^n0100^m2^l1^w20010719^zGPM?
+  3  ?^aPP.44?
+104  ?Biblioteca?
+ 10  ?Highland^bHarold Joseph?
+ 12  ?Random Bits & Bytes?
+ 14  ?p. 4-13?
+ 30  ?Computers & Security?
+ 38  ?Elsevier Advanced Technology?
+ 39  ?Oxford?
+ 40  ?Reino Unido?
+ 44  ?19900200?
+ 43  ?feb. 1990?
+ 31  ?vol. 9?
+ 32  ?n. 1?
+995  ?20010719^t2:41:45 p.m.^bGPM?
+995  ?20010719^t04:46:40 p.m.^bGPM?
+ 74  ?1990?
+ 76  ?Computadoras?
+ 76  ?Seguridad?
+ 76  ?Virus?
+ 76  ?Informática?
+ 80  ?Tecnología?
+ 86  ?OSI?
+ 86  ?IFIP?
+ 86  ?EDP?
+995  ?20010829^t05:17:42 p.m.^bGPM?
+ 64  ?Inglés?
+  9  ?Revista artículo?
+  2  ?83?
+..mfn=    84 
+  4  ?S?
+  6  ?s?
+  7  ?Biblioteca?
+ 33  ?Bimestral?
+ 34  ?1987, (1988), 1989-?
+ 74  ?1990?
+ 83  ?Reino Unido?
+ 86  ?IFIP?
+900  ?s?
+901  ?a?
+ 97  ?19930823?
+310  ?Donación?
+370  ?Quincenal?
+330  ?American Economic Association?
+ 44  ?19870100?
+  3  ?^aPP.45?
+ 76  ?Seguridad?
+ 76  ?Computadoras?
+ 76  ?Informática?
+ 80  ?Tecnología?
+ 85  ?Londres?
+  9  ?Revista por número?
+104  ?CI?
+ 30  ?Computers & Security?
+ 38  ?Elsevier Science Publishers?
+ 29  ?American Economic Association?
+ 39  ?Amsterdam?
+ 40  ?Antillas Neerlandesas?
+ 43  ?ene. 1987?
+ 31  ?vol. 6?
+ 32  ?n. 1?
+995  ?20000301^t03:08:28 p.m.^bGPM?
+995  ?20010702^t12:03:16 p.m.^bGPM?
+995  ?20010709^t11:39:40 a.m.^bGPM?
+995  ?20010719^t2:42:32 p.m.^bGPM?
+995  ?20030514^t10:24:04 a.m.^bGPM?
+ 64  ?Inglés?
+  2  ?84?
+..mfn=    85 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 91  ?ZNR?
+ 97  ?19930823?
+995  ?20010717^t12:03:59 p.m.^bGPM?
+995  ?20010717^t12:04:07 p.m.^bGPM?
+995  ?20010719^t04:46:57 p.m.^bGPM?
+ 74  ?1990?
+ 76  ?ADABAS?
+ 76  ?Programas de Computadora?
+ 76  ?Procesamiento de Datos?
+ 76  ?Glosarios?
+ 76  ?Informática?
+ 80  ?Tecnología?
+ 86  ?ADABS?
+ 86  ?APS?
+ 86  ?IBM?
+ 86  ?AG?
+ 86  ?SIEMENS?
+ 86  ?APS?
+ 86  ?GLS?
+ 86  ?ISA?
+ 86  ?WEIBADEN?
+995  ?20010829^t06:12:09 p.m.^bGPM?
+  3  ?^aPP.46?
+104  ?Biblioteca?
+ 12  ?ADABAS entire: la nueva alternativa en procesamiento de datos?
+ 14  ?p.4-14?
+ 30  ?APS Software?
+ 38  ?Software?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?19900000?
+ 43  ?1990?
+ 32  ?n. 7?
+995  ?20030514^t10:11:51 a.m.^bGPM?
+ 64  ?Español?
+  9  ?Revista artículo?
+  2  ?85?
+..mfn=    86 
+  3  ?^aHemeroteca.2?
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 12  ?Exposición Salón Internacional del Plástico, 7?
+ 14  ?11 p.?
+ 30  ?El Nacional: suplemento especial?
+ 38  ?AVIPLA?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?26 sep. 1990?
+ 44  ?19900926?
+ 52  ?AVIPLA?
+ 53  ?Exposición Salón Internacional del Plástico, 7?
+ 54  ?Caracas?
+ 55  ?Venezuela?
+ 56  ?5-11 oct. 1990?
+ 57  ?19901005?
+ 74  ?1988?
+ 75  ?1990?
+ 76  ?Industria del Plástico?
+ 77  ?Exportaciones?
+ 80  ?Industria?
+ 82  ?Venezuela?
+ 86  ?AVIPLA?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+104  ?Biblioteca?
+ 97  ?19930823?
+  9  ?Artículo de periódico?
+  9  ?Manuales?
+ 64  ?Español?
+  2  ?86?
+..mfn=    87 
+  3  ?^aHemeroteca.3?
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 12  ?Salón de Nuevos Materiales, Tecnologías e Insumos para la Industria de la Construcción: Construya' 90, 7?
+ 14  ?15 p.?
+ 30  ?El Nacional: Suplemento especial?
+ 38  ?Editora El Nacional?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?28 sep. 1990?
+ 44  ?19900928?
+ 52  ?EXPOCENTER?
+ 53  ?Salón de Nuevos Materiales, Tecnologías e Insumos para la Industria de la Construcción: Construya' 90, 7?
+ 54  ?Caracas?
+ 55  ?Venezuela?
+ 56  ?28 sep.-7 oct. 1990?
+ 57  ?19900907?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+104  ?Biblioteca?
+ 97  ?19930823?
+995  ?20010709^t11:23:27 a.m.^bGPM?
+995  ?20010709^t11:23:39 a.m.^bGPM?
+995  ?20010711^t11:29:46 a.m.^bGPM?
+995  ?20010711^t3:37:54 p.m.^bGPM?
+995  ?20010719^t04:47:16 p.m.^bGPM?
+ 74  ?1990?
+ 76  ?Construcción?
+ 76  ?Materiales de Construcción?
+ 76  ?Insumo-Producto?
+ 76  ?Vivienda?
+ 76  ?Financiamiento de la Vivienda?
+ 80  ?Industria?
+ 77  ?Recursos Financieros?
+ 82  ?Venezuela?
+ 86  ?EXPOCENTER?
+995  ?20010829^t06:12:20 p.m.^bGPM?
+995  ?20010829^t06:12:55 p.m.^bGPM?
+  9  ?Artículo de periódico?
+  9  ?Manuales?
+ 64  ?Español?
+  2  ?87?
+..mfn=    88 
+  3  ?^aHemeroteca.4?
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 12  ?El Agrícola?
+ 14  ?7 p.?
+ 30  ?El Nacional: Suplemento especial?
+ 38  ?Editora El Nacional?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?30 sep. 1990?
+ 44  ?19900930?
+ 83  ?Venezuela?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+104  ?Biblioteca?
+ 97  ?19930823?
+995  ?20010702^t9:40:28 a.m.^bGPM?
+995  ?20010702^t9:49:00 a.m.^bGPM?
+995  ?20010702^t10:01:29 a.m.^bGPM?
+995  ?20010702^t10:02:42 a.m.^bGPM?
+995  ?20010702^t10:04:03 a.m.^bGPM?
+995  ?20010702^t10:05:45 a.m.^bGPM?
+995  ?20010702^t10:08:27 a.m.^bGPM?
+995  ?20010702^t10:22:19 a.m.^bGPM?
+995  ?20010702^t10:27:12 a.m.^bGPM?
+995  ?20010702^t10:28:27 a.m.^bGPM?
+995  ?20010702^t10:28:57 a.m.^bGPM?
+995  ?20010706^t4:51:53 p.m.^bGPM?
+995  ?20010711^t11:30:09 a.m.^bGPM?
+995  ?20010717^t10:48:42 a.m.^bGPM?
+995  ?20010719^t04:47:33 p.m.^bGPM?
+ 74  ?1990?
+ 76  ?Aceites y Grasas?
+ 80  ?Agricultura?
+995  ?20010829^t06:14:32 p.m.^bGPM?
+  9  ?Artículo de periódico?
+  9  ?Manuales?
+ 64  ?Español?
+  2  ?88?
+..mfn=    89 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 36  ?La producción del oro en Venezuela?
+ 36  ?La pequeña minería clave del desarrollo?
+ 36  ?Marco general de la industria?
+ 36  ?La demanda en los mercados.?
+ 52  ?Asociación Venezolana del Oro?
+ 52  ?Consejo Mundial del Oro?
+ 53  ?Simposio Internacional del Oro, 2?
+ 54  ?Caracas?
+ 55  ?Venezuela?
+ 56  ?1990?
+ 57  ?19900000?
+ 74  ?1990?
+ 76  ?Oro?
+ 76  ?Producción?
+ 76  ?Minería?
+ 76  ?Legislación?
+ 76  ?Impuestos?
+ 77  ?Producción?
+ 77  ?Ventas?
+ 80  ?Oro?
+ 82  ?América Latina?
+ 83  ?Venezuela?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+ 97  ?19930823?
+ 18  ?Oro?
+995  ?20010711^t2:14:04 p.m.^bGPM?
+  9  ?Artículo de periódico?
+  3  ?^aHemeroteca.5?
+104  ?Biblioteca?
+ 12  ?Simposio  Internacional del Oro, 2?
+ 14  ?12 p.?
+ 30  ?Economía Hoy: Suplemento?
+ 38  ?s.n.?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?19901003?
+ 43  ?3 oct. 1990?
+995  ?20030514^t10:15:35 a.m.^bGPM?
+ 64  ?Español?
+  2  ?89?
+..mfn=    90 
+  3  ?^aPP.47?
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 12  ?Una nueva etapa en el desarrollo industrial de Venezuela?
+ 14  ?p. 2-11?
+ 30  ?Boletín Consolidado?
+ 32  ?n. 1-2?
+ 36  ?El concepto de reconversión industrial?
+ 36  ?Factores que impulsan la reconversión industrial en Venezuela?
+ 36  ?La reconversión como pólitica pública?
+ 36  ?Ambitos de la reconversión?
+ 36  ?Condiciones para acceder al financiamiento público?
+ 36  ?La reconversión en España y Mexico?
+ 36  ?Principales enseñanzas de otras experiencias?
+ 36  ?El éxito de la reconversión estará en el logro de la competitividad.?
+ 38  ?Grupo Consolidado?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?ene.-jun. 1990?
+ 44  ?19900100?
+ 74  ?1990?
+ 76  ?Reconversión Industrial?
+ 80  ?Industria?
+ 82  ?Venezuela?
+ 91  ?ZNR?
+104  ?Biblioteca?
+900  ?s?
+901  ?a?
+ 97  ?19930823?
+  9  ?Artículo de periódico?
+  9  ?Manuales?
+ 64  ?Español?
+  2  ?90?
+..mfn=    91 
+ 80  ?Economía?
+ 77  ?Población?
+ 77  ?Cuentas Nacionales?
+ 77  ?Gobierno Central?
+ 77  ?Balanza de Pagos?
+ 77  ?Deuda Externa?
+ 77  ?Productos?
+ 77  ?Exportaciones?
+ 77  ?Hidrocarburos?
+ 82  ?América Latina?
+ 86  ?BID?
+ 37  ?En Biblioteca: 1978-1982, 1985-1987, 1989-1993. -- A partir de 1982 el informe contiene una sección especial?
+101  ?^n300^l2^fCompra^p19950209^rPresidencia^q3000^w19950301^zgpm?
+  4  ?C?
+  6  ?c?
+  9  ?Anuarios?
+  3  ?^aPI.2?
+104  ?CI?
+104  ?Biblioteca?
+ 24  ?Banco Interamericano de Desarrollo?
+ 25  ?Progreso Económico y Social en América Latina 1978-1993: Informe?
+ 38  ?BID?
+ 39  ?Washington?
+ 40  ?Venezuela?
+ 43  ?1978-?
+ 27  ?v.?
+ 42  ?tbls.; 23 cm.?
+ 74  ?1978?
+ 75  ?1993?
+995  ?20030213^t02:49:53 p.m.^bGPM?
+ 64  ?Inglés?
+  2  ?91?
+..mfn=    92 
+  4  ?M?
+  6  ?mc?
+  7  ?Biblioteca?
+ 20  ?547 p.?
+ 36  ?Evolución macroeconómica reciente?
+ 36  ?Financiamiento del desarrollo?
+ 36  ?Sector agrícola, manufacturero, energía y social?
+ 36  ?Integración y cooperación Económica?
+ 36  ?Ahorro, e inversión en América Latina?
+ 36  ?Determinantes del ahorro: aspectos teóricos y empíricos?
+ 36  ?El ahorro y la inversión pública?
+ 36  ?El financiamiento en el sector agropecuario de América Latina y el Caribe?
+ 44  ?1990000?
+ 83  ?Argentina?
+ 83  ?Bahamas?
+ 83  ?Barbados?
+ 83  ?Bolivia?
+ 83  ?Brasil?
+ 83  ?Colombia?
+ 83  ?Costa Rica?
+ 91  ?MTAT?
+900  ?M?
+901  ?C?
+ 97  ?19960221?
+995  ?20010702^t10:31:15 a.m.^bGPM?
+995  ?20010706^t4:51:31 p.m.^bGPM?
+995  ?20010709^t9:53:07 a.m.^bGPM?
+ 74  ?1989?
+ 75  ?1989?
+ 76  ?Desarrollo Económico y Social?
+ 76  ?Análisis Económico?
+ 76  ?Ahorros?
+ 76  ?Inversiones?
+ 76  ?Crecimiento Económico?
+ 76  ?Multimedia?
+ 80  ?Economía?
+ 77  ?Población?
+ 77  ?Cuentas Nacionales?
+ 77  ?Gobierno Central?
+ 77  ?Balanza de Pagos?
+ 77  ?Deuda Externa?
+ 77  ?Productos?
+ 77  ?Exportaciones?
+ 77  ?Hidrocarburos?
+ 77  ?Multimedia?
+ 82  ?América Latina?
+ 86  ?BID?
+995  ?20010709^t9:53:20 a.m.^bGPM?
+995  ?20010709^t9:58:42 a.m.^bGPM?
+995  ?20010711^t11:28:38 a.m.^bGPM?
+995  ?20010717^t10:51:16 a.m.^bGPM?
+800  ?bancovenezolano.jpg^dBANCO INTERAMERICANO DE DESARROLLO?
+995  ?20010719^t04:47:41 p.m.^bGPM?
+ 64  ?Español?
+  9  ?Anuarios?
+  3  ?^aPI.3?
+104  ?CI?
+104  ?Biblioteca?
+ 17  ?Banco Interamericano de Desarrollo?
+ 18  ?Ahorro, Inversiones y Crecimiento: Informe 1989, mfn 93?
+ 42  ?tbls.; 23 cm.?
+ 27  ?v.?
+ 43  ?1990?
+ 25  ?Progreso Económico y Social en América Latina?
+ 24  ?Banco Interamericano de Desarrollo?
+ 38  ?BID?
+ 39  ?Washington?
+ 40  ?Estados Unidos?
+ 47  ?0253-6013?
+995  ?20050907^t11:43:07 p.m.^bScristina?
+  2  ?92?
+..mfn=    93 
+  3  ?^aPI.4?
+  4  ?M?
+  6  ?mc?
+  7  ?Biblioteca?
+  9  ?Anuarios?
+ 17  ?Banco Interamericano de Desarrollo?
+ 18  ?El Sector Externo: Informe 1982?
+ 20  ?439 p.?
+ 24  ?Banco Interamericano de Desarrollo?
+ 25  ?Progreso Económico y Social en América Latina?
+ 36  ?Evolución y perspectivas de la economía internacional?
+ 36  ?El sector externo y las políticas económicas de los países de la región?
+ 36  ?Perspectivas económicas de la América Latina a mediano plazo?
+ 36  ?El crecimiento económico, las corrientes comerciales y la relación de intercambio?
+ 36  ?Crecimiento de las exportaciones latinoamericanas de manufacturas?
+ 36  ?Exportaciones de tecnología de América Latina?
+ 36  ?Deuda Externa y balanza de pagos de América Latina: tendencias recientes y perspectivas?
+ 38  ?BID?
+ 39  ?Washington?
+ 40  ?Estados Unidos?
+ 42  ?tbls; 23 cm.?
+ 74  ?1982?
+ 75  ?1982?
+ 76  ?Desarrollo Económico y Social?
+ 76  ?Análisis Económico?
+ 76  ?Comercio Exterior?
+ 76  ?Deuda Externa?
+ 77  ?Población?
+ 77  ?Cuentas Nacionales?
+ 77  ?Gobierno Central?
+ 77  ?Balanza de Pagos?
+ 77  ?Deuda Externa?
+ 77  ?Productos?
+ 77  ?Exportaciones?
+ 77  ?Hidrocarburos?
+ 80  ?Economía?
+ 82  ?América Latina?
+ 83  ?Argentina?
+ 83  ?Bahamas?
+ 83  ?Barbados?
+ 83  ?Bolivia?
+ 83  ?Brasil?
+ 83  ?Colombia?
+ 83  ?Costa Rica?
+ 83  ?Chile?
+ 83  ?Ecuador?
+ 83  ?El Salvador?
+ 83  ?Guatemala?
+ 83  ?Guyana?
+ 83  ?Haití?
+ 83  ?Honduras?
+ 83  ?Jamaica?
+ 83  ?México?
+ 83  ?Nicaragua?
+ 83  ?Panamá?
+ 83  ?Paraguay?
+ 83  ?Perú?
+ 83  ?República Dominicana?
+ 83  ?Suriname?
+ 83  ?Trinidad y Tobago?
+ 83  ?Uruguay?
+ 83  ?Venezuela?
+ 86  ?BID?
+ 91  ?ZNR?
+900  ?m?
+901  ?c?
+ 37  ?ISSN 0253-6013?
+104  ?CI?
+104  ?Biblioteca?
+ 97  ?19960221?
+ 64  ?Español?
+  2  ?93?
+..mfn=    94 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 21  ?2?
+ 36  ?Oiling the Wheels?
+ 36  ?Not Quite a Free for All?
+ 36  ?Sponsors of This Supplement: Boulton & Co?
+ 36  ?Corimon?
+ 36  ?Banco La Guaira?
+ 36  ?Banco Mercantil?
+ 36  ?Bankers Trust?
+ 36  ?Central Bank of Venezuela?
+ 36  ?Citibank?
+ 36  ?VestcorPartners?
+ 74  ?1991?
+ 75  ?1991?
+ 76  ?Política Económica?
+ 76  ?Inversiones Extranjeras?
+ 76  ?Industria?
+ 80  ?Economía?
+ 83  ?Venezuela?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+ 97  ?19960221?
+  3  ?^aPP.48?
+104  ?Biblioteca?
+ 12  ?Venezuela Unshackling the Market?
+ 14  ?20 p.?
+ 30  ?Euromoney: A Supplement?
+ 38  ?Euromoney Publications?
+ 39  ?Londres?
+ 40  ?Reino Unido?
+ 44  ?19910500?
+ 43  ?Mayo 1991?
+995  ?20030514^t10:12:02 a.m.^bGPM?
+ 64  ?Inglés?
+  9  ?Revista artículo?
+  2  ?94?
+..mfn=    95 
+902  ?^sBancomer^f^n103?
+ 36  ?Evolución Macroeconómica Reciente?
+ 36  ?Financiamiento del Desarrollo?
+ 36  ?Sector Agricultura, Manufactura y Minería, Energía, Recesión y Gasto Social?
+ 36  ?Integración y Cooperación Económica Latinoamericana?
+ 36  ?Problemas y Tendencias del Desarrollo Agropecuario en la América Latina?
+ 36  ?Productividad y Tecnología Agropecuaria?
+ 36  ?Desarrollo Rural y Equidad Social?
+ 36  ?Las políticas Sobre Comercio Agropecuario y las Exportaciones Latinoamericanas?
+ 36  ?Efecto de las Políticas Comerciales y Macroeconómicas en el Crecimiento Agropecuario: la Experiencia Sudamericana?
+900  ?m?
+901  ?c?
+  7  ?Biblioteca?
+ 91  ?ZNR?
+ 20  ?466 p.?
+ 83  ?Argentina?
+ 83  ?Bahamas?
+ 83  ?Barbados?
+ 83  ?Bolivia?
+ 83  ?Brasil?
+ 83  ?Colombia?
+ 83  ?Costa Rica?
+ 83  ?Chile?
+ 83  ?Ecuador?
+ 83  ?El Salvador?
+ 83  ?Guatemala?
+ 83  ?Guyana?
+ 83  ?Haití?
+ 83  ?Honduras?
+ 83  ?Jamaica?
+ 83  ?México?
+ 83  ?Nicaragua?
+ 83  ?Panamá?
+ 83  ?Paraguay?
+ 83  ?Perú?
+ 83  ?República Dominicana?
+ 83  ?Suriname?
+ 83  ?Trinidad y Tobago?
+ 83  ?Uruguay?
+ 83  ?Venezuela?
+  4  ?M?
+  6  ?mc?
+ 97  ?19960221?
+101  ?^n0110^m1^l1^oFLASA^fDonación^w20010719^zGPM?
+  9  ?Anuarios?
+  3  ?^aPI.5?
+104  ?Biblioteca?
+104  ?CI?
+ 17  ?Banco Interamericano de Desarrollo?
+ 18  ?Desarrollo agropecuario: Informe 1986?
+ 42  ?tbls; 23 cm.?
+ 25  ?Progreso Económico Y Social en América Latina?
+ 24  ?Banco Interamericano de Desarrollo?
+ 38  ?BID?
+ 39  ?Washington?
+ 40  ?Estados Unidos?
+800  ?falcon.jpg^dDesarrollo Agropecuario en Falcón?
+995  ?20010711^t11:34:32 a.m.^bGPM?
+995  ?20010711^t3:10:34 p.m.^bGPM?
+995  ?20010711^t4:07:18 p.m.^bGPM?
+995  ?20010711^t4:09:09 p.m.^bGPM?
+995  ?20030108^t06:44:57 p.m.^bGPM?
+ 64  ?Español?
+ 74  ?1986?
+ 75  ?1986?
+ 76  ?Desarrollo Económico y Social?
+ 76  ?Análisis Económico?
+ 76  ?Desarrollo Agropecuario?
+ 76  ?Multimedia?
+ 80  ?Economía?
+ 77  ?Población?
+ 77  ?Cuentas Nacionales?
+ 77  ?Gobierno Central?
+ 77  ?Balanza de Pagos?
+ 77  ?Deuda Externa?
+ 77  ?Productos?
+ 77  ?Exportaciones?
+ 77  ?Hidrocarburos?
+ 82  ?América Latina?
+ 86  ?BID?
+ 37  ?ISSN 0253-6013?
+995  ?20050907^t11:44:36 p.m.^bScristina?
+  2  ?95?
+..mfn=    96 
+  9  ?Publicaciones Oficiales?
+  3  ?^aPO.1?
+104  ?Biblioteca?
+104  ?CI?
+ 24  ?Venezuela. Oficina Central de Estadística e Informática?
+ 25  ?Indicadores de la Fuerza de trabajo: Total Nacional y por Regiones: 1981-1993?
+ 38  ?OCEI?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 43  ?1990-?
+ 27  ?v.?
+ 42  ?tbls.; 15 cm.?
+101  ?^n200^m1993^l1^fCompra^p19950420^rOCEI^q3000^k2do. semestre^w19950504^zgpm?
+  4  ?C?
+  6  ?c?
+800  ?vzla.gif^dMapa de Venezuela?
+ 64  ?Español?
+ 74  ?1981?
+ 75  ?1993?
+ 76  ?Empleados?
+ 76  ?Población Activa?
+ 76  ?Trabajadores?
+ 76  ?Desempleo?
+ 76  ?Multimedia?
+ 80  ?Trabajo?
+ 77  ?Indicadores?
+ 77  ?Población Activa?
+ 77  ?Trabajadores?
+ 82  ?Venezuela?
+ 86  ?OCEI?
+ 37  ?Dep. legal 76-0017. Semestral. En Biblioteca: 1990: 1r. sem., 1991: 2do. Total Nacional y por Regiones, 1992-1993?
+995  ?20030514^t10:47:30 a.m.^bGPM?
+  2  ?96?
+..mfn=    97 
+  4  ?S?
+  6  ?as?
+  7  ?Biblioteca?
+ 36  ?Reforma del ISLR: tasas menores y pocas exenciones significan pagar más, no menos?
+ 36  ?Impuesto al valor agregado?
+ 36  ?Ajustes por inflación: Una idea que debió implementarse hace tiempo?
+ 36  ?Impuestos estadales y municipales.?
+ 72  ?El gobierno ha propuesto que se simplifique el Impuesto sobre la Renta, que se bajen las tasas nominales y se eliminen la mayoría de las exenciones. Una reducción de las exenciones significa que la mayoría de los contribuyentes terminará pagando más a pesar que hayan bajado las tasas, lo que despeja el camino para eliminar muchos impuestos tediosos. Lamentablemente, los tradicionalistas y cietos grupos interesados están presionando para restaurar muchos de las exenciones, a la vez que luchan por otros cambios que, en conjunto, pueden bloquear el proyecto de ley.?
+ 91  ?ZNR?
+900  ?s?
+901  ?a?
+ 97  ?19960221?
+101  ?^n0115^m1^l1^w20010719^zGPM?
+101  ?^n0116^m2^l2^w20010719^zGPM?
+101  ?^n0117^m2^l3^w20010719^zGPM?
+101  ?^n0120^m4^l1^w20010719^zGPM?
+995  ?20030108^t06:46:50 p.m.^bGPM?
+995  ?20030109^t12:58:50 a.m.^bGPM?
+ 64  ?Español?
+ 74  ?1990?
+ 76  ?Reformas Tributarias?
+ 76  ?Impuesto a la Renta?
+ 76  ?Impuesto al Valor Agregado?
+ 76  ?Inflación?
+ 76  ?Impuestos Locales?
+ 76  ?Legislación?
+ 76  ?Derecho Fiscal?
+ 80  ?Derecho?
+ 82  ?Venezuela?
+ 86  ?IVA?
+ 86  ?ISLR?
+995  ?20030514^t10:47:40 a.m.^bGPM?
+995  ?20050713^t04:33:20 p.m.^bScristina?
+  9  ?Revista artículo?
+  3  ?^aPP.49?
+104  ?Biblioteca?
+ 12  ?La reforma tributaria cobra impulso?
+ 14  ?p. 22-33?
+ 30  ?VenEconomía Mensual  ACTUALIDADES?
+ 29  ?Junta del Acuerdo de Cartagena?
+ 39  ?Lima?
+ 40  ?Perú?
+750  ?3?
+995  ?20050713^t04:33:36 p.m.^bScristina?
+  2  ?97?
+..mfn=    98 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?1?
+ 74  ?1990?
+ 75  ?1990?
+ 76  ?Predicciones Económicas?
+ 80  ?Economía?
+ 82  ?Venezuela?
+ 91  ?ZNR?
+900  ?m?
+901  ?m?
+ 97  ?19960221?
+101  ?^n0130^m1^l1^oFLASA^fCompra^w20010719^zGPM?
+101  ?^n0131^m2^l2^oFLASA^fCompra^w20010719^zGPM?
+  9  ?Manuales?
+  3  ?^a330.987^bL349^c1990?
+104  ?Biblioteca?
+ 17  ?Latin American Information Services?
+ 18  ?Lagniappe forecasting report: Venezuela?
+ 38  ?El Servicio?
+ 39  ?New York?
+ 40  ?Estados Unidos?
+ 20  ?1 carp.?
+ 43  ?1990?
+ 44  ?19900831?
+ 42  ?tbls.; 29 cm.?
+995  ?20010719^t2:48:21 p.m.^bGPM?
+ 64  ?Inglés?
+  2  ?98?
+..mfn=    99 
+  4  ?M?
+  6  ?m?
+  7  ?Biblioteca?
+ 21  ?1?
+ 74  ?1990?
+ 75  ?1990?
+ 76  ?Predicciones Económicas?
+ 80  ?Economía?
+ 82  ?Venezuela?
+ 91  ?ZNR?
+900  ?m?
+901  ?m?
+ 97  ?19960221?
+101  ?^n0201^m1^l1^oFLASA^fCanje^w20010719^zGPM?
+101  ?^n0202^m2^l2^oFLASA^fCanje^w20010719^zGPM?
+  9  ?Manuales?
+  3  ?^a330.987^bL349^c1990?
+104  ?Biblioteca?
+ 17  ?Latin American Information Services?
+ 18  ?Lagniappe forecasting report: Venezuela?
+ 38  ?El Servicio?
+ 39  ?New York?
+ 40  ?Estados Unidos?
+ 20  ?1 carp.?
+ 43  ?1990?
+ 44  ?19900831?
+ 42  ?tbls.; 29 cm.?
+995  ?20010719^t2:49:04 p.m.^bGPM?
+ 64  ?Inglés?
+  2  ?99?
+..mfn=   100 
+  4  ?K?
+  6  ?k?
+750  ?2?
+ 64  ?Español?
+ 76  ?POLITICA?
+ 82  ?BOLIVIA?
+995  ?20000301^t04:35:28 p.m.^bGPM?
+995  ?20000301^t04:35:53 p.m.^bGPM?
+  9  ?Revista colección?
+ 35  ?650-998?
+ 30  ?ACTUALIDAD BOLIVIANA CONFIDENCIAL?
+ 38  ?Hugo González Rioja?
+ 39  ?La Paz?
+ 40  ?Bolivia?
+310  ?Canje?
+320  ?1989?
+370  ?Irregular?
+300  ?Suspendida?
+340  ?Impresa?
+330  ?Representación CAF-Bolivia?
+995  ?20030514^t10:24:16 a.m.^bGPM?
+  2  ?100?
+..mfn=   101 
+  4  ?K?
+  6  ?k?
+750  ?3?
+378  ?1?
+ 64  ?Español?
+ 76  ?INTEGRACION?
+ 82  ?GRUPO ANDINO?
+995  ?20000301^t04:36:24 p.m.^bGPM?
+995  ?20010928^t08:14:56 a.m.^bGPM?
+380  ?12?
+995  ?20020207^t10:19:48 a.m.^bGPM?
+  9  ?Revista colección?
+104  ?Centro de Documentación?
+ 30  ?ACTUALIDADES?
+ 29  ?Junta del Acuerdo de Cartagena?
+ 39  ?Lima?
+ 40  ?Perú?
+310  ?Donación?
+320  ?1987?
+370  ?Mensual?
+300  ?Suspendida?
+340  ?Impresa?
+330  ?Representación CAF-Perú?
+995  ?20030514^t10:26:52 a.m.^bGPM?
+  2  ?101?
+..mfn=   102 
+  4  ?K?
+  6  ?k?
+750  ?4?
+ 64  ?Inglés?
+ 76  ?PROYECTOS INDUSTRIALES?
+ 82  ?INGLATERRA?
+995  ?20000301^t04:37:10 p.m.^bGPM?
+995  ?20000301^t04:37:20 p.m.^bGPM?
+  9  ?Revista colección?
+ 35  ?86-954?
+104  ?Biblioteca?
+ 30  ?ACHIEVEMENT?
+ 38  ?World Trade Magazines Limited?
+ 39  ?Kent?
+ 40  ?INGLATERRA?
+310  ?Donación?
+320  ?1987?
+370  ?Irregular?
+300  ?En curso?
+340  ?Impresa?
+330  ?World Trade?
+995  ?20030514^t10:24:35 a.m.^bGPM?
+  2  ?102?
+..mfn=   103 
+  4  ?K?
+  6  ?k?
+750  ?5?
+ 64  ?Español?
+ 76  ?ADMINISTRACION?
+995  ?20000301^t04:37:58 p.m.^bGPM?
+995  ?20030514^t10:25:37 a.m.^bGPM?
+  9  ?Revista colección?
+104  ?Centro de Documentación?
+ 30  ?ADMINISTRACION DE EMPRESAS?
+ 38  ?Ediciones Contabilidad Moderna?
+ 39  ?Buenos Aires?
+ 40  ?Argentina?
+310  ?Subscripción?
+370  ?Mensual?
+300  ?Suspendida?
+340  ?Impresa?
+330  ?CENDES?
+995  ?20050713^t04:33:51 p.m.^bScristina?
+  2  ?103?
+..mfn=   104 
+  4  ?K?
+  6  ?k?
+750  ?6?
+ 64  ?Español?
+ 76  ?INTEGRACION?
+ 82  ?GRUPO ANDINO?
+995  ?20000301^t04:39:22 p.m.^bGPM?
+995  ?20030514^t03:25:45 p.m.^bGPM?
+  9  ?Revista colección?
+ 35  ?458-666?
+104  ?Centro de Documentación?
+ 30  ?ALERTA INFORMATIVO?
+ 38  ?Biblioteca CAF?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+310  ?Donación?
+370  ?Irregular?
+300  ?Suspendida?
+340  ?Impresa?
+330  ?Biblioteca CAF?
+995  ?20040126^t01:53:38 p.m.^bcs?
+  2  ?104?
+..mfn=   105 
+  4  ?K?
+  6  ?k?
+750  ?7?
+ 64  ?Español?
+ 76  ?FINANZAS?
+ 82  ?AMERICA LATINA?
+  9  ?Revista colección?
+ 30  ?ALIDE Boletin Informativo?
+ 38  ?ALIDE?
+ 39  ?Limas?
+ 40  ?Perú?
+310  ?Donación?
+330  ?ALIDE?
+995  ?20030514^t03:26:04 p.m.^bGPM?
+  2  ?105?
+..mfn=   106 
+  4  ?K?
+  6  ?k?
+750  ?8?
+800  ?PC0296.BMP^dImagen de portada de revista?
+ 64  ?Español?
+ 76  ?FINANZAS?
+ 76  ?Multimedia?
+ 82  ?AMERICA LATINA?
+995  ?20030218^t12:29:00 p.m.^bGPM?
+  9  ?Revista colección?
+ 30  ?ALIDE Noticias?
+ 38  ?ALIDE?
+ 39  ?Limas?
+ 40  ?Perú?
+310  ?Donación?
+370  ?Irregular?
+330  ?ALIDE?
+995  ?20030514^t03:26:12 p.m.^bGPM?
+  2  ?106?
+..mfn=   107 
+  4  ?K?
+  6  ?k?
+750  ?9?
+ 64  ?Español?
+ 76  ?BIBLIOTECAS?
+ 82  ?AMERICA LATINA?
+  9  ?Revista colección?
+ 30  ?ALIDE RIALIDE AL DIA?
+ 38  ?ALIDE?
+ 39  ?Limas?
+ 40  ?Perú?
+995  ?20030514^t03:26:22 p.m.^bGPM?
+  2  ?107?
+..mfn=   108 
+  4  ?K?
+  6  ?k?
+750  ?10?
+ 64  ?Español?
+ 76  ?GERENCIA?
+ 76  ?ECONOMIA?
+ 76  ?NEGOCIOS?
+ 76  ?MULTIMEDIA?
+ 80  ?INTEGRACION?
+ 82  ?COLOMBIA?
+800  ?musica.jpg^dLa Economía y la Alta Gerencia?
+  9  ?Revista colección?
+ 30  ?ALTA GERENCIA. ECONOMIA - NEGOCIOS E INTEGRACION?
+140  ?ALTA GERENCIA INTERNACIONAL?
+ 38  ?Global Editores?
+ 39  ?Santa Fé de Bogotá?
+ 40  ?Colombia?
+310  ?Subscripción?
+370  ?Irregular?
+330  ?Representación CAF-Colombia?
+995  ?20030514^t03:26:39 p.m.^bGPM?
+  2  ?108?
+..mfn=   109 
+  4  ?K?
+  6  ?k?
+750  ?11?
+ 64  ?Español?
+ 76  ?ECONOMIA?
+ 82  ?AMERICA LATINA?
+800  ?Revista/economia.gif?
+380  ?12?
+995  ?20010719^t12:23:38 p.m.^bGPM?
+  9  ?Revista colección?
+ 30  ?AMERICA ECONOMIA?
+ 38  ?América Economía?
+ 39  ?New York?
+ 40  ?Estados Unidos?
+310  ?Subscripción?
+370  ?Mensual?
+330  ?América Economía?
+995  ?20030514^t03:26:47 p.m.^bGPM?
+  2  ?109?
+..mfn=   110 
+  7  ?CC-ELJ?
+  4  ?M?
+  6  ?m?
+ 36  ?Orígenes del arte occidental v.1?
+ 36  ?Arte italiano hasta 1850 v.2?
+ 36  ?Arte flamenco y holandés v. 3?
+ 36  ?Arte alemán y español hasta 1900 v.4?
+ 36  ?Arte francés desde 1350 a 1850 v.5?
+ 36  ?Arte inglés y norteamericano hasta 1900 v.6?
+ 36  ?Impresionistas y post-impresionistas v.7?
+ 36  ?Arte moderno v.8?
+ 36  ?Arte chino y japonés v.9?
+ 36  ?Cómo mirar al arte v.10?
+ 79  ?Arte^xHistoria^wEnciclopedias?
+ 79  ?Arte flamenco^xEnciclopedias?
+ 79  ?Arte español^xEncipclopedias?
+ 79  ?Arte Moderno^xEnciclopedias?
+ 79  ?Arte chino^xEnciclopedias?
+ 79  ?Arte oriental^xEnciclopedias?
+ 97  ?20021212?
+101  ?^n000061^m1?
+101  ?^n000062^m2?
+101  ?^n000063^m3?
+101  ?^n000064^m4?
+101  ?^n000065^m5?
+101  ?^n000066^m6?
+101  ?^n000067^m7?
+101  ?^n000068^m8?
+101  ?^n000069^m9?
+101  ?^n000070^m10?
+333  ?^cR?
+ 70  ?Col.-ELJ?
+  9  ?Monografías?
+  3  ?^a703^bB436a^c1|2?
+104  ?Mediateca?
+ 18  ?Las bellas artes : enciclopedia ilustrada de pintura, dibujo y escultura.?
+ 38  ?Grolier?
+ 39  ?New York?
+ 40  ?US?
+ 20  ?10 v?
+ 43  ?1969?
+ 44  ?19690000?
+ 22  ?Academia Dominicana de la Historia?
+ 42  ?il?
+995  ?20030514^t09:42:39 a.m.^bGPM?
+ 64  ?Español?
+  2  ?110?
+..mfn=   111 
+  7  ?CC-ELJ?
+  3  ?^a759.97293^bG377a?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000053?
+101  ?^n000054^l2?
+101  ?^n000055^l3?
+101  ?^n000056^l4?
+101  ?^n000057^l5?
+101  ?^n000058^l6?
+101  ?^n000059^l7?
+101  ?^n000060^l8?
+  9  ?Monografías?
+ 16  ?Gerón^bCándido?
+ 18  ?Antología de la pintura dominicana = anthology of dominican painting=anthologie de la peinture dominicaine?
+ 20  ?148 p?
+ 42  ?il?
+ 38  ?Editora tele 3?
+ 43  ?1990?
+ 44  ?19900000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 79  ?Pintores dominicanos?
+ 79  ?Pinturas dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+ 64  ?Francés?
+  2  ?111?
+..mfn=   112 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bS161T?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000048?
+101  ?^n000049^l2?
+101  ?^n000050^l3?
+101  ?^n000051^l4?
+101  ?^n000052^l5?
+  9  ?Monografías?
+ 16  ?Tolentino^bMarianne de?
+ 18  ?Amaya?
+ 20  ?109 p?
+ 42  ?il?
+ 38  ?Amigo del Hogar?
+ 43  ?1991?
+ 44  ?19910000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 79  ?Salazar, Amaya, 1951?
+ 79  ?Pintores Dominicanos?
+ 79  ?Pinturas Dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?112?
+..mfn=   113 
+  7  ?CC-ELJ?
+  4  ?M?
+  6  ?m?
+101  ?^n000047?
+ 36  ?La época  27?
+ 36  ?El hombre  39?
+ 36  ?La obra  77?
+ 36  ?Crítica  105?
+ 36  ?Testimonios  127?
+ 36  ?cronología  135?
+ 79  ?Cruz, Gaspar Mario, 1925?
+ 79  ?Escultores dominicanos?
+  9  ?Monografías?
+333  ?^c^pRD?
+  3  ?^a730.92^bC957M^h1?
+104  ?Mediateca?
+ 16  ?Miller^bjeannette^r1944-?
+ 18  ?Gaspar Mario Cruz : poeta de las formas = Poet of forms?
+ 38  ?Amigo del Hogar?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 20  ?146 p?
+ 43  ?1997?
+ 44  ?19970000?
+ 42  ?il?
+ 70  ?Col.-ELJ?
+995  ?20021212^t10:09:52^bGPM?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+  2  ?113?
+..mfn=   114 
+  7  ?CC-ELJ?
+  3  ?^a700.97293^bB583n?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000045?
+101  ?^n000046^l2?
+  9  ?Monografías?
+ 17  ?Bienal Nacional de Artes Visuales (19. : 1994 : Santo Domingo)?
+ 18  ?<XIX=Décimo novena> Bienal Nacional de Artes Visuales : Catálogo?
+ 20  ?233 p?
+ 42  ?il?
+ 38  ?Museo de Arte Moderno?
+ 43  ?1994?
+ 44  ?19940000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 79  ?Pintura dominicana^xConcursos?
+ 79  ?Escultura dominicana^xConcursos?
+ 79  ?Dibujo^xConcursos?
+ 79  ?Grabado^xConcursos?
+ 79  ?Fotografía^xConcursos?
+ 79  ?Video artístico^xConcursos?
+ 79  ?Arquitectura^xRepublica Dominicana^wConcursos?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?114?
+..mfn=   115 
+  7  ?CC-ELJ?
+  3  ?^a704.942^bS558p?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000040?
+  9  ?Monografías?
+ 16  ?Shneberg^bJoseph?
+ 18  ?Perfiles?
+ 20  ?119 p?
+ 42  ?il?
+ 38  ?Fundación García Arévalo : Fundación Brugal : Tricom?
+ 43  ?1999?
+ 44  ?19990000?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 79  ?Retratos?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?115?
+..mfn=   116 
+  7  ?CC-ELJ?
+  3  ?^a730.97293^bV496p?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000039?
+  9  ?Monografías?
+ 16  ?Vergés^bPedro?
+ 18  ?Prats-Ventós, un escultor dominicano?
+ 20  ?200 p?
+ 42  ?il?
+ 38  ?Editora Corripio?
+ 43  ?1984??
+ 44  ?19840000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 79  ?Prats^xVentós, Antonio?
+ 79  ?Escultores españoles?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+  2  ?116?
+..mfn=   117 
+  7  ?CC-ELJ?
+  3  ?^a759.97294^bP977r?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000038?
+  9  ?Monografías?
+ 16  ?Ramírez^bMary Carmen^rcomp?
+ 18  ?Puerto Rican painting between past and present?
+ 20  ?128 p?
+ 42  ?il?
+ 38  ?The Squibb Gallery?
+ 43  ?1987?
+ 44  ?19870000?
+ 39  ?Princeton, N.J.?
+ 40  ?US?
+ 70  ?Col.-ELJ?
+ 79  ?Pinturas puertorriqueñas^xExposiciones?
+ 79  ?Pintores puertorriqueños?
+ 79  ?Pintura puertorriqueña^xHistoria?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+  2  ?117?
+..mfn=   118 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bU75T?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000037?
+101  ?^n004836^l2?
+  9  ?Monografías?
+ 16  ?Tolentino^bMarianne de?
+ 18  ?Fernando Ureña Rib?
+ 20  ?[130] p?
+ 42  ?il?
+ 38  ?Imp. Quiñones?
+ 43  ?1989?
+ 44  ?19890000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 70  ?Col.-FL?
+ 79  ?Ureña Rib, Fernando, 1951^x?
+ 79  ?Pintores dominicanos?
+ 79  ?Pinturas dominicanas?
+ 94  ?Marianne de Tolentino; fotografías de Karl Obkircher?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+ 64  ?Francés?
+  2  ?118?
+..mfn=   119 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bO96g?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000036?
+  9  ?Monografías?
+ 16  ?Gerón^bCándido^r1950-?
+ 18  ?Oviedo : vida, obra y proyección internacional = Oviedo : his life workland international proyection?
+ 20  ?134 p?
+ 42  ?il?
+ 38  ?Editora Corripio?
+ 43  ?1995?
+ 44  ?19950000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 79  ?Oviedo, Ramon, 1927^x?
+ 79  ?Pintores dominicanos?
+ 79  ?Pinturas dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+  2  ?119?
+..mfn=   120 
+  7  ?CC-ELJ?
+  3  ?^a759.97293^bG377pi?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000035?
+101  ?^n000359^l2?
+101  ?^n000360^l3?
+101  ?^n007351^l4?
+  9  ?Monografías?
+ 16  ?Gerón^bCándido^r1950-?
+ 18  ?Pintores extranjeros y dominicanos 1936-1995 = Foreign and dominican painters 1936-1995?
+ 20  ?152 p?
+ 42  ?il?
+ 68  ?Incluye biografía de Cándido Bidó?
+ 38  ?Alfa & Omega?
+ 43  ?1995?
+ 44  ?19950000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 70  ?CC-ELJ?
+ 79  ?Pintores?
+ 79  ?Pinturas?
+ 79  ?Pintores dominicanos?
+ 79  ?Pinturas dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+  2  ?120?
+..mfn=   121 
+  7  ?CC-ELJ?
+  3  ?^a759.97293^bG377p?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000034?
+  9  ?Monografías?
+ 16  ?Gerón^bCándido^r1950-?
+ 18  ?Presencia de once pintores dominicanos?
+ 20  ?121 p?
+ 42  ?il?
+ 38  ?Taller?
+ 43  ?1986?
+ 44  ?19860000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 79  ?Pintores dominicanos?
+ 79  ?Pinturas dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?121?
+..mfn=   122 
+  7  ?CC-ELJ?
+  3  ?^a759.97293^bC569a?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000032?
+101  ?^n000033^l2?
+101  ?^n003975^l3?
+  9  ?Monografías?
+ 18  ?<100=Cien> años de la pintura dominicana : continuidad y ruptura?
+ 20  ?291 p?
+ 42  ?il?
+ 38  ?Intergrafic?
+ 43  ?1989?
+ 44  ?19890000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 47  ?84-89532-00-5?
+ 70  ?Col.-ELJ?
+ 70  ?Col.-FL?
+ 79  ?Pintura dominicana^xHistoria?
+ 79  ?Pinturas dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?122?
+..mfn=   123 
+  7  ?CC-ELJ?
+  3  ?^a780^bP438u?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000013^m1?
+101  ?^n000014^m2?
+101  ?^n000015^m2^l2?
+101  ?^n003471^m1^l2?
+101  ?^n003472^m2^l3?
+  9  ?Monografías?
+ 16  ?Pérez de Cuello^bCatana?
+ 18  ?El universo de la música : apreciacion, teoría e historia de la música occidental y dominicana?
+ 20  ?2 v?
+ 42  ?il?
+ 38  ?Taller?
+ 43  ?1993?
+ 44  ?19930000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 47  ?84-8400-172-5?
+ 70  ?Col.-ELJ?
+ 79  ?Apreciación musical?
+ 79  ?Música^xHistoria y crítica?
+ 79  ?Música^xRepública Dominicana?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?123?
+..mfn=   124 
+  7  ?CC-ELJ?
+  3  ?^a759.97293^bP645b?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000028?
+101  ?^n007428^l2?
+  9  ?Monografías?
+ 18  ?Pinacoteca Banco Central de la República Dominicana?
+ 20  ?207 p?
+ 42  ?il?
+ 38  ?Banco Central de la República Dominicana?
+ 43  ?1999?
+ 44  ?19990000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 70  ?CC-ELJ?
+ 79  ?Pinturas dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?124?
+..mfn=   125 
+  7  ?CC-ELJ?
+  3  ?^a759.97293^bG377pin?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000029?
+  9  ?Monografías?
+ 16  ?Gerón^bCándido^r1950-?
+ 18  ?Pintura dominicana : un cuarto de siglo (1970-1996) = Dominican painting (1970-1996)?
+ 20  ?188 p?
+ 42  ?il?
+ 38  ?Imp. Editora de Colores?
+ 43  ?1998?
+ 44  ?19980000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 79  ?Pinturas dominicanas?
+ 79  ?Pintura dominicana^xHistoria?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+  2  ?125?
+..mfn=   126 
+  7  ?CC-ELJ?
+  3  ?^a759.97293^bG377o?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000001^m1?
+101  ?^n000002^m2?
+101  ?^n000003^m2^l2?
+101  ?^n000004^m2^l3?
+101  ?^n000005^m2^l4?
+101  ?^n000006^m3?
+101  ?^n000007^m3^l2?
+101  ?^n000008^m3^l3?
+101  ?^n000009^m4?
+101  ?^n000010^m4^l2?
+101  ?^n000011^m4^l3?
+101  ?^n000012^m4^l4?
+  9  ?Monografías?
+ 16  ?Gerón^bCándido^r1950-?
+ 18  ?Obras maestras de la pintura dominicana, 1844-1993 = Masterpieces of Dominican painting, 1844-1993?
+ 20  ?4 v?
+ 42  ?il?
+ 38  ?Editora Corripio?
+ 43  ?1994?
+ 44  ?19940000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 79  ?Pintura dominicana^xHistoria?
+ 79  ?Pinturas dominicanas?
+ 79  ?Pintores dominicanos?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+  2  ?126?
+..mfn=   127 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bB585T?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000019?
+101  ?^n000020^l2?
+101  ?^n000021^l3?
+101  ?^n007332^l4?
+  9  ?Monografías?
+ 16  ?Tolentino^bMarianne de?
+ 18  ?Bidó : pintor del Caribe?
+ 20  ?164 p?
+ 42  ?il?
+ 38  ?Casa de América?
+ 43  ?1995?
+ 44  ?19950000?
+ 40  ?ES?
+ 47  ?84-6053755-2?
+ 70  ?Col.-ELJ?
+ 70  ?CC-ELJ?
+ 36  ?Bidó, pintro del Caribe  15?
+ 36  ?Curriculum  75?
+ 36  ?Catálogo  81?
+ 36  ?Indice fotográfico  143?
+ 79  ?Bidó, Cándido, 1936^x?
+ 79  ?Pintores dominicanos?
+ 79  ?Pinturas dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+ 39  ?Madrices?
+  2  ?127?
+..mfn=   128 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bB585To?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000022?
+101  ?^n000023^l2?
+101  ?^n000024^l3?
+101  ?^n007315^l4?
+101  ?^n007335^l5?
+101  ?^n007353^l6?
+  9  ?Monografías?
+ 16  ?Tolentino^bMarianne de?
+ 18  ?Cándido Bidó : pintor de su tierra?
+ 20  ?93 p?
+ 42  ?il?
+ 68  ?Edición bilingue?
+ 68  ?Incluye fotografía de premiaciones, viajes, exposiciones, familiares, colecciones del pintor referido?
+ 38  ?Imp. Quiñones?
+ 43  ?1990?
+ 44  ?19900000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 70  ?CC-ELJ?
+ 79  ?Bidó, Cándido, 1936^x?
+ 79  ?Pintores dominicanos?
+ 79  ?Pinturas dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+  2  ?128?
+..mfn=   129 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bB585Tol?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000025?
+101  ?^n007316^l2?
+101  ?^n007336^l3?
+101  ?^n007354^l4?
+  9  ?Monografías?
+ 16  ?Tolentino^bMarianne de?
+ 18  ?Cándido Bidó : pintor de su tierra?
+ 20  ?160 p?
+ 42  ?il?
+ 38  ?Imp. Quiñones?
+ 43  ?1989?
+ 44  ?19890000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 70  ?CC-ELJ?
+ 79  ?Bidó, Cándido, 1936^x?
+ 79  ?Pintores dominicanos?
+ 79  ?Pinturas dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+  2  ?129?
+..mfn=   130 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bC723j?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000027?
+101  ?^n002305^l2?
+101  ?^n003979^l3?
+101  ?^n003980^l4?
+  9  ?Monografías?
+ 18  ?Jaime Colson : memorias de un pintor trashumante; París 1924/Santo Domingo 1968?
+ 20  ?162 p?
+ 42  ?il?
+ 38  ?Fundación Colson?
+ 43  ?1978?
+ 44  ?19780000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 70  ?Col.-FL?
+ 79  ?Colson, Jaime, 1901-1975?
+ 79  ?Pintores dominicanos?
+ 79  ?Pinturas dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?130?
+..mfn=   131 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bC723p?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000026?
+  9  ?Monografías?
+ 16  ?Colson^bJaime?
+ 18  ?Pinturas = Peintures = Paintings?
+ 20  ?110 p?
+ 42  ?il?
+ 38  ?Palette Publications?
+ 43  ?1996?
+ 44  ?19960000?
+ 39  ?Coral Gables, Fl?
+ 40  ?US?
+ 47  ?0-9650650-2-2?
+ 70  ?Col.-ELJ?
+ 36  ?El neohumanismo de Jaime Colson  11?
+ 36  ?Jaime Colson : su vida y su obra  21?
+ 36  ?Notas biográficas  44?
+ 36  ?El artista en su estudio  50?
+ 36  ?Ilustraciones  51?
+ 79  ?Colson, Jaime, 1901-1975?
+ 79  ?Pintores dominicanos?
+ 79  ?Pinturas dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+ 64  ?Francés?
+  2  ?131?
+..mfn=   132 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bN973T?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000030?
+101  ?^n000031^l2?
+101  ?^n004838^l3?
+  9  ?Monografías?
+ 16  ?Tolentino^bMarianne de?
+ 18  ?Elsa Nuñez : de los mundos interiores a los paisajes sin límites?
+ 20  ?215 p?
+ 42  ?il?
+ 38  ?Amigo del Hogar?
+ 43  ?1988?
+ 44  ?19880000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 70  ?Col.-FL?
+ 79  ?Nuñez, Elsa, 1943^x?
+ 79  ?Pintores dominicanos?
+ 79  ?Pinturas dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?132?
+..mfn=   133 
+  7  ?CC-ELJ?
+  3  ?^a750.92^b096C?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000018?
+101  ?^n003978^l2?
+  9  ?Monografías?
+ 16  ?Castillo^bEfraim^r1940-?
+ 18  ?Oviedo 25 años : trascendencia visual de una historia = Oviedo 25 years : The visual transcendency of a history?
+ 20  ?138 p?
+ 42  ?il?
+ 38  ?Amigo del Hogar?
+ 43  ?1988?
+ 44  ?19880000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 70  ?Col.-FL?
+ 79  ?Oviedo, Ramón, 1927^x?
+ 79  ?Pintores dominicanos?
+ 79  ?Pinturas dominicanas?
+ 87  ?Soto^bArnulfo^rprol?
+ 94  ?Prólogo de Arnulfo Soto?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+  2  ?133?
+..mfn=   134 
+  7  ?CC-ELJ?
+  3  ?^a750.92^b096T?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000016?
+101  ?^n000017^l2?
+101  ?^n007344^l3?
+101  ?^n007350^l4?
+  9  ?Monografías?
+ 16  ?Tolentino^bMarianne de?
+ 18  ?Oviedo : un pintor ante la historia?
+ 20  ?200 p?
+ 42  ?il?
+ 38  ?Amigo del Hogar?
+ 43  ?1999?
+ 44  ?19990000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 70  ?CC-ELJ?
+ 36  ?La pintura de historia  12?
+ 36  ?Oviedo, un pintor ante la historia  26?
+ 36  ?Ramón Oviedo cuenta su historia  48?
+ 36  ?Síntesis de los textos  61?
+ 36  ?Todo Oviedo  86?
+ 36  ?Cronología del siglo XX  196?
+ 79  ?Oviedo, Ramón, 1927^x?
+ 79  ?Pintores dominicanos?
+ 79  ?Pinturas dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?134?
+..mfn=   135 
+  7  ?CC-ELJ?
+  3  ?^a704.03^bP933c?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000101?
+101  ?^n000102^l2?
+101  ?^n007420^l3?
+  9  ?Monografías?
+ 18  ?Presencia de la cultura precolombina en el arte caribeño contemporáneo?
+ 20  ?78 p?
+ 42  ?il?
+ 68  ?Coauspicio de L. León Jimenes?
+ 38  ?Banco Central de la República Dominicana?
+ 43  ?2000?
+ 44  ?20000000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 47  ?84-89953-26-0?
+ 70  ?Col.-ELJ?
+ 70  ?CC-ELJ?
+ 36  ?Mario Consens : arte y estados de alteración de conciencia : una visión antropológica  15?
+ 36  ?Manuel García Arévalo : el indigenismo y las artes plásticas dominicanas  17?
+ 36  ?Laura Gil Fiallo : Eros, Thanathos y Tainismo en el arte dominicano  27?
+ 36  ?Abelardo Jiménez Lambertus : el chamán y los cemíes : arte vivo  29?
+ 36  ?Fernando Morbán Laucer : la representación faunística precolombina y su influencia en la plástica contemporánea  35?
+ 36  ?Harold Olsen Bogaert y Fernando Morbán : siguiendo las huellas de los arauacos  39?
+ 36  ?Luis Alejandro Peguero Guzmán : la evolución del arte contemporáneo dominicano : una visión antropológica  53?
+ 36  ?Abil Peralta Agüero : lo erótico como expresión en el arte taíno  59?
+ 36  ?Sebastián Robiou Lamarche : la cerámica indigenista del artesano Daniel Silva  61?
+ 36  ?Abil Peralta Agüero : Exhibición de pinturas y esculturas : presencia de la cultura precolombina en el arte caribeño contemporáneo  69?
+ 36  ?Apéndice 1: datos biográficos artistas participantes  73?
+ 36  ?Notas biográficas de los autores  77?
+ 79  ?Arte y antropología?
+ 79  ?Culturas indígenas^xInfuencia?
+ 79  ?Arte caribeño?
+ 79  ?Arte precolombino^xInfluencia?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?135?
+..mfn=   136 
+  7  ?CC-ELJ?
+  3  ?^a709.0349^bL869a?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000103?
+  9  ?Monografías?
+ 16  ?Lorenz^bOtto?
+ 18  ?Arte nuevo?
+ 20  ?128 p?
+ 42  ?il?
+ 38  ?Editors?
+ 43  ?1992?
+ 44  ?19920000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-459-0159-1?
+ 70  ?Col.-ELJ?
+ 79  ?Art Nouveau?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?136?
+..mfn=   137 
+  7  ?CC-ELJ?
+  3  ?^a069.097293^bG216m^c1982?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000104?
+101  ?^n004826^l2?
+  9  ?Monografías?
+ 16  ?García Arévalo^bManuel Antonio?
+ 18  ?Museo Arqueógico Regional Altos de Chavón?
+ 20  ?127 p?
+ 38  ?Editora Corripio?
+ 43  ?1982?
+ 44  ?19820000?
+ 39  ?La Romana?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 70  ?Col.-FL?
+ 79  ?Museo Arqueológico Regional Altos de Chavón?
+ 79  ?Museos arqueológicos^xRepública Dominicana?
+ 87  ?Alvarado^bLeonardo^ril?
+ 94  ?Texto: Manuel Ant. García Arévalo; Ilustraciones: Leonardo Alvarado?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+  2  ?137?
+..mfn=   138 
+  7  ?CC-ELJ?
+  3  ?^a972.93^bA772a?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000105?
+101  ?^n000106^l2?
+  9  ?Monografías?
+ 18  ?Arqueología y antropología física en la Catedral de Santo Domingo?
+ 20  ?311 p?
+ 42  ?il?
+ 38  ?Amigo del Hogar?
+ 43  ?1998?
+ 44  ?19980000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 79  ?Arqueología cristiana^xRepública Dominicana?
+ 79  ?Excavaciones arqueológicas^xRepública Dominicana?
+ 79  ?Catedral Santa María de la Encarnación, Santo Domingo?
+ 87  ?Olsen Bogaert^bHarold^red?
+ 87  ?Pérez Montás^bEugenio^red?
+ 87  ?Prieto Vicioso^bEsteban^red?
+ 87  ?Castro^bHeriberto de^rprol?
+ 94  ?[Editores] Harold Olsen Bogaert, Eugenio Pérez Montás, Esteban Prieto Vicioso; prólogo Heriberto de Castro?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?138?
+..mfn=   139 
+  7  ?CC-ELJ?
+  3  ?^a928.61^bC764h?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000107?
+101  ?^n000108^l2?
+101  ?^n000109^l3?
+101  ?^n005787^l4?
+  9  ?Monografías?
+ 18  ?Hilma Contreras : una vida en imágenes, 1913-1993?
+ 20  ?35 p?
+ 42  ?il?
+ 68  ?Ejemplar 024,025 y 038 pertenecientes a la edición especial firmada por la autora y numerada, que corresponde a la primera edición de la obra?
+ 38  ?Biblioteca Nacional?
+ 43  ?1993?
+ 44  ?19930000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 79  ?Contreras, Hilma, 1913^x?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?139?
+..mfn=   140 
+  7  ?CC-ELJ?
+  3  ?^a780.92^bA345o?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000110?
+  9  ?Monografías?
+ 18  ?Album de oro. Industria Lavador. Recuento de canciones románticas dominicanas, 1941-1991?
+ 20  ?112 p?
+ 42  ?il?
+ 68  ?De las canciones que figuran en este album de oro, Industria Lavador editó un cassette y un compact disc?
+ 68  ?Incluye partitura de cada canción?
+ 38  ?Editora Corripio?
+ 43  ?1991?
+ 44  ?19910000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 79  ?Canciones dominicanas?
+ 79  ?Compositores dominicanos?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?140?
+..mfn=   141 
+  7  ?CC-ELJ?
+  3  ?^a972.93^bA772c?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000111?
+101  ?^n007333^l2?
+  9  ?Monografías?
+ 18  ?Arqueología Colonial de Santo Domingo?
+ 20  ?588 p?
+ 22  ?Fundación Ortega Alvárez^v4?
+ 42  ?il?
+ 38  ?Taller?
+ 43  ?1982?
+ 44  ?19820000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 70  ?CC-ELJ?
+ 79  ?Arqueología^xRepública Dominicana?
+ 79  ?Excavaciones arqueólogícas^xRepública Dominicana?
+ 87  ?Ortega Alvarez^bElpidio José?
+ 94  ?Elpidio Ortega...[et al.]?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?141?
+..mfn=   142 
+  7  ?CC-ELJ?
+  3  ?^a391^bM671t?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000112?
+  9  ?Monografías?
+ 16  ?Miralbés de Polanco^bRosario?
+ 16  ?Mayen^bGuisela?
+ 18  ?Trajes de San Juan Sacatepéquez y San Raymundo : catálogo de piezas, seleccionadas de la colección del Museo del Traje Indigena?
+ 20  ?112 p?
+ 22  ?Tejidos de Guatemala^v1?
+ 42  ?il?
+ 38  ?Museo Ixchel del Traje Indígena?
+ 43  ?1991?
+ 44  ?19910000?
+ 39  ?Guatemala?
+ 70  ?Col.-ELJ?
+ 79  ?Museo Ixchel del Traje Indígena (Guatemala)?
+ 79  ?Prendas de vestir^xExposiciones?
+ 87  ?Mayen^bGuisela?
+ 94  ?Rosario Miralbés de Polanco y Guisela Mayen?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?142?
+..mfn=   143 
+  7  ?CC-ELJ?
+  3  ?^a761.2^bX6p?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000113?
+  9  ?Monografías?
+ 18  ?La xilografía en Puerto Rico, 1950-1986 : Exposición organizada por el Museo de la Universidad de Puerto Rico recinto de Rio Piedras?
+ 20  ?90 p?
+ 42  ?il?
+ 68  ?Exposición en la Galeria Nacional de Arte Moderno Santo Domingo, 29 de octubre al 29 de noviembre de 1987?
+ 38  ?Universidad de Puerto Rico?
+ 43  ?1987?
+ 44  ?19870000?
+ 39  ?Rio Piedras?
+ 40  ?PR?
+ 70  ?Col.-ELJ?
+ 79  ?Grabado en Madera^xPuerto Rico^wExposiciones?
+ 79  ?Grabadores puertorriqueños^xExposiciones?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?143?
+..mfn=   144 
+  7  ?CC-ELJ?
+  3  ?^a700.97293^bC744a?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000114?
+101  ?^n004844^l2?
+  9  ?Monografías?
+ 18  ?Concurso de Arte Eduardo León Jimenes : 25 años de historia?
+ 20  ?248 p?
+ 42  ?il?
+ 38  ?Imp. Serigraf?
+ 43  ?1993?
+ 44  ?19930000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 70  ?Col.-FL?
+ 79  ?Escultura dominicana^xConcursos?
+ 79  ?Pintura dominicana^xConcursos?
+ 79  ?Dibujo^xConcursos?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?144?
+..mfn=   145 
+  7  ?CC-ELJ?
+  3  ?^a700.8^bM953a?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000115?
+101  ?^n000116^l2?
+101  ?^n004834^l3?
+  9  ?Monografías?
+ 18  ?Mujer y arte dominicano hoy : homenaje a Celeste Woss y Gil?
+ 20  ?146 p?
+ 42  ?il?
+ 68  ?Publicación coauspiciada por L. León Jimenes?
+ 38  ?Impr. Amigo del Hogar?
+ 43  ?1995?
+ 44  ?19950000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 36  ?La mujer en la historia y en el arte dominicano  9?
+ 36  ?Celeste Woss y Gil : vida y obra  17?
+ 36  ?1949 : un año de auge de la pintura femenina  25?
+ 36  ?Mujer, arte y marginalización  37?
+ 36  ?El activismo de la mujer en el arte dominicano  49?
+ 36  ?La mujer y la arquitectura  57?
+ 36  ?El arte de Delia Weber  69?
+ 36  ?Mujer y arte joven  83?
+ 36  ?La mujer administradora cultural. Una experiencia  97?
+ 36  ?La mujer de las artes plásticas en la tercera dimensión  105?
+ 36  ?Aporte de la mujer a la dinamización y animación de las artes visuales  119?
+ 36  ?En casa de Bastidas : creación femenina dominicana  127?
+ 36  ?Catálogo de obras de la exposición Mujer y Arte Dominicano Hoy  131?
+ 36  ?Conclusiones y recomendaciones del Seminario Mujer y Arte Dominicano Hoy  133?
+ 36  ?Registro de las artistas visuales de la República Dominicana  135?
+ 79  ?Mujeres en el arte^xRepública Dominicana?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?145?
+..mfn=   146 
+  7  ?CC-ELJ?
+  3  ?^a711.4^bE82c?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000117?
+101  ?^n000118^l2?
+  9  ?Monografías?
+ 18  ?Estudio de la ciudad colonial de Santo Domingo 1999 : diagnóstico de la situación actual; propuestas de intervención, evaluación y priorizacion de inversiones?
+ 20  ?94 p?
+ 42  ?il?
+ 38  ?Patronato de la Ciudad Colonial de Santo Domingo?
+ 43  ?2000?
+ 44  ?20000000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 36  ?La gestión de los centros históricos  14?
+ 36  ?Informe de la mesa de trabajo sobre ciudades y aldeas históricas  24?
+ 36  ?Acuerdo para poner en marcha las recomendaciones contenidas en los informes de consultoría patrocinadospor el BID para la rehabilitación del Centro Histórico de la Ciudad de Santo Domingo  26?
+ 36  ?Por un turismo cultural  28?
+ 36  ?Estudio de la ciudad colonial de Santo Domingo  29?
+ 36  ?Antecedentes  33?
+ 36  ?Diagnóstico de la situación actual  34?
+ 36  ?Restricciones en el marco regulador y gestión urbana  34?
+ 36  ?Datos previos  34?
+ 36  ?Marco físico: situación de la edificación  34?
+ 36  ?Marco socioeconómico : población residente y transeunte  35?
+ 36  ?Actividad económica en la ciudad colonial  37?
+ 36  ?Uso de la ciudad colonial  37?
+ 36  ?Revisión del plan regulador de la ciudad : análisis del plan regulador de la ciudad colonial de Santo Domingo de 1987  40?
+ 36  ?Adecuación del plan a los objetivos de revitalización  40?
+ 36  ?Adecuación del marco legal existente a los objetivos de revitalización : modificación e incorporaciones necesarias  42?
+ 36  ?Restricciones existentes al desarrollo económico y residencial originadas en deficiencias de las infraestructuras y los servicios urbanos : redes básicas, transporte y tráfico, calidad ambiental  44?
+ 36  ?Redes básicas  44?
+ 36  ?Redes de saneamiento  48?
+ 36  ?El transito en la ciudad colonial  49?
+ 36  ?Plan cuna de América  51?
+ 36  ?Propuestas de intervención : evaluación y priorización de inversiones  64?
+ 36  ?Marco legal necesario para la implantación del plan de revitalización  64?
+ 36  ?Plan regulador  64?
+ 36  ?Legislación complementaria  72?
+ 36  ?Definición de las propuestas de intervención : áreas de oportunidad, proyectos piloto  73?
+ 36  ?Vivienda social  73?
+ 36  ?Vivienda de alto standing  74?
+ 36  ?Proyecto de espacios público y centralidad urbana  74?
+ 36  ?Sector turismo y ocio  75?
+ 36  ?Cultura  76?
+ 36  ?Transporte y estacionamientos  76?
+ 36  ?Fomento de la pequeña empresa  77?
+ 36  ?Actuaciones en infraestructuras  78?
+ 36  ?Mecanismo de gestión para la implantación del plan de revitalización de la ciudad colonial  85?
+ 36  ?Información gráfica  90?
+ 36  ?Indice de fotografías  93?
+ 79  ?Urbanismo^xRepública Dominicana^wSanto Domingo?
+ 79  ?Santo Domingo^xMejoramiento Urbano?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?146?
+..mfn=   147 
+  7  ?CC-ELJ?
+  3  ?^a725.94^bP438b?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000119?
+101  ?^n004823^l2?
+101  ?^n006968^l3?
+  9  ?Monografías?
+ 16  ?Pérez Montás^bEugenio?
+ 18  ?Biografía de un monumento = Biography of a monument?
+ 20  ?127 p?
+ 42  ?il?
+ 38  ?Voluntanado de las Casas Reales?
+ 43  ?1979?
+ 44  ?19790000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 47  ?84-499-3180-0?
+ 70  ?Col.-ELJ?
+ 70  ?Col.-FL?
+ 70  ?Col.-MVM?
+ 79  ?Monumentos históricos^xSanto Domingo?
+ 79  ?Museo de las Casas Reales (Santo Domingo, República Dominicana)?
+ 87  ?Moya Pons^bFrank^r1944-, prol?
+ 94  ?Prólogo de Frank Moya Pons?
+ 97  ?20021212?
+ 64  ?Español?
+ 64  ?Inglés?
+  2  ?147?
+..mfn=   148 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bG791AL?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000120?
+  9  ?Monografías?
+ 18  ?El Greco; identidad y transformación : Creta, Italia, España?
+ 20  ?427 p?
+ 68  ?Exposicion realizada en : Museo Thyssen-Bornemisza (1999 : Madrid). Palacio de Exposiciones (1999 : Roma). Museo Alexandros Soutzos (2000 : Atenas)?
+ 38  ?Museo Thyssen Bornemisza?
+ 43  ?1999?
+ 44  ?19990000?
+ 40  ?SP?
+ 47  ?88-8118-473-7?
+ 70  ?Col.-ELJ?
+ 36  ?La construcción de un pintor. Un siglo de búsqueda e interpretaciones sobre El Greco  25?
+ 36  ?El Greco revetido de ideologías naconalistas  57?
+ 36  ?La pintura en Creta durante los siglos XV y XVI. El largo camino hacia Doménikos Theotokópoulos y su producción temprana  85?
+ 36  ?El Greco en Italia y el arte italiano  97?
+ 36  ?El Greco en España  119?
+ 36  ?El pensamiento artístico del Greco : de los ojos del alma a los ojos de la razón  153?
+ 36  ?La ascención de la mente hacia Dios : la iconografía religiosa del Greco y la reforma espiritual en España  175?
+ 36  ?Catáligo  205?
+ 36  ?Exposiciones   429?
+ 36  ?Créditos fotográficos  455?
+ 79  ?Greco, El (Doménikos Theotokopoulos), 1541-1614?
+ 79  ?Pintores españoles?
+ 79  ?Pinturas españolas?
+ 87  ?Alvarez Lopera^bJose^red?
+ 94  ?[editado por] josé Alvarez Lopera?
+ 97  ?20021212?
+ 64  ?Español?
+ 39  ?Madrices?
+  2  ?148?
+..mfn=   149 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bG791A?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000121?
+  9  ?Monografías?
+ 16  ?Alcolea^bSantiago?
+ 18  ?El Greco?
+ 20  ?127 p?
+ 42  ?il?
+ 38  ?Ediciones Polígrafa?
+ 43  ?1990?
+ 44  ?19900000?
+ 39  ?Barcelona?
+ 40  ?Es?
+ 47  ?84-343-0627-1?
+ 70  ?Col.-ELJ?
+ 79  ?Greco, El (Domenikos Theotokopoulos), 1541-1614?
+ 79  ?Pintores españoles?
+ 79  ?Pinturas españoles?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?149?
+..mfn=   150 
+  7  ?CC-ELJ?
+  4  ?M?
+  6  ?m?
+101  ?^n000122?
+ 70  ?Col.-ELJ?
+ 79  ?Picasso, Pablo, 1881-1973?
+ 79  ?Pintores Españoles?
+ 79  ?Pinturas españolas?
+ 97  ?20021212?
+ 64  ?Español?
+  9  ?Monografías?
+  3  ?^a750.92^bP586W?
+104  ?Mediateca?
+ 16  ?Warncke^bCarsten-Peter?
+ 38  ?Taschen?
+ 39  ?Koln?
+ 20  ?240 p?
+ 43  ?1998?
+ 44  ?19980000?
+ 42  ?il?
+ 73  ?Pablo Picasso, 1881-1973?
+ 47  ?3-8228-7370-5?
+995  ?20050713^t04:26:44 p.m.^bScristina?
+  2  ?150?
+..mfn=   151 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bP586Wa?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000123?
+  9  ?Monografías?
+ 16  ?Warncke^bCarsten-Peter?
+ 18  ?Pablo Picasso, 1881-1973?
+ 20  ?740 p?
+ 42  ?il?
+ 38  ?Taschen?
+ 43  ?1997?
+ 44  ?19970000?
+ 39  ?koln?
+ 47  ?3-8228-8012-4?
+ 70  ?Col.-ELJ?
+ 79  ?Picasso, Pablo, 1881-1973?
+ 79  ?Pintores españoles?
+ 79  ?Pinturas españoles?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?151?
+..mfn=   152 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bD143D?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000124?
+  9  ?Monografías?
+ 16  ?Descharnes^bRobert?
+ 18  ?Salvador Dalí, 1904-1989?
+ 20  ?780 p?
+ 42  ?il?
+ 38  ?Taschen?
+ 43  ?1997?
+ 44  ?19970000?
+ 39  ?Koln?
+ 47  ?3-8228-8013-2?
+ 70  ?Col.-ELJ?
+ 36  ?Todas las pinturas, todos los panes  7?
+ 36  ?Jugando a ser un genio se llega a serlo 1910-1928  11?
+ 36  ?Prueba de amor 1929-1935  139?
+ 36  ?La conquista de lo irracional 1936-1939  255?
+ 36  ?El triunfo de Avida Dollars 1939-1946  319?
+ 36  ?El manifiesto místico 1946-1962  407?
+ 36  ?Las recetas de inmortalidad 1962-1989  537?
+ 36  ?Biografía  729?
+ 36  ?Indice de las obras reproducidas  741?
+ 79  ?Dalí, Salvador, 1904-1989?
+ 79  ?Pintores españoles?
+ 79  ?Pinturas españolas?
+ 87  ?Neret^bGilles?
+ 94  ?Robert Descharnes, Gilles Neret?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?152?
+..mfn=   153 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bR788e?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000125?
+  9  ?Monografías?
+ 17  ?Exposicion Homenaje a Juan A. Rosado (1986 : San Juan, Puerto Rico)?
+ 18  ?Exposición Homenaje a Juan A. Rosado?
+ 20  ?55 p?
+ 42  ?il?
+ 68  ?Exposicion en la Sala de Exhibiciones del Convento de los Dominicos?
+ 38  ?Instituto de Cultura Puertorriqueña?
+ 43  ?1986?
+ 44  ?19860000?
+ 39  ?San Juan?
+ 40  ?PR?
+ 70  ?Col.-ELJ?
+ 79  ?Rosado, Juan Antonio, 1891-1962^xExposiciones?
+ 79  ?Pintores puertorriqueños^xExposiciones?
+ 79  ?Pinturas puertorriqueñas^xExposiciones?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?153?
+..mfn=   154 
+  7  ?CC-ELJ?
+  3  ?^a730.92^bB528W?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000126?
+  9  ?Monografías?
+ 16  ?Wittkower^bRudolf^r1901-1971?
+ 18  ?Gian Lorenzo Bernini : el escultor del barroco romano?
+ 20  ?341 p?
+ 22  ?Alianza Forma^n102?
+ 42  ?il?
+ 68  ?Alianza Editorial?
+ 43  ?1990?
+ 44  ?19900000?
+ 40  ?SP?
+ 47  ?84-206-7102-9?
+ 70  ?Col.-ELJ?
+ 79  ?Bernini, Giovanni Lorenzo, 1598-1680?
+ 79  ?Escultores italianos?
+ 79  ?Escultura italiana?
+ 97  ?20021212?
+ 64  ?Español?
+ 39  ?Madrices?
+  2  ?154?
+..mfn=   155 
+  7  ?CC-ELJ?
+  3  ?^a781.643^bS684b?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000127?
+  9  ?Monografías?
+ 18  ?Solamente blues : la música y sus músicos?
+ 20  ?432 p?
+ 42  ?il?
+ 38  ?Odin Ediciones?
+ 43  ?1999?
+ 44  ?19990000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-493-0333-8?
+ 70  ?Col.-ELJ?
+ 79  ?Blues (Música)?
+ 79  ?Música afroamericana?
+ 87  ?Cohn^bLawrence^red?
+ 94  ?[editado por] Lawrence Cohn?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?155?
+..mfn=   156 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bV434m?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000128?
+  9  ?Monografías?
+ 16  ?Marías^bFernandez?
+ 18  ?Velázquez : pintor y criado del rey?
+ 20  ?247 p?
+ 42  ?il?
+ 38  ?Nerea?
+ 43  ?1999?
+ 44  ?19990000?
+ 39  ?Hondarribia?
+ 40  ?ES?
+ 47  ?84-89569-33-9?
+ 70  ?Col.-ELJ?
+ 79  ?Velázquez, Diego Rodríguez de Silva y, 1599-1660?
+ 79  ?Pintores españoles?
+ 79  ?Pinturas españolas?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?156?
+..mfn=   157 
+  7  ?CC-ELJ?
+ 70  ?Col.-ELJ?
+ 97  ?20021212?
+  4  ?M?
+  6  ?m?
+  9  ?Monografías rr?
+  3  ?^a750.92^bR621d?
+104  ?Mediateca?
+ 18  ?Diego Rivera : arte y revolución?
+ 38  ?Conaculta?
+ 39  ?México?
+ 40  ?MX?
+ 20  ?449 p?
+ 43  ?1999?
+ 44  ?19990000?
+ 47  ?970-18-1371-5?
+ 64  ?Español?
+ 79  ?Rivera, Diego, 1886^x1957?
+ 79  ?Pintores mexicanos?
+ 79  ?Pinturas Mexicanas?
+101  ?^n000129?
+980  ?^d20060713 172155 4 193?
+  2  ?157?
+..mfn=   158 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bC822p?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000130?
+  9  ?Monografías?
+ 18  ?Pedro Coronel?
+ 20  ?191 p?
+ 42  ?il?
+ 38  ?Grupo Financiero Prime Internacional?
+ 43  ?1993?
+ 44  ?19930000?
+ 39  ?México?
+ 40  ?MX?
+ 70  ?Col.-ELJ?
+ 79  ?Coronel, Pedro, 1921-1985?
+ 79  ?Pintores mexicanos?
+ 79  ?Pinturas mexicanas?
+ 79  ?Escultura Mexicana?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?158?
+..mfn=   159 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bM244M?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000131?
+  9  ?Monografías?
+ 16  ?Montana^bGuido?
+ 18  ?Estuardo Maldonado : del símbolo al dimensionalismo?
+ 20  ?251 p?
+ 42  ?il?
+ 38  ?Ediciones Estuardo Maldonado?
+ 43  ?1989?
+ 44  ?19890000?
+ 39  ?Guayaquil?
+ 40  ?EC?
+ 70  ?Col.-ELJ?
+ 79  ?Maldonado, Estuardo, 1930^x?
+ 79  ?Pintores ecuatorianos?
+ 79  ?Pinturas ecuatorianas?
+ 87  ?Oña^bLenín?
+ 94  ?Guido Montana, Lenin Oña?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?159?
+..mfn=   160 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bR579j?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000132?
+101  ?^n000133^l2?
+  9  ?Monografías?
+ 18  ?José Rincón Mora?
+ 20  ?215 p?
+ 42  ?il?
+ 38  ?[s.n.]?
+ 43  ?1996?
+ 44  ?19960000?
+ 39  ?Munchen?
+ 40  ?DE?
+ 70  ?Col.-ELJ?
+ 79  ?Rincón Mora, José, 1939^x?
+ 79  ?Pintores dominicanos?
+ 79  ?Pinturas dominicanas?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?160?
+..mfn=   161 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bV434L?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000134?
+  9  ?Monografías?
+ 16  ?López Rey^bJosé?
+ 18  ?Velázquez : la obra completa?
+ 20  ?328 p?
+ 42  ?il?
+ 38  ?Taschen?
+ 43  ?1999?
+ 44  ?19990000?
+ 39  ?Koln?
+ 47  ?3-0228-6541-9?
+ 70  ?Col.-ELJ?
+ 79  ?Velázquez, Diego Rodríguez de Silva y, 1599-1660?
+ 79  ?Pintores españoles?
+ 79  ?Pinturas españolas?
+ 94  ?José López-Rey?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?161?
+..mfn=   162 
+  7  ?CC-ELJ?
+  3  ?^a709.5^bF158a?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000135?
+  9  ?Monografías?
+ 16  ?Fahr-Becker^bGabriele?
+ 18  ?Arte asiático?
+ 20  ?739 p?
+ 42  ?il?
+ 38  ?Konemann?
+ 43  ?1999?
+ 44  ?19990000?
+ 39  ?Kolm?
+ 40  ?DU?
+ 47  ?3-8290-3279-x?
+ 70  ?Col.-ELJ?
+ 36  ?China  8?
+ 36  ?Bajo la protección de los dioses y los antepasados  10?
+ 36  ?Un imperio unificado bajo la protección del dragón  60?
+ 36  ?El dragón penetra en el campo de visión de Europa  180?
+ 36  ?El sudeste asiático continental  358?
+ 36  ?Los reinos de los sham  452?
+ 36  ?El tejido en el sudeste asiático  458?
+ 36  ?Japón  498?
+ 36  ?Corea  674?
+ 79  ?Arte asiático?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?162?
+..mfn=   163 
+  7  ?CC-ELJ?
+  3  ?^a709.6^bB251a?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000136?
+  9  ?Monografías?
+ 16  ?Bargna^bIvan?
+ 18  ?Arte africano?
+ 20  ?256 p?
+ 42  ?il?
+ 38  ?LIBSA?
+ 43  ?2000?
+ 44  ?20000000?
+ 40  ?ES?
+ 70  ?Col.-ELJ?
+ 36  ?La invención del arte africano  7?
+ 36  ?Cómo ver el arte africano  10?
+ 36  ?Tipologías del arte africano  13?
+ 36  ?Estar cerca y marcar la distancia : el campo de relaciones de las cosmologías africanas  15?
+ 36  ?El hábitat africano  21?
+ 36  ?El tejido del espacio  27?
+ 36  ?El lugar de las artes africanas  32?
+ 36  ?La obra de arte como articulación de una identidad diferencial  38?
+ 36  ?Palabras, cosas, inscripciones : decir lo invisible, ver lo indecible  44?
+ 36  ?Poder y límites del arte : el darse y retraerse de imágenes y discursos  131?
+ 36  ?Estéticas locales  136?
+ 36  ?Estética africana  140?
+ 36  ?Las corrientes de la tradición  149?
+ 36  ?La tradición como traición  151?
+ 36  ?Dinámica de la creación : entre individualidad y etnia  153?
+ 36  ?Espacios y tiempos del islám negro  159?
+ 36  ?Imágenes del islam  210?
+ 36  ?Piel blanca y máscaras negras : del espacio del descubrimiento a la construcción del territorio  215?
+ 36  ?Los lugares dinámicos de la relación  224?
+ 36  ?El fragor del combate y evitar el choque : estretegias del arte  226?
+ 36  ?Espacios y tiempos del cristianismo en Africa  233?
+ 36  ?El arte doméstico del cristianismo africano  237?
+ 36  ?Más allá del desencanto : aculturización y estrategias de nueva identidad  239?
+ 36  ?Localización de las obras reproducidas  255?
+ 79  ?Arte africano?
+ 94  ?Ivan Bargna?
+ 97  ?20021212?
+ 64  ?Español?
+ 39  ?Madrices?
+  2  ?163?
+..mfn=   164 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u^cv.1?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000137?
+  9  ?Monografías?
+ 16  ?Sureda^bJoan?
+ 18  ?Las primeras civilizaciones : prehistoria, Egipto, Próximo Oriente?
+ 20  ?401, 23p?
+ 22  ?Historia Universal del arte/dirigida por José Milicua^v1?
+ 42  ?il?
+ 38  ?Planeta?
+ 43  ?1994?
+ 44  ?19940000?
+ 39  ?Barcelona?
+ 40  ?SP?
+ 47  ?84-320-6681-8?
+ 70  ?Col.-ELJ?
+ 79  ?Arte paleolítico?
+ 79  ?Arte neolítico?
+ 79  ?Arte egipcio?
+ 79  ?Arte oriental?
+ 79  ?Arte^xHistoria?
+ 94  ?por Joan Sureda?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?164?
+..mfn=   165 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.2?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000138?
+  9  ?Monografías?
+ 16  ?Barral i Altet^bXavier?
+ 18  ?La antiguedad clásica : Grecia, Roma y el mundo mediterráneo?
+ 20  ?387, 25p?
+ 22  ?Historia universal del arte/dirigida por José Milicua^v2?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?9. ed.?
+ 43  ?1994?
+ 44  ?19940000?
+ 39  ?Barcelona?
+ 40  ?SP?
+ 47  ?84-320-6682-6?
+ 70  ?Col.-ELJ?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte griego?
+ 79  ?Arte romano?
+ 79  ?Arte helenístico?
+ 87  ?Cabello^bJosep^ril?
+ 94  ?por Xavier Barral i Altet; ilustración y documentación: Josep Cabello?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?165?
+..mfn=   166 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.3?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000139?
+  9  ?Monografías?
+ 16  ?Barral i Altet^bXavier?
+ 16  ?Cabello^bJosep^ril?
+ 18  ?La edad media : de Roma al prerrománico?
+ 20  ?p.250-392+23 p?
+ 22  ?Historia universal del arte/dirigida por José Milicua^v3?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?9. ed.?
+ 43  ?1994?
+ 44  ?19940000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-320-6683-4?
+ 70  ?Col.-ELJ?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte romano?
+ 87  ?Cabello^bJosep^ril?
+ 94  ?por Xavier Barral i Altet; ilustración y documentación: Josep Cabello?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?166?
+..mfn=   167 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.3?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000139?
+  9  ?Monografías?
+ 16  ?Sureda^bJoan?
+ 16  ?Cabello^bJosep^ril?
+ 18  ?La edad media : Bizancio Islam?
+ 20  ?p.1-244?
+ 22  ?Historia universal del arte^v3?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?9. ed.?
+ 43  ?1994?
+ 44  ?19940000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-320-6683-4?
+ 70  ?Col.-ELJ?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte bizantino?
+ 79  ?Arte islámico?
+ 87  ?Cabello^bJosep^ril?
+ 94  ?por Joan Sureda; ilustración y documentación: Josep Cabello?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?167?
+..mfn=   168 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.4?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000140?
+  9  ?Monografías?
+ 16  ?Sureda^bJoan?
+ 18  ?La edad media : romántico gótico?
+ 20  ?400, 16p?
+ 22  ?Historia universal del arte/dirigida por José Milicua^v4?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?11. ed.?
+ 43  ?1994?
+ 44  ?19940000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-320-6684-2?
+ 70  ?Col.-ELJ?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte románico?
+ 79  ?Arte gótico?
+ 94  ?por Joan Sureda?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?168?
+..mfn=   169 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.5?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000141?
+  9  ?Monografías?
+ 16  ?Milicua^bJosé?
+ 18  ?El renacimiento : la pintura flamenca (capitulo 1)?
+ 20  ?p.298-352?
+ 22  ?Historia universal del arte/dirigida por José Milicua^v5?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?8. ed.?
+ 43  ?1994?
+ 44  ?19940000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-320-6685-0?
+ 70  ?Col.-ELJ?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte renacentista?
+ 79  ?Pintura flamenca?
+ 87  ?Cabello^bJosep^ril?
+ 94  ?por José Milicua; ilustración y documentación: Josep Cabello?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?169?
+..mfn=   170 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.5?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000141?
+  9  ?Monografías?
+ 16  ?Sureda^bJoan?
+ 18  ?El renacimiento : el quattrocento italiano. La pintura flamenca (capítulo 2)?
+ 20  ?p.1-294,354-405?
+ 22  ?Historia universal del arte/dirigida por josé milicua^v5?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?8.ed?
+ 43  ?1994?
+ 44  ?19940000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-320-6685-0?
+ 70  ?Col.-ELJ?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte renacentista?
+ 79  ?Pintura flamenca?
+ 87  ?Cabello^bJosep^ril?
+ 94  ?por Joan Sureda; ilustración y documentación: Josep Cabello?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?170?
+..mfn=   171 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.6?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000142?
+  9  ?Monografías?
+ 16  ?Hernández Perera^bJesús?
+ 18  ?Renacimiento II y manierismo : el cinquecento italiano?
+ 20  ?p.1-218?
+ 22  ?Historia universal del arte / dirigida por José Milicua^v6?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?10. ed.?
+ 43  ?1995?
+ 44  ?19950000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-320-6686-9?
+ 70  ?Col.-ELJ?
+ 36  ?Los centros artísticos y el nuevo impulso de Roma  10?
+ 36  ?La arquitectura del clasicismo  12?
+ 36  ?La primera fractura de la arquitectura clasicista  34?
+ 36  ?La arquitectura del segundo Mnierismo : Florencia, Roma, Venecia  44?
+ 36  ?La escultura clasicista  76?
+ 36  ?Clasicismo y anticlasicismo en la escultura de Miguel Angel  86?
+ 36  ?La escultura manierista en Italia  100?
+ 36  ?La pintura italiana quinientista : los colosos del clasicismo  108?
+ 36  ?El clasicismo véneto : Giorgione y Tiziano  148?
+ 36  ?El primer Manierismo en Florencia, Roma y Parma  168?
+ 36  ?El manierismo maduro  194?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte renacentista?
+ 79  ?Manierismo (Arte)?
+ 87  ?Cabello^bJosep^ril?
+ 94  ?por Jesús Hernández Perera; ilustración y documentación: Josep Cabello?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?171?
+..mfn=   172 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.6?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000142?
+  9  ?Monografías?
+ 16  ?Alcolea Gil^bSantiago?
+ 18  ?Renacimiento II y manierismo : España y Portugal, Francia, Países Bajos e Inglaterra?
+ 20  ?p.220-317?
+ 22  ?Historia universal del arte/dirigida por José Milicua^v6?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?10. ed?
+ 43  ?1995?
+ 44  ?19950000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-320-6686-9?
+ 70  ?Col.-ELJ?
+ 36  ?La difusión de los valores renacentistas en España  220?
+ 36  ?La asimilación de la estética renacentista en España  266?
+ 36  ?La culminación del Renacimiento hispáno  290?
+ 36  ?La aportación francesa al Renacimiento europeo  318?
+ 36  ?El pleno Renacimiento francés  332?
+ 36  ?El Reancimiento en los países bajos  336?
+ 36  ?El Renacimiento en Inglaterra  344?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte renacentista^xEspaña?
+ 79  ?Arte renacentista^xPortugal?
+ 79  ?Arte renacentista^xFrancia?
+ 79  ?Arte renacentista^xHolanda?
+ 79  ?Arte renacentista^xInglaterra?
+ 79  ?Manierismo (Arte)?
+ 87  ?Cabello^bJosep^ril?
+ 94  ?por Santiago Alcolea Gil; ilustración y documentación: Josep Cabello?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?172?
+..mfn=   173 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.6?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000142?
+  9  ?Monografías?
+ 16  ?Sureda^bJoan?
+ 18  ?Renacimiento II y manierismo : Alemania y Países germánicos?
+ 20  ?p.350-381?
+ 22  ?Historia universal del arte/dirigida por José Milicua^v6?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?10. ed?
+ 43  ?1995?
+ 44  ?19950000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-320-6686-9?
+ 70  ?Col.-ELJ?
+ 36  ?La arquitectura y la escultura  350?
+ 36  ?Las artes del color y del grabado  354?
+ 36  ?En los umbrales del Barroco  382?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte renacentista^xAlemania?
+ 79  ?Manierismo (Arte)?
+ 87  ?Cabello^bJosep^ril?
+ 94  ?por Joan Sureda; ilustración y documentación: Josep Cabello?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?173?
+..mfn=   174 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.7?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000143?
+  9  ?Monografías?
+ 16  ?Morales y Marín^bJosé Luis?
+ 18  ?Barroco y rococó?
+ 20  ?403 p?
+ 22  ?Historia universal del arte/dirigida por José Milicua^v7?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?10.ed?
+ 43  ?1994?
+ 44  ?19940000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 70  ?Col.-ELJ?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte barroco?
+ 79  ?Arte rococó?
+ 87  ?Cabello^bJosep^ril?
+ 94  ?por José Luis Morales y Marín; ilustración y documentación: Josep Cabello?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?174?
+..mfn=   175 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.8?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000144?
+  9  ?Monografías?
+ 16  ?Bornay^bEriKa?
+ 18  ?El Siglo XIX?
+ 20  ?404p?
+ 22  ?Historia universal del arte/dirigida por José Milicua^v8?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?9.ed?
+ 43  ?1993?
+ 44  ?19930000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-320-6688-5?
+ 70  ?Col.-ELJ?
+ 79  ?Arte^xHistoria^wSiglo XIX?
+ 79  ?Arte neoclásico?
+ 79  ?Romanticismo en el Arte?
+ 79  ?Realismo en el arte?
+ 79  ?Impresionismo (Arte)?
+ 87  ?Cabello^bJosep^ril?
+ 94  ?por Erika Bornay; ilustración y documentación: Josep Cabello?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?175?
+..mfn=   176 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.9?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000145?
+  9  ?Monografías?
+ 16  ?Suárez^bAlicia?
+ 16  ?Vidal^bMerce?
+ 16  ?Cabello^bJosep^ril?
+ 18  ?El Siglo XX?
+ 20  ?400, 15p?
+ 22  ?Historia universal del arte/dirigida por José Milicua^v9?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?8. ed?
+ 43  ?1993?
+ 44  ?19930000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-320-6689-3?
+ 70  ?Col.-ELJ?
+ 79  ?Arte^xHistoria^wSiglo XX?
+ 87  ?Vidal^bMercé?
+ 87  ?Cabello^bJosep^ril?
+ 94  ?por Alicia Suárez y Mercé Vidal; ilustración y documentación: Josep Cabello?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?176?
+..mfn=   177 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.10?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000146?
+  9  ?Monografías?
+ 16  ?Huera^bCarmen?
+ 18  ?Africa, América y Asia : arte primitivo?
+ 20  ?p.1-112?
+ 22  ?Historia universal del arte/dirigida por José Milicua^v10?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?10. ed?
+ 43  ?1993?
+ 44  ?19930000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-320-6690-7?
+ 70  ?Col.-ELJ?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte primitivo?
+ 79  ?Arte africano?
+ 94  ?por Carmen Huera?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?177?
+..mfn=   178 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.10?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000146?
+  9  ?Monografías?
+ 16  ?Ocampo^bEstela?
+ 18  ?Africa, América y Asia : América precolombina?
+ 20  ?p.114-265?
+ 22  ?Historia universal del arte/dirigida por José Milicua^v10?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?10. ed?
+ 43  ?1993?
+ 44  ?19930000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-320-6690-7?
+ 70  ?Col.-ELJ?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte precolombino?
+ 79  ?Arte azteca?
+ 79  ?Arte maya?
+ 79  ?Arte incaico?
+ 94  ?Por Estela Ocampo?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?178?
+..mfn=   179 
+  7  ?CC-ELJ?
+  3  ?^a709^bH673u v.10?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000146?
+  9  ?Monografías?
+ 16  ?Monreal y Tejada^bLuis?
+ 18  ?Africa, América y Asia : Extremo Oriente?
+ 20  ?p.272-391+63p?
+ 22  ?Historia universal del arte/dirigida por José Milicua^v10?
+ 42  ?il?
+ 38  ?Planeta?
+ 41  ?10. ed?
+ 43  ?1993?
+ 44  ?19930000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-320-6690-7?
+ 70  ?Col.-ELJ?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte Oriental?
+ 94  ?por Luis Monreal y Tejada?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?179?
+..mfn=   180 
+  7  ?CC-ELJ?
+  4  ?M?
+  6  ?m?
+101  ?^n000147?
+ 70  ?Col.-ELJ?
+ 36  ?Informalismo y Expresionismo abstracto  26?
+ 36  ?Pop - Art  88?
+ 36  ?Nueva Abstracción y Minimal Art  144?
+ 36  ?Arte cinético  158?
+ 36  ?Arte de acción  174?
+ 36  ?Arte conceptual. Body Art. Land Art  192?
+ 36  ?Arte Povera  212?
+ 36  ?Nueva Figuración y otras formas de Realismo  226?
+ 36  ?Arquitectura  240?
+ 36  ?Neoexpresionismo alemán  256?
+ 36  ?Transvanguardia italiana  274?
+ 36  ?Arte en Norteamérica en los años ochenta  286?
+ 36  ?El arte en España durante la década de los ochenta  306?
+ 36  ?Nueva escultura británica  328?
+ 36  ?Arquitectura posmoderna  340?
+ 36  ?Diseño  364?
+ 36  ?Fotografía  382?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte pop?
+ 79  ?Arte conceptual?
+ 79  ?Arte cinético?
+ 87  ?Llarás^bMa. Rosa^ril?
+ 87  ?Busquets^bTena^ril?
+ 87  ?Fradera^bMarta^ril?
+ 94  ?por Lourdes Cirlot; ilustración y documentación: Ma. Rosa Llarás, Tena Busquets, Marta Fradera?
+ 97  ?20021212?
+  9  ?Monografías?
+  3  ?^a709^bH673u v.11?
+104  ?Mediateca?
+ 16  ?Cirlot^bLourdes?
+ 18  ?Ultimas tendencias?
+ 38  ?Planeta?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 41  ?4. ed?
+ 20  ?400 p?
+ 43  ?1995?
+ 44  ?19950000?
+ 22  ?Historia universal del arte / dirigida por José Milicua|?
+ 22  ?11?
+ 42  ?il?
+ 47  ?84-08-00293-7?
+995  ?20030514^t09:44:53 a.m.^bGPM?
+ 64  ?Español?
+  2  ?180?
+..mfn=   181 
+  7  ?CC-ELJ?
+  4  ?M?
+  6  ?m?
+101  ?^n000148?
+ 70  ?Col.-ELJ?
+ 36  ?El soporte de madera  8?
+ 36  ?Origen de la madera  12?
+ 36  ?Estructura de la madera  13?
+ 36  ?Direcciones de corte de la madera  18?
+ 36  ?Características del soporte  19?
+ 36  ?Elasticidad y estabilidad estructural  23?
+ 36  ?Comportamiento frente al calor  23?
+ 36  ?Parásitos de la madera  26?
+ 36  ?Lucha contra los parásitos vegetales y animales de la madera  33?
+ 36  ?Consolidación de la madera  40?
+ 36  ?Encolado  46?
+ 36  ?Rectificación  53?
+ 36  ?Participación  65?
+ 36  ?Reintegración de soportes deteriorados  70?
+ 36  ?Protección del reverso  72?
+ 36  ?Colgar y exponer tablas  75?
+ 36  ?El soporte textil  78?
+ 36  ?Deterioros y sus causas  80?
+ 36  ?Operaciones generales de restauración  90?
+ 36  ?Alternativas al entelado  105?
+ 36  ?Entelado  117?
+ 36  ?Marouflage  131?
+ 36  ?Transposición  133?
+ 36  ?División  133?
+ 36  ?Tejidos de entelado  134?
+ 36  ?Capas intermedias  135?
+ 36  ?Utensilios y aparatos  135?
+ 36  ?Adhesivos para el entelado 140?
+ 36  ?Materiales para la superestructura y para la infraestructura  143?
+ 36  ?Bastidores y marcos de trabajo  145?
+ 36  ?Clavos y grapas  151?
+ 36  ?La capa pictórica  154?
+ 36  ?Alteraciones condicionadas por la técnica pictórica  158?
+ 36  ?Cuarteado  165?
+ 36  ?Desprendimiento de capas, fallo del aglutinante 189?
+ 36  ?Fijación y consolidación de capas  207?
+ 36  ?Estucado  235?
+ 36  ?Retoque  257?
+ 36  ?El barniz  308?
+ 36  ?Barnices  313?
+ 36  ?Aplicación del barniz  321?
+ 36  ?La capa de barníz  325?
+ 36  ?Suciedad superficial  335?
+ 36  ?Limpieza  339?
+ 79  ?Conservación y restauración de pinturas?
+ 97  ?20021212?
+ 64  ?Español?
+995  ?20050713^t04:27:09 p.m.^bScristina?
+  9  ?Monografías?
+  3  ?^a702.88^bN639m?
+104  ?Mediateca?
+ 16  ?Nicolaus^bKnut?
+ 18  ?Manual de restauración de cuadros?
+ 38  ?Konemann?
+ 39  ?Koln?
+ 40  ?Du?
+ 20  ?425 p?
+ 43  ?1998?
+ 44  ?19980000?
+ 42  ?il?
+ 47  ?3-89508-649-5?
+995  ?20050713^t04:27:32 p.m.^bScristina?
+  2  ?181?
+..mfn=   182 
+  7  ?CC-ELJ?
+  3  ?^a709.46^bV945e?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000149?
+  9  ?Monografías?
+ 16  ?Von der Ropp^bInge^rfot?
+ 18  ?La España Arabe : legado de un paraiso?
+ 20  ?261 p?
+ 42  ?il?
+ 38  ?Casariego?
+ 43  ?1990?
+ 44  ?19900000?
+ 40  ?ES?
+ 70  ?Col.-ELJ?
+ 79  ?Arte^xHistoria?
+ 79  ?Arte islámico^xEspaña?
+ 87  ?Von der Ropp^bArved^rfot?
+ 87  ?Casamar^bManuel?
+ 87  ?Kugel^bChristiane?
+ 94  ?Fotog. de Inge Von der Ropp, Arved Von der Ropp, Manuel Casamar, Christiane Kugel?
+ 97  ?20021212?
+ 64  ?Español?
+ 39  ?Madrices?
+  2  ?182?
+..mfn=   183 
+  7  ?CC-ELJ?
+  3  ?^a704.9^bB838i?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000150?
+  9  ?Monografías?
+ 16  ?Brenske^bHelmut?
+ 18  ?Iconos?
+ 20  ?29, 48p?
+ 42  ?il?
+ 38  ?Editors?
+ 43  ?1992?
+ 44  ?19920000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-459-0166-4?
+ 70  ?Col.-ELJ?
+ 79  ?Imágenes e ídolos?
+ 79  ?Arte cristiano?
+ 79  ?Iconografía religiosa?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?183?
+..mfn=   184 
+  7  ?CC-ELJ?
+  3  ?^a759.6^bP659n?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000151?
+  9  ?Monografías?
+ 18  ?Pinturas negras de Goya?
+ 20  ?169 p?
+ 42  ?il?
+ 38  ?Tf. Editores?
+ 43  ?1997?
+ 44  ?19970000?
+ 40  ?ES?
+ 47  ?84-89162-75-1?
+ 70  ?Col.-ELJ?
+ 79  ?Goya y Lucientes, Francisco José, 1746-1828^xFotografías?
+ 79  ?Pinturas españolas?
+ 97  ?20021212?
+ 64  ?Español?
+ 39  ?Madrices?
+  2  ?184?
+..mfn=   185 
+  7  ?CC-ELJ?
+  3  ?^a741^bG253d?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000152?
+  9  ?Monografías?
+ 16  ?Gassier^bPierre?
+ 18  ?Dibujos de Goya : estudios para grabados y pinturas?
+ 20  ?579 p?
+ 42  ?il?
+ 38  ?Noguer?
+ 43  ?1975?
+ 44  ?19750000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-279-9712-4?
+ 70  ?Col.-ELJ?
+ 79  ?Goya y Lucientes, Francisco José, 1746-1828?
+ 79  ?Dibujo?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?185?
+..mfn=   186 
+  7  ?CC-ELJ?
+  3  ?^a709.46^bA668h?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000153?
+  9  ?Monografías?
+ 18  ?Historia del arte de España?
+ 20  ?575 p?
+ 42  ?il?
+ 38  ?Lunwerg?
+ 43  ?1996?
+ 44  ?19960000?
+ 40  ?ES?
+ 47  ?84-7782-397-6?
+ 70  ?Col.-ELJ?
+ 36  ?Prehistoria y primeros contactos con la antigüedad mediterránea  15?
+ 36  ?Arte romano en Hispania  33?
+ 36  ?De la antigüedad a la Edad Media. Cristianización. El mundo visigodo  59?
+ 36  ?Arte prerrománico y romántico  83?
+ 36  ?La España gótica  145?
+ 36  ?La presencia del Islam  203?
+ 36  ?El arte del Renacimiento  251?
+ 36  ?El barroco  293?
+ 36  ?Arte colonial hispanoamericano  347?
+ 36  ?Goya, al margen de los acontecimientos políticos de su tiempo  367?
+ 36  ?El siglo XIX : del neoclasicismo a la industria  379?
+ 36  ?El arte español entre 1900 y 1939  433?
+ 36  ?Picasso, el universalismo de una identidad española  363?
+ 36  ?El arte contemporáneo  475?
+ 79  ?Arte español^xHistoria?
+ 87  ?Barral i Altet^bXavier^red?
+ 94  ?bajo la direccion de Xavier Barral i Altet?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?186?
+..mfn=   187 
+  7  ?CC-ELJ?
+  3  ?^a709.46^bA354b?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000154?
+  9  ?Monografías?
+ 16  ?Alcolea^bSantiago?
+ 18  ?A brief art history of Spain?
+ 20  ?30 p?
+ 38  ?Lunwerg?
+ 43  ?1996?
+ 44  ?19960000?
+ 70  ?Col.-ELJ?
+ 36  ?Early christian and visigoth art  7?
+ 36  ?Hispano - moresque art  7?
+ 36  ?Mudéjar art  9?
+ 36  ?Asturian and mozarab art  9?
+ 36  ?Romanesque art  10?
+ 36  ?Cistercian austerity  13?
+ 36  ?Gothic art ( 13 th, 14 th & 15 th century )  13?
+ 36  ?16 th - century renaissance contributions  17?
+ 36  ?The development of the baroque 9 17 th & 18 th century )  20?
+ 36  ?Academic art and reaction to it ( 18 th - 19 th century )  24?
+ 36  ?Academic yearnings and the avant - garde coexist ( 20 th century )  27?
+ 79  ?Arte español^xHistoria?
+ 97  ?20021212?
+ 64  ?Inglés?
+  2  ?187?
+..mfn=   188 
+  7  ?CC-ELJ?
+  3  ?^a709.011^bA784s?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000155?
+101  ?^n005067^l2?
+  9  ?Monografías?
+ 17  ?L'Art des Sculpteurs Tainos Chefs-Geuvre des Grandes Antilles Precolombiennes (1994 : Musees de la Ville  de Paris)?
+ 18  ?L'art des Sculpteurs Tainos Chefs-D'oeuvre des grandes antilles precolombiennes?
+ 20  ?269 p?
+ 42  ?il?
+ 38  ?Musees de la Ville de Paris?
+ 43  ?1994?
+ 44  ?19940000?
+ 39  ?Paris?
+ 40  ?FR?
+ 47  ?2-87900-149-8?
+ 70  ?Col.-ELJ?
+ 70  ?Col.-FL?
+ 79  ?Arte precolombino?
+ 79  ?Tainos^xArte?
+ 87  ?Kerchache^bJacques^red?
+ 94  ?Sous la direction de Jacques Kerchache?
+ 97  ?20021212?
+ 64  ?Francés?
+  2  ?188?
+..mfn=   189 
+  7  ?CC-ELJ?
+  3  ?^a930.102804^bA951g?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000156?
+101  ?^n000157^l2?
+  9  ?Monografías?
+ 18  ?La aventura del Guandalupe : su viaje a la Española y su hundimmiento en la bahía de Samaná?
+ 20  ?171 p?
+ 42  ?il?
+ 42  ?map?
+ 42  ?tab?
+ 38  ?Lunwerg Editores?
+ 43  ?1997?
+ 44  ?19970000?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 47  ?84-7782-442-8?
+ 70  ?Col.-ELJ?
+ 79  ?Galeones?
+ 79  ?Tesoros ocultos?
+ 79  ?Arqueología submarina?
+ 87  ?Borrell^bPedro^red?
+ 87  ?Pérez Montás^bEugenio^red?
+ 87  ?Apestegui^bCruz^red?
+ 94  ?Coordinadores: Pedro Borrell, Eugenio Pérez Montás, Cruz Apestegui?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?189?
+..mfn=   190 
+  7  ?CC-ELJ?
+333  ?^pRD?
+  4  ?M?
+  6  ?m?
+ 70  ?Col.-ELJ?
+ 70  ?Col.-FL?
+ 97  ?20021212?
+  9  ?Monografías?
+  3  ?^a779^bG892d?
+104  ?Mediateca?
+ 17  ?Grupo Fotográfico Jueves 68?
+ 18  ?10 años de fotografía dominicana?
+ 38  ?E. León Jimenes?
+ 40  ?Do?
+ 20  ?148 p?
+ 43  ?1978?
+ 44  ?19780000?
+ 42  ?il?
+ 64  ?Español?
+ 79  ?Fotográfias^xRepública Dominicana?
+101  ?^n000158?
+101  ?^n003984^l2?
+980  ?^d20060304 015056 6  62?
+  2  ?190?
+..mfn=   191 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bP164C?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000160?
+  9  ?Monografías?
+ 16  ?Corredor-Matheos^bJosé?
+ 18  ?Pallarés : pintores españoles e iberoamericanos contemporáneos?
+ 20  ?179 p?
+ 42  ?il?
+ 38  ?Ediciones Cultura Hispánica?
+ 43  ?1990?
+ 44  ?19900000?
+ 40  ?ES?
+ 47  ?84-7232-600-4?
+ 70  ?Col.-ELJ?
+ 79  ?Pallarés, Jordi?
+ 79  ?Pintores españoles?
+ 79  ?Pinturas españolas?
+ 97  ?20021212?
+ 64  ?Español?
+ 39  ?Madrices?
+  2  ?191?
+..mfn=   192 
+  7  ?CC-ELJ?
+  3  ?^a246.55^bC957p?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000161?
+101  ?^n000162^l2?
+101  ?^n003981^l3?
+  9  ?Monografías?
+ 16  ?Cruz Valdovinos^bJosé Manuel?
+ 18  ?La platería de la catedral de Santo Domingo, primada de América?
+ 20  ?332 p?
+ 22  ?Colección Quinto Centenario.Serie Catedral Primada?
+ 42  ?il?
+ 38  ?Patronato de la Ciudad Colonial?
+ 43  ?1993?
+ 44  ?19930000?
+ 39  ?Santo Domingo?
+ 40  ?DO?
+ 47  ?84-7952-114-7?
+ 70  ?Col.-ELJ?
+ 70  ?Col.-FL?
+ 79  ?Objetos de Plata^xRepública Dominicana?
+ 79  ?Objetos Litúrgicos^xRepública Dominicana?
+ 79  ?Iglesia Católica^xObjetos litúrgicos?
+ 87  ?Escalera Ureña^bAndrés?
+ 87  ?Pérez Montás^bEugenio^red?
+ 94  ?José Manuel Cruz Valdovinos, Andrés Escalera Ureña; Eugenio Pérez Motás, editor?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?192?
+..mfn=   193 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bK16B?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000163?
+  9  ?Monografías?
+ 16  ?Becks-Malorny^bUlrike?
+ 18  ?Vasili Kandinsky 1866-1944 : en camino hacia la abstracción?
+ 20  ?199 p?
+ 42  ?il?
+ 38  ?Taschen?
+ 43  ?1999?
+ 44  ?19990000?
+ 39  ?Koln?
+ 40  ?DE?
+ 47  ?3-8228-7013-7?
+ 70  ?Col.-ELJ?
+ 36  ?Los comienzos en Múnich  6?
+ 36  ?En camino hacia la abstracción  22?
+ 36  ?De lo espiritual en el arte  54?
+ 79  ?Kandinsky, Wassily, 1866-1944?
+ 79  ?Pintores rusos?
+ 79  ?Pinturas rusas?
+ 94  ?Ulrike Becks-Malorny?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?193?
+..mfn=   194 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bM742H?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000164?
+  9  ?Monografías?
+ 16  ?Heinrich^bChristoph?
+ 18  ?Claude Monet, 1840-1926?
+ 20  ?96 p?
+ 42  ?il?
+ 38  ?Benedikt Taschen?
+ 43  ?1994?
+ 44  ?19940000?
+ 39  ?Koln?
+ 40  ?De?
+ 47  ?3-8228-9550-4?
+ 70  ?Col.-ELJ?
+ 79  ?Monet, Claude, 1840-1926?
+ 79  ?Pintores franceses?
+ 79  ?Pinturas francesas?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?194?
+..mfn=   195 
+  7  ?CC-ELJ?
+  3  ?^a741.092^bG613W?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000165?
+  9  ?Monografías?
+ 16  ?Wolk^bJohannes van der?
+ 18  ?Vincent van Gogh : dibujos?
+ 20  ?336 p?
+ 42  ?il?
+ 38  ?Arnaldo Mondadori Editore, Arte; Roma : De Luca Edizione D'arte?
+ 43  ?1990?
+ 44  ?19900000?
+ 39  ?Milán?
+ 40  ?IT?
+ 47  ?88-242-0026-5?
+ 70  ?Col.-ELJ?
+ 79  ?Gogh, Vincent Willem van, 1853-1890?
+ 79  ?Dibujo?
+ 87  ?Pickvance^bRonald?
+ 87  ?Pey^bE. B. F?
+ 94  ?Johannes van der Wolk, Ronald Pickvance y E. B. F. Pey?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?195?
+..mfn=   196 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bG613M?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000166?
+  9  ?Monografías?
+ 16  ?Metzger^bRainer?
+ 18  ?Vincent Van Gogh, 1853-1890?
+ 20  ?256 p?
+ 42  ?il?
+ 38  ?Taschen?
+ 43  ?1998?
+ 44  ?19980000?
+ 39  ?Koln?
+ 40  ?DE?
+ 47  ?3-8228-7372-1?
+ 70  ?Col.-ELJ?
+ 36  ?La gestación del artista 1853-1883  6?
+ 36  ?La época en Nuenen 1883-1885  38?
+ 36  ?La experiencia de la gran ciudad Amberes y París, 1885-1888  60?
+ 36  ?Pintura y utopía Arles, febrero 1888-mayo 1889  94?
+ 36  ?Casi un grito de miedo Saint-Rémy, mayo 1889-mayo 1890  178?
+ 36  ?Acorde final Auvers-sur-Oise, mayo-junio 1890  222?
+ 36  ?Vida y obra  252?
+ 79  ?Gogh, Vincent Willem van, 1853-1890?
+ 79  ?Pintores alemanes?
+ 79  ?Pinturas alemanas?
+ 87  ?Walther^bLugo F?
+ 94  ?Rainer Metzger, Ingo F. Walther?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?196?
+..mfn=   197 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bG613Wa?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000167?
+  9  ?Monografías?
+ 16  ?Walther^bIngo F?
+ 18  ?Vincent van Gogh, 1853-1890 : Visión y realidad?
+ 20  ?95 p?
+ 42  ?il?
+ 38  ?Benedikt Taschen?
+ 43  ?1993?
+ 44  ?19930000?
+ 39  ?Koln?
+ 40  ?DE?
+ 47  ?3-8228-0103-8?
+ 70  ?Col.-ELJ?
+ 79  ?Gogh, Vincent Willem van, 1853-1890?
+ 79  ?Pintores alemanes?
+ 79  ?Pinturas alemanas?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?197?
+..mfn=   198 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bG613V?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000168?
+  9  ?Monografías?
+ 16  ?Vitert^bEvert van?
+ 16  ?Tilborgh^bLouis van?
+ 16  ?Heugten^bSjraar van?
+ 18  ?Vincent van Gogh : pinturas?
+ 20  ?292 p?
+ 42  ?il?
+ 38  ?Arnoldo Mondadori Editore, Arte: Roma : De Luca Edizione D'arte?
+ 43  ?1990?
+ 44  ?19900000?
+ 39  ?Milán?
+ 40  ?IT?
+ 47  ?88-242-0026-5?
+ 70  ?Col.-ELJ?
+ 97  ?20021212?
+800  ?portadaobra.jpg^dFotografia de un objeto de museo?
+810  ?planton.doc^dEjemplo de un documento en Word?
+820  ?SoniaSilvestre-Ojala.mp3^dCancion de Sonia Silvestre?
+830  ?videoeducativo.mpeg^dEjemplo de Viedo Educativo?
+995  ?20030706^t11:03:12 a.m.^bGPM?
+ 64  ?Español?
+ 76  ?multimedia?
+ 76  ?ccelj?
+ 79  ?Gogh, Vincent Willem van, 1853^x1890?
+ 79  ?Pintores alemanes?
+ 79  ?Pinturas alemanas?
+995  ?20030706^t11:05:06 a.m.^bGPM?
+  2  ?198?
+..mfn=   199 
+  7  ?CC-ELJ?
+  3  ?^a750.92^bC425H?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000169?
+  9  ?Monografías?
+ 16  ?Howard^bMichael?
+ 18  ?Cezanne?
+ 20  ?176 p?
+ 42  ?il?
+ 38  ?LIBSA?
+ 43  ?1992?
+ 44  ?19920000?
+ 40  ?ES?
+ 70  ?Col.-ELJ?
+ 79  ?Cezanne, Paul, 1839-1906?
+ 79  ?Pintores franceses?
+ 79  ?Pinturas francesas?
+ 97  ?20021212?
+ 64  ?Español?
+ 39  ?Madrices?
+  2  ?199?
+..mfn=   200 
+  7  ?CC-ELJ?
+  3  ?^a700.97293^bC744c^c1998?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000170?
+101  ?^n000171^l2?
+101  ?^n000172^l3?
+  9  ?Monografías?
+ 17  ?Concurso de Arte Eduardo León Jimenes (17 : 1998 : Santiago de los Caballeros)?
+ 18  ?Catálogo de obras 1998?
+ 42  ?il?
+ 38  ?E. León Jimenes?
+ 43  ?1998?
+ 44  ?19980000?
+ 39  ?Santiago de los Caballeros?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 79  ?Arte dominicano^xConcursos?
+ 79  ?Pinturas dominicanas^xConcursos?
+ 79  ?Escultura dominicana^xConcursos?
+ 79  ?Dibujo^xConcursos?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?200?
+..mfn=   201 
+  7  ?CC-ELJ?
+  3  ?^a759.97293^bV427j?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000173?
+  9  ?Monografías?
+ 18  ?<25=Veinticinco> jóvenes pintores dominicanos para las Américas?
+ 20  ?72 p?
+ 42  ?il?
+ 38  ?Oficina de la Secretaría General de la OEA en la República Dominicana?
+ 43  ?1986?
+ 44  ?19860000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 79  ?Pinturas dominicanas^xExposiciones?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?201?
+..mfn=   202 
+  7  ?CC-ELJ?
+  3  ?^a759.6^bF477r?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000174?
+  9  ?Monografías?
+ 18  ?La figuración renovadora : pintores de la Escuela de Paris y de la Escuela de Madrid?
+ 20  ?118 p?
+ 22  ?Colección Telefónica?
+ 42  ?il?
+ 38  ?Fundación Arte y Tecnología?
+ 43  ?1998?
+ 44  ?19980000?
+ 40  ?ES?
+ 47  ?84-89884-03-x?
+ 70  ?Col.-ELJ?
+ 79  ?Pintores españoles?
+ 79  ?Pinturas Españolas?
+ 97  ?20021212?
+ 64  ?Español?
+ 39  ?Madrices?
+  2  ?202?
+..mfn=   203 
+  7  ?CC-ELJ?
+  3  ?^a779^bO39s?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000175?
+  9  ?Monografías?
+ 18  ?Ojo, son de España : Pilar Aymench, Colita, Silvia T. Colmenero, Cristina G. Rodero, Isabel Muñoz, Ana Torralva?
+ 20  ?68 p?
+ 38  ?Centro Cultural Español?
+ 43  ?1997?
+ 44  ?19970000?
+ 39  ?Santo Domingo?
+ 40  ?DO?
+ 70  ?Col.-ELJ?
+ 79  ?Fotografías^xExposiciones?
+ 87  ?Borras^bMaria Lluisa?
+ 94  ?Curadora Maria Lluisa Borras?
+ 52  ?Centro Cultural Español?
+ 53  ?Ojo, son de España (1997 : Santo Domingo)?
+ 54  ?Santo Domingo?
+ 55  ?DO?
+ 56  ?1997?
+ 57  ?19970000?
+995  ?20021212^t12:12:49^bGPM?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?203?
+..mfn=   204 
+  7  ?CC-ELJ?
+  3  ?^a737^bA473i?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000176?
+  9  ?Monografías?
+ 16  ?Alvarez Rey^bAvelino?
+ 18  ?Introducción a la numismática?
+ 20  ?141 p?
+ 42  ?il?
+ 38  ?Banco Central de la República Dominicana?
+ 43  ?2000?
+ 44  ?20000000?
+ 39  ?Santo Domingo?
+ 40  ?DO?
+ 47  ?99934-030-00-5?
+ 70  ?Col.-ELJ?
+ 36  ?Historia de la moneda  20?
+ 36  ?Orígenes de la moneda y su desarrollo en la Edad Antigüa (hasta el año 476 D. C., caída del Imperio Romano)  21?
+ 36  ?El trueque y la moneda no metálica  21?
+ 36  ?Surgimiento del circulante metálico  22?
+ 36  ?Instauración de la moneda acuñada, siglo VII A.C. Los pioneros, Lidia y los griegos  23?
+ 36  ?El experimento de la acuñación oriental (China y Japón)  24?
+ 36  ?Roma (753 A.C. -476 D.C.)  25?
+ 36  ?La moneda en Hispania  27?
+ 36  ?Monedas prerromanas (hasta el 218 A.C.)  27?
+ 36  ?Monedas hispanorromanas (acuñadas bajo la dominación  romana  27?
+ 36  ?Edad Media, s. V-XV (476, desde la caída del Imperio Romano-1450 hasta el surgimiento del Renacimiento)  29?
+ 36  ?La moneda en los albores de la Edad Media (Edad de la Fe), s. V-X (400-999)  29?
+ 36  ?La moneda en plena Edad Media s. XI-XII (1000-1199)  34?
+ 36  ?La moneda en la baja Edad Media siglo XIII-XV (1200-1499)  36?
+ 36  ?Denarios, pfenings y augustalis  36?
+ 36  ?Florines y libras  37?
+ 36  ?Edad Moderna, s. XVI-XVIII (1453, caída del Imperio Bizantino; 1789, Revolución Francesa) 39?
+ 36  ?Estilo renacentista  s.XVI (1450-1660)  39?
+ 36  ?Imperio Otomano (1453-1837)  39?
+ 36  ?Monedas de los estados alemanes  (marco, thaler y gulden)  40?
+ 36  ?Cantones suizos  41?
+ 36  ?Otros países  41?
+ 36  ?Estilo barroco s. XVII (mediados s. XVI-1715)  42?
+ 36  ?Estilo rococó s. XVIII (1715, muerte de Luis XIV, Rey Sol : 1793, ejecución de Luis XVI)  42?
+ 36  ?El árbol genealógico de las monedas  43?
+ 36  ?Objetos utilizados como monedas en el s. XVIII  44?
+ 36  ?Edad contemporánea, s. XIX (1789 Revolución Francesa hasta nuestros días) 45?
+ 36  ?Europa  46?
+ 36  ?América   50?
+ 36  ?Repúblicas hispanoamericanas  50?
+ 36  ?Repúblicas de la América Central  y de los virreinatos del Perú y del Río de la Plata. Países del Caribe  52?
+ 36  ?Colonias europeas en América  55?
+ 36  ?Africa, Asia y Oceanía  56?
+ 36  ?Colonias europeas en Africa  58?
+ 36  ?Asia  60?
+ 36  ?Oceanía  63?
+ 36  ?Identificación, clasificación y catalogación de monedas, billetes y medallas  65?
+ 36  ?Partes de una moneda, definiciones  67?
+ 36  ?Distintos valores de las monedas  70?
+ 36  ?Características que definen una moneda  70?
+ 36  ?Alineación de la moneda y de la medalla  71?
+ 36  ?Diversas formas de monedas  72?
+ 36  ?Clasificación etimológica de las monedas  74?
+ 36  ?Acuñación de monedas  78?
+ 36  ?Defectos de acuñación de monedas  82?
+ 36  ?Defectos en las monedas  83?
+ 36  ?Pasos para acuñar una moneda en algunas cecas  86?
+ 36  ?Clasificación de monedas  94?
+ 36  ?Grados de conservación de las monedas  98?
+ 36  ?Valoración de monedas de metales preciosos  100?
+ 36  ?Términos de las medallas  101?
+ 36  ?Fabricación de billetes de banco  101?
+ 36  ?Características importantes del papel moneda  110?
+ 36  ?Cuadro clasificador de billetes  111?
+ 36  ?Sistema de numeración romana  112?
+ 36  ?Equivalencias y conversiones  114?
+ 36  ?Falsificación de billetes y monedas. Medidas de seguridad y falsificación de billetes : el caso de la República Dominicana  119?
+ 36  ?Falsificación de monedas  136?
+ 79  ?Numismática?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?204?
+..mfn=   205 
+  7  ?CC-ELJ?
+  3  ?^a782.0092^bB862a?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000177?
+101  ?^n004820^l2?
+101  ?^n004821^l3?
+101  ?^n004822^l4?
+  9  ?Monografías?
+ 18  ?El Album de Eduardo Brito?
+ 20  ?180 p?
+ 42  ?il?
+ 38  ?Secretaría de Estado de Educación, Bellas Artes y Cultos?
+ 43  ?1994?
+ 44  ?19940000?
+ 39  ?Santo Domingo?
+ 40  ?Do?
+ 70  ?Col.-ELJ?
+ 70  ?Col.-FL?
+ 79  ?Brito, Eduardo, 1906-1946?
+ 79  ?Cantantes?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?205?
+..mfn=   206 
+  7  ?CC-ELJ?
+  3  ?^a709.7293^bA786do?
+333  ?^pRD?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000178?
+  9  ?Monografías?
+ 18  ?Arte dominicano, artistas españoles y modernidad, 1920-1961?
+ 20  ?79 p?
+ 42  ?il?
+ 38  ?Centro Cultural Hispánico?
+ 43  ?1996?
+ 44  ?19960000?
+ 39  ?Santo Domingo?
+ 40  ?DO?
+ 70  ?Col.-ELJ?
+ 79  ?Arte dominicano^xInfluencia española?
+ 79  ?Arte dominicano^xBiografías?
+ 79  ?Arte español^xBiografías?
+ 87  ?Ugarte^bMaría^r1914-?
+ 87  ?Miller^bjeannette^r1944-?
+ 94  ?Curadora : Jeannette Miller; Textos : María Ugarte y Jeannette Miller?
+ 97  ?20021212?
+ 64  ?Español?
+  2  ?206?
+..mfn=   207 
+  7  ?CC-ELJ?
+  4  ?M?
+  6  ?m?
+101  ?^n000179?
+ 70  ?Col.-ELJ?
+ 79  ?Fotografía^xGuías?
+ 97  ?20021212?
+ 64  ?Español?
+  9  ?Monografías?
+  3  ?^a771^bA318f?
+104  ?Mediateca?
+ 16  ?Alamany^bOriol?
+ 18  ?Fotografíar la naturaleza : una guía para hacer las mejores fotografías?
+ 38  ?Planeta?
+ 39  ?Barcelona?
+ 40  ?ES?
+ 41  ?2. ed?
+ 20  ?248 p?
+ 43  ?1998?
+ 44  ?19980000?
+ 42  ?il?
+995  ?20050907^t11:19:15 p.m.^bScristina?
+  2  ?207?
+..mfn=   208 
+  7  ?CC-ELJ?
+333  ?^pRD?
+101  ?^n000180?
+ 70  ?Col.-ELJ?
+ 53  ?Festival Internacional de la Fotografía de Santo Domingo (1993 : Santo Domingo)?
+ 54  ?Santo  Domingo?
+ 55  ?DO?
+ 56  ?1993?
+ 57  ?19930000?
+995  ?20021212^t12:13:40^bGPM?
+ 97  ?20021212?
+  4  ?M?
+  6  ?m?
+  9  ?Monografías?
+  3  ?^a^b779^cF418i?
+104  ?Mediateca?
+ 18  ?Festival Internacional de la Fotografía de Santo Domingo?
+ 38  ?Editora Tele 3?
+ 39  ?Santo Domingo?
+ 40  ?DO?
+ 20  ?109 p?
+ 43  ?1993?
+ 44  ?19930000?
+ 42  ?il?
+ 64  ?Español?
+ 64  ?Inglés?
+ 79  ?Fotografías^xExposiciones?
+980  ?guilda^d20080414 032725 1 104?
+  2  ?208?
+..mfn=   209 
+  7  ?CC-ELJ?
+  3  ?^a759.6^bB878e?
+104  ?Mediateca?
+  4  ?M?
+  6  ?m?
+101  ?^n000181?
+  9  ?Monografías?
+ 16  ?Brown^bJonathan?
+ 18  ?La edad de oro de la pintura en España?
+ 20  ?326 p?
+ 42  ?il?
+ 38  ?Nerea?
+ 41  ?2. ed?
+ 43  ?1990?
+ 44  ?19900000?
+ 40  ?ES?
+ 47  ?84-86763-48-7?
+ 70  ?Col.-ELJ?
+ 79  ?Pintura española^xHistoria?
+ 97  ?20021212?
+ 97  ?19990211?
+ 64  ?Español?
+ 39  ?Madrices?
+  2  ?209?
+..mfn=   210 
+800  ?elnacional.jpg^dArticulo del periodico El Nacional?
+ 64  ?Español?
+ 76  ?Multimedia?
+ 76  ?Salud?
+ 72  ?Recorte de periodico relacionado con la Salud?
+  4  ?S?
+  6  ?a?
+ 97  ?20030404?
+ 91  ?GPM?
+995  ?20030404^t09:39:57 a.m.^bGPM?
+  9  ?Artículo de periódico?
+104  ?Mediateca?
+ 10  ?Penzini^bPedro?
+ 12  ?Correr es Vivir?
+ 14  ?1-2?
+ 30  ?El Nacional?
+ 38  ?El Nacional?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?2003?
+ 43  ?2003?
+995  ?20030514^t10:12:28 a.m.^bGPM?
+  2  ?210?
+..mfn=   211 
+ 97  ?20030404?
+ 91  ?GPM?
+995  ?20030404^t09:43:54 a.m.^bGPM?
+995  ?20030514^t10:12:42 a.m.^bGPM?
+  4  ?S?
+  6  ?a?
+  9  ?Artículo de periódico?
+104  ?Mediateca?
+ 10  ?Gorrochategui^bAlfredo^reditor)?
+ 12  ?Amar?
+ 14  ?1-2?
+ 30  ?El Universal?
+ 38  ?El Universal?
+ 39  ?Caracas?
+ 40  ?Venezuela?
+ 44  ?20010701?
+ 43  ?2001?
+ 76  ?Multimedia?
+ 76  ?Psicología?
+800  ?eluniversal.jpg^dArticulo del periodico El Universal?
+980  ?^d20060309 153541 4  67?
+  2  ?211?
+..mfn=   212 
+750  ?5?
+ 64  ?Español?
+ 76  ?ADMINISTRACION?
+995  ?20000301^t04:37:58 p.m.^bGPM?
+  9  ?Revista colección?
+104  ?Centro de Documentación?
+ 30  ?ADMINISTRACION DE EMPRESAS?
+ 38  ?Ediciones Contabilidad Moderna?
+ 39  ?Buenos Aires?
+ 40  ?Argentina?
+310  ?Subscripción?
+370  ?Mensual?
+300  ?Suspendida?
+340  ?Impresa?
+330  ?CENDES?
+995  ?20030514^t10:25:37 a.m.^bGPM?
+  4  ?S?
+  6  ?s?
+ 43  ?1977?
+ 31  ?8?
+ 32  ?86?
+ 36  ?Tabla de contenido?
+ 36  ?tabla de contenido linea 2?
+  2  ?212?
+..mfn=   213 
+ 29  ?Amigo del Hogar?
+ 79  ?Administración?
+ 80  ?Ciencias Sociales?
+  4  ?K?
+  6  ?k?
+ 97  ?20050711?
+ 91  ?Scristina?
+750  ?19?
+995  ?20050711^t12:35:27 p.m.^bScristina?
+  2  ?213?
+..mfn=   214 
+  4  ?K?
+  6  ?k?
+ 97  ?20050711?
+ 91  ?Scristina?
+750  ?20?
+995  ?20050711^t12:37:24 p.m.^bScristina?
+ 30  ?titulo de la revista mfn 219?
+995  ?20050711^t12:37:54 p.m.^bScristina?
+  2  ?214?
+..mfn=   215 
+  9  ?Bibliografías?
+104  ?Documento digitalizado?
+ 16  ?Ana Maria Sanjuán?
+ 18  ?titulo 223?
+  4  ?M?
+  6  ?m?
+ 97  ?20050907?
+ 91  ?Scristina?
+995  ?20050907^t11:21:16 p.m.^bScristina?
+995  ?20050907^t11:21:55 p.m.^bScristina?
+800  ?vzla.gif^dimagen de venezuela?
+995  ?20050907^t11:22:28 p.m.^bScristina?
+  2  ?215?
+..mfn=   216 
+  9  ?sjkdsjkhdkshd shds khdks?
+  4  ?M?
+  6  ?m?
+ 97  ?20050907?
+ 91  ?Scristina?
+995  ?20050907^t11:38:45 p.m.^bScristina?
+  2  ?216?
+..mfn=   217 
+ 97  ?20050907?
+ 91  ?Scristina?
+995  ?20050907^t11:39:18 p.m.^bScristina?
+995  ?20050907^t11:39:26 p.m.^bScristina?
+995  ?20050907^t11:40:21 p.m.^bScristina?
+  4  ?T?
+  6  ?m?
+  9  ?hshkshdshhskhkshkshkhdskhdkshd?
+  3  ?/ 246.55/ C957pv?
+104  ?225?
+  2  ?217?
+..mfn=   218 
+980  ?^d20051105 103617 6 308?
+  4  ?M?
+  6  ?m?
+  9  ?Revista colección?
+  3  ?^a^b^a246.55^cC957pv?
+104  ?Hemeroteca ?
+ 16  ?Ascencio^bGuilda^rinstructor) modificado?
+ 18  ?prueba de actualizacion?
+101  ?      Documentalista                                          z?
+  2  ?218?
+..mfn=   219 
+  4  ?M?
+  6  ?m?
+  2  ?219?
+..mfn=   220 
+  4  ?M?
+  6  ?m?
+  9  ?Documentos no Convencionales?
+  3  ?^a^b382.987^cAl38^dd?
+104  ?Biblioteca?
+ 18  ?Algunas consideraciones para un programa de intercambio compensado?
+ 38  ?s.n.?
+ 39  ?s.l.?
+ 40  ?Venezuela?
+ 20  ?3 h.?
+ 43  ?1990?
+ 44  ?19900000?
+ 42  ?28 cm.?
+ 21  ?1?
+ 64  ?Español?
+ 74  ?1990?
+ 76  ?Automatización?
+ 76  ?Diversificación de Exportaciones?
+ 76  ?Comercio Exterior?
+ 80  ?Comercio?
+ 82  ?Venezuela?
+ 86  ?PIC?
+ 37  ?Fotocopia?
+ 72  ?tabla de contenido del último registro?
+101  ?^n0044^m1^l1^rEdiciones Torán^w20010719^zGPM?
+  2  ?220?
+..mfn=   221 
+  4  ?M?
+  6  ?m?
+  9  ?Documentos no Convencionales?
+  3  ?^a^b^c382.987^dAl38^ed?
+104  ?Biblioteca?
+ 18  ?Algunas consideraciones para un programa de intercambio compensado?
+ 38  ?s.n.?
+ 39  ?s.l.?
+ 40  ?Venezuela?
+ 20  ?3 h.?
+ 43  ?1990?
+ 44  ?19900000?
+ 42  ?28 cm.?
+ 21  ?1?
+ 64  ?Español?
+ 74  ?1990?
+ 76  ?Automatización?
+ 76  ?Diversificación de Exportaciones?
+ 76  ?Comercio Exterior?
+ 80  ?Comercio?
+ 82  ?Venezuela?
+ 86  ?PIC?
+ 37  ?Fotocopia?
+ 72  ?tabla de contenido del último registro ultimo de la lista?
+101  ?^n0044^m1^l1^rEdiciones Torán^w20010719^zGPM?
+  2  ?221?
+..mfn=   222 
+  4  ?M?
+  6  ?m?
+  9  ?Documentos no Convencionales?
+  3  ?^a^b^c382.987^dAl38^ed?
+104  ?Biblioteca?
+ 18  ?Algunas consideraciones para un programa de intercambio compensado?
+ 38  ?s.n.?
+ 39  ?s.l.?
+ 40  ?Venezuela?
+ 20  ?3 h.?
+ 43  ?1990?
+ 44  ?19900000?
+ 42  ?28 cm.?
+ 21  ?1?
+ 64  ?Español?
+ 74  ?1990?
+ 76  ?Automatización?
+ 76  ?Diversificación de Exportaciones?
+ 76  ?Comercio Exterior?
+ 80  ?Comercio?
+ 82  ?Venezuela?
+ 86  ?PIC?
+ 37  ?Fotocopia?
+ 72  ?tabla de contenido del último registro ultimo de la lista?
+101  ?^n0044^m1^l1^rEdiciones Torán^w20010719^zGPM?
+  2  ?222?
+..mfn=   223 
+  4  ?M?
+  6  ?m?
+  9  ?Documentos no Convencionales?
+  3  ?^a^b^c382.987^dAl38^ed?
+104  ?Biblioteca?
+ 18  ?Algunas consideraciones para un programa de intercambio compensado?
+ 38  ?s.n.?
+ 39  ?s.l.?
+ 40  ?Venezuela?
+ 20  ?3 h.?
+ 43  ?1990?
+ 44  ?19900000?
+ 42  ?28 cm.?
+ 21  ?1?
+ 64  ?Español?
+ 74  ?1990?
+ 76  ?Automatización?
+ 76  ?Diversificación de Exportaciones?
+ 76  ?Comercio Exterior?
+ 80  ?Comercio?
+ 82  ?Venezuela?
+ 86  ?PIC?
+ 37  ?Fotocopia?
+ 72  ?tabla de contenido del último registro ultimo de la lista?
+101  ?^n0044^m1^l1^rEdiciones Torán^w20010719^zGPM?
+  2  ?223?
+..mfn=   224 
+  4  ?M?
+  6  ?m?
+  9  ?Documentos no Convencionales?
+  3  ?^a^b^c382.987^dAl38^ed?
+104  ?Biblioteca?
+ 18  ?Algunas consideraciones para un programa de intercambio compensado?
+ 38  ?s.n.?
+ 39  ?s.l.?
+ 40  ?Venezuela?
+ 20  ?3 h.?
+ 43  ?1990?
+ 44  ?19900000?
+ 42  ?28 cm.?
+ 21  ?1?
+ 64  ?Español?
+ 74  ?1990?
+ 76  ?Automatización?
+ 76  ?Diversificación de Exportaciones?
+ 76  ?Comercio Exterior?
+ 80  ?Comercio?
+ 82  ?Venezuela?
+ 86  ?PIC?
+ 37  ?Fotocopia?
+ 72  ?tabla de contenido del último registro ultimo de la lista?
+101  ?^n0044^m1^l1^rEdiciones Torán^w20010719^zGPM?
+  2  ?224?
+..
